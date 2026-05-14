@@ -1,0 +1,606 @@
+{
+  "mapped": [
+    {
+      "file": "Nandi_100_bogol.m4a",
+      "id": "p052_bogol_num",
+      "via": "headword",
+      "kind": "primary"
+    },
+    {
+      "file": "Nandi_10_lakwet.m4a",
+      "id": "p171_lakwet_n",
+      "via": "priority",
+      "kind": "primary"
+    },
+    {
+      "file": "Nandi_11_chi.m4a",
+      "id": "p073_chiget_n",
+      "via": "priority",
+      "kind": "primary"
+    },
+    {
+      "file": "Nandi_12_bek.m4a",
+      "id": "p038_bek_n",
+      "via": "priority",
+      "kind": "primary"
+    },
+    {
+      "file": "Nandi_13_kot.m4a",
+      "id": "p151_kot_adv",
+      "via": "priority",
+      "kind": "primary"
+    },
+    {
+      "file": "Nandi_14_met.m4a",
+      "id": "p194_metit_n",
+      "via": "priority",
+      "kind": "primary"
+    },
+    {
+      "file": "Nandi_15_bo.m4a",
+      "id": "p052_bo_p",
+      "via": "priority",
+      "kind": "primary"
+    },
+    {
+      "file": "Nandi_16_ak.m4a",
+      "id": "p027__ak_af",
+      "via": "priority",
+      "kind": "primary"
+    },
+    {
+      "file": "Nandi_17_mo.m4a",
+      "id": "p197_mobet_n",
+      "via": "priority",
+      "kind": "primary"
+    },
+    {
+      "file": "Nandi_18_let.m4a",
+      "id": "p176_letut_n",
+      "via": "priority",
+      "kind": "primary"
+    },
+    {
+      "file": "Nandi_19_get.m4a",
+      "id": "p120_ke_get_vt",
+      "via": "priority",
+      "kind": "primary"
+    },
+    {
+      "file": "Nandi_1_ke.m4a",
+      "id": "p085_ke_eb_vt",
+      "via": "priority",
+      "kind": "primary"
+    },
+    {
+      "file": "Nandi_20_chego.m4a",
+      "id": "p059_chego_n",
+      "via": "priority",
+      "kind": "primary"
+    },
+    {
+      "file": "Nandi_21_oret.m4a",
+      "id": "p241_oret_n",
+      "via": "priority",
+      "kind": "primary"
+    },
+    {
+      "file": "Nandi_22_teta.m4a",
+      "id": "p289_teta_n",
+      "via": "priority",
+      "kind": "primary"
+    },
+    {
+      "file": "Nandi_23_eng_.m4a",
+      "id": "p087_eng'_p",
+      "via": "priority",
+      "kind": "primary"
+    },
+    {
+      "file": "Nandi_24_konom.m4a",
+      "id": "p149_konom_num",
+      "via": "headword",
+      "kind": "primary"
+    },
+    {
+      "file": "Nandi_25_set.m4a",
+      "id": "p262_seta_a",
+      "via": "priority",
+      "kind": "primary"
+    },
+    {
+      "file": "Nandi_26_bik.m4a",
+      "id": "p042_bik_n",
+      "via": "priority",
+      "kind": "primary"
+    },
+    {
+      "file": "Nandi_27_ka.m4a",
+      "id": "p102_ka_n",
+      "via": "priority",
+      "kind": "primary"
+    },
+    {
+      "file": "Nandi_28_mie.m4a",
+      "id": "p194_mie_a",
+      "via": "priority",
+      "kind": "primary"
+    },
+    {
+      "file": "Nandi_29_bor.m4a",
+      "id": "p046_borbor_a",
+      "via": "priority",
+      "kind": "primary"
+    },
+    {
+      "file": "Nandi_2_ki.m4a",
+      "id": "p052_ki_bo_vt",
+      "via": "priority",
+      "kind": "primary"
+    },
+    {
+      "file": "Nandi_30_kut.m4a",
+      "id": "p158_kutet_n",
+      "via": "priority",
+      "kind": "primary"
+    },
+    {
+      "file": "Nandi_31_ya.m4a",
+      "id": "p316_ya_a",
+      "via": "priority",
+      "kind": "primary"
+    },
+    {
+      "file": "Nandi_32_ok.m4a",
+      "id": "p323_okwet_n",
+      "via": "priority",
+      "kind": "primary"
+    },
+    {
+      "file": "Nandi_33_arap.m4a",
+      "id": "p031_arap_n",
+      "via": "priority",
+      "kind": "primary"
+    },
+    {
+      "file": "Nandi_34_yo.m4a",
+      "id": "p320_yo_adv",
+      "via": "priority",
+      "kind": "primary"
+    },
+    {
+      "file": "Nandi_35_che.m4a",
+      "id": "p056_ke_che_vt",
+      "via": "priority",
+      "kind": "primary"
+    },
+    {
+      "file": "Nandi_36_si.m4a",
+      "id": "p263_sibit_n",
+      "via": "priority",
+      "kind": "primary"
+    },
+    {
+      "file": "Nandi_37_ketit.m4a",
+      "id": "p120_ketit_n",
+      "via": "priority",
+      "kind": "primary"
+    },
+    {
+      "file": "Nandi_38_ng_al.m4a",
+      "id": "p220_ke_ng'al_vt",
+      "via": "priority",
+      "kind": "primary"
+    },
+    {
+      "file": "Nandi_39_mat.m4a",
+      "id": "p188_mat_n",
+      "via": "priority",
+      "kind": "primary"
+    },
+    {
+      "file": "Nandi_3_ko.m4a",
+      "id": "p145_kobob_adv",
+      "via": "priority",
+      "kind": "primary"
+    },
+    {
+      "file": "Nandi_40_manget.m4a",
+      "id": "p185_manget_n",
+      "via": "headword",
+      "kind": "primary"
+    },
+    {
+      "file": "Nandi_42_long.m4a",
+      "id": "p180_long'et_n",
+      "via": "priority",
+      "kind": "primary"
+    },
+    {
+      "file": "Nandi_43_kutit.m4a",
+      "id": "p158_kutit_n",
+      "via": "priority",
+      "kind": "primary"
+    },
+    {
+      "file": "Nandi_44_ma.m4a",
+      "id": "p184_maget_n",
+      "via": "priority",
+      "kind": "primary"
+    },
+    {
+      "file": "Nandi_46_ingoro.m4a",
+      "id": "p095_ingoro_adv",
+      "via": "priority",
+      "kind": "primary"
+    },
+    {
+      "file": "Nandi_47_bom.m4a",
+      "id": "p046_bombo_n",
+      "via": "priority",
+      "kind": "primary"
+    },
+    {
+      "file": "Nandi_48_asis.m4a",
+      "id": "p032_asista_n",
+      "via": "priority",
+      "kind": "primary"
+    },
+    {
+      "file": "Nandi_49_ole.m4a",
+      "id": "p240_ole_adv",
+      "via": "priority",
+      "kind": "primary"
+    },
+    {
+      "file": "Nandi_4_kei.m4a",
+      "id": "p111_keit_n",
+      "via": "priority",
+      "kind": "primary"
+    },
+    {
+      "file": "Nandi_50_seset.m4a",
+      "id": "p262_seset_n",
+      "via": "priority",
+      "kind": "primary"
+    },
+    {
+      "file": "Nandi_51_ingwek.m4a",
+      "id": "p096_ingwek_n",
+      "via": "priority",
+      "kind": "primary"
+    },
+    {
+      "file": "Nandi_52_age.m4a",
+      "id": "p028_agenge_num",
+      "via": "priority",
+      "kind": "primary"
+    },
+    {
+      "file": "Nandi_53_ter.m4a",
+      "id": "p288_ke_ter_vt",
+      "via": "priority",
+      "kind": "primary"
+    },
+    {
+      "file": "Nandi_55_sundet.m4a",
+      "id": "p273_sundet_n",
+      "via": "headword",
+      "kind": "primary"
+    },
+    {
+      "file": "Nandi_56_emet.m4a",
+      "id": "p086_emet_n",
+      "via": "priority",
+      "kind": "primary"
+    },
+    {
+      "file": "Nandi_57_ropta.m4a",
+      "id": "p250_ropta_n",
+      "via": "priority",
+      "kind": "primary"
+    },
+    {
+      "file": "Nandi_58_tai.m4a",
+      "id": "p281_taita_n",
+      "via": "priority",
+      "kind": "primary"
+    },
+    {
+      "file": "Nandi_59_tugul.m4a",
+      "id": "p300_tugul_a",
+      "via": "priority",
+      "kind": "primary"
+    },
+    {
+      "file": "Nandi_5_ab.m4a",
+      "id": "p027_ab_p",
+      "via": "priority",
+      "kind": "primary"
+    },
+    {
+      "file": "Nandi_60_run.m4a",
+      "id": "p251_rungut_n",
+      "via": "priority",
+      "kind": "primary"
+    },
+    {
+      "file": "Nandi_61_mut.m4a",
+      "id": "p210_mut_num",
+      "via": "priority",
+      "kind": "primary"
+    },
+    {
+      "file": "Nandi_62_ng_et.m4a",
+      "id": "p223_ng'etet_n",
+      "via": "priority",
+      "kind": "primary"
+    },
+    {
+      "file": "Nandi_63_bet.m4a",
+      "id": "p041_betut_n",
+      "via": "priority",
+      "kind": "primary"
+    },
+    {
+      "file": "Nandi_64_bandek.m4a",
+      "id": "p035_bandek_n",
+      "via": "priority",
+      "kind": "primary"
+    },
+    {
+      "file": "Nandi_65_eut.m4a",
+      "id": "p088_eut_n",
+      "via": "priority",
+      "kind": "primary"
+    },
+    {
+      "file": "Nandi_66_yu.m4a",
+      "id": "p319_yu_adv",
+      "via": "priority",
+      "kind": "primary"
+    },
+    {
+      "file": "Nandi_67_rub.m4a",
+      "id": "p251_rubet_n",
+      "via": "priority",
+      "kind": "primary"
+    },
+    {
+      "file": "Nandi_68_lot.m4a",
+      "id": "p180_ke_lot_vt",
+      "via": "priority",
+      "kind": "primary"
+    },
+    {
+      "file": "Nandi_69_ra.m4a",
+      "id": "p243_ramba_a",
+      "via": "priority",
+      "kind": "primary"
+    },
+    {
+      "file": "Nandi_6_ne.m4a",
+      "id": "p218_negit_a",
+      "via": "priority",
+      "kind": "primary"
+    },
+    {
+      "file": "Nandi_70_kimiet.m4a",
+      "id": "p127_kimiet_n",
+      "via": "priority",
+      "kind": "primary"
+    },
+    {
+      "file": "Nandi_71_keldo.m4a",
+      "id": "p113_keldo_n",
+      "via": "priority",
+      "kind": "primary"
+    },
+    {
+      "file": "Nandi_72_sit.m4a",
+      "id": "p269_ke_sit_vt",
+      "via": "priority",
+      "kind": "primary"
+    },
+    {
+      "file": "Nandi_73_katam.m4a",
+      "id": "p111_katam_n",
+      "via": "headword",
+      "kind": "primary"
+    },
+    {
+      "file": "Nandi_74_keringet.m4a",
+      "id": "p117_keringet_n",
+      "via": "priority",
+      "kind": "primary"
+    },
+    {
+      "file": "Nandi_75_kowet.m4a",
+      "id": "p170_kowet_n",
+      "via": "priority",
+      "kind": "primary"
+    },
+    {
+      "file": "Nandi_76_orit.m4a",
+      "id": "p241_orit_n",
+      "via": "priority",
+      "kind": "primary"
+    },
+    {
+      "file": "Nandi_77_barak.m4a",
+      "id": "p036_barak_n",
+      "via": "priority",
+      "kind": "primary"
+    },
+    {
+      "file": "Nandi_78_kitio.m4a",
+      "id": "p144_kitio_adv",
+      "via": "priority",
+      "kind": "primary"
+    },
+    {
+      "file": "Nandi_79_itit.m4a",
+      "id": "p098_itit_n",
+      "via": "priority",
+      "kind": "primary"
+    },
+    {
+      "file": "Nandi_7_mi.m4a",
+      "id": "p194_miat_n",
+      "via": "priority",
+      "kind": "primary"
+    },
+    {
+      "file": "Nandi_80_moita.m4a",
+      "id": "p199_moita_n",
+      "via": "priority",
+      "kind": "primary"
+    },
+    {
+      "file": "Nandi_81_karit.m4a",
+      "id": "p109_karit_n",
+      "via": "priority",
+      "kind": "primary"
+    },
+    {
+      "file": "Nandi_82_uny.m4a",
+      "id": "p311_ke_uny_vt",
+      "via": "ke-prefix",
+      "kind": "primary"
+    },
+    {
+      "file": "Nandi_83_sotet.m4a",
+      "id": "p271_sotet_n",
+      "via": "priority",
+      "kind": "primary"
+    },
+    {
+      "file": "Nandi_84_marich.m4a",
+      "id": "p187_marich_a",
+      "via": "headword",
+      "kind": "primary"
+    },
+    {
+      "file": "Nandi_85_mur.m4a",
+      "id": "p208_mur_a",
+      "via": "priority",
+      "kind": "primary"
+    },
+    {
+      "file": "Nandi_86_ng_u.m4a",
+      "id": "p228_ng'utum_a",
+      "via": "priority",
+      "kind": "primary"
+    },
+    {
+      "file": "Nandi_87_sir.m4a",
+      "id": "p267_siret_n",
+      "via": "priority",
+      "kind": "primary"
+    },
+    {
+      "file": "Nandi_88_tor.m4a",
+      "id": "p299_ke_tor_vt",
+      "via": "priority",
+      "kind": "primary"
+    },
+    {
+      "file": "Nandi_89_kigombet.m4a",
+      "id": "p125_kigombet_n",
+      "via": "priority",
+      "kind": "primary"
+    },
+    {
+      "file": "Nandi_8_ta.m4a",
+      "id": "p279_ta_adv",
+      "via": "priority",
+      "kind": "primary"
+    },
+    {
+      "file": "Nandi_90_artet.m4a",
+      "id": "p032_artet_n",
+      "via": "priority",
+      "kind": "primary"
+    },
+    {
+      "file": "Nandi_91_sang_.m4a",
+      "id": "p257_sang'ut_a",
+      "via": "priority",
+      "kind": "primary"
+    },
+    {
+      "file": "Nandi_92_kararan.m4a",
+      "id": "p109_kararan_a",
+      "via": "priority",
+      "kind": "primary"
+    },
+    {
+      "file": "Nandi_93_maiyek.m4a",
+      "id": "p184_maiyek_n",
+      "via": "priority",
+      "kind": "primary"
+    },
+    {
+      "file": "Nandi_95_oinet.m4a",
+      "id": "p323_oinet_n",
+      "via": "priority",
+      "kind": "primary"
+    },
+    {
+      "file": "Nandi_96_men.m4a",
+      "id": "p191_menet_n",
+      "via": "priority",
+      "kind": "primary"
+    },
+    {
+      "file": "Nandi_97_oldo.m4a",
+      "id": "p239_oldo_n",
+      "via": "headword",
+      "kind": "primary"
+    },
+    {
+      "file": "Nandi_98_bororiet.m4a",
+      "id": "p047_bororiet_n",
+      "via": "priority",
+      "kind": "primary"
+    },
+    {
+      "file": "Nandi_99_many.m4a",
+      "id": "p186_ke_many_vt",
+      "via": "priority",
+      "kind": "primary"
+    },
+    {
+      "file": "Nandi_9_lit.m4a",
+      "id": "p178_litit_a",
+      "via": "priority",
+      "kind": "primary"
+    }
+  ],
+  "variants": [
+    {
+      "file": "Nandi_54_metit.m4a",
+      "id": "p194_metit_n",
+      "via": "priority",
+      "kind": "variant v2"
+    },
+    {
+      "file": "Nandi_94_eng_.m4a",
+      "id": "p087_eng'_p",
+      "via": "priority",
+      "kind": "variant v2"
+    }
+  ],
+  "unmatched": [
+    {
+      "file": "Nandi_41_ano.m4a",
+      "extracted": "ano"
+    },
+    {
+      "file": "Nandi_45_bichiy.m4a",
+      "extracted": "bichiy"
+    }
+  ],
+  "source": "C:\\Users\\seron\\Downloads\\nandi-dictionary-scaffold-v0.2\\scaffold\\Audio_Nandi_100",
+  "when": "2026-05-13T18:02:44.997Z"
+}

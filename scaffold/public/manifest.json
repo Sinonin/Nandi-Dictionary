@@ -1,0 +1,13 @@
+{
+  "name": "Nandi Dictionary",
+  "short_name": "Nandi",
+  "description": "A dictionary of the Nandi language — closed beta",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fafaf7",
+  "theme_color": "#7a5b2f",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}

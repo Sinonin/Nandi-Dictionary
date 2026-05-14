@@ -1,0 +1,390 @@
+{
+  "p027_ab_p": {
+    "primary": "/audio/p027_ab_p.m4a",
+    "variants": []
+  },
+  "p027__ak_af": {
+    "primary": "/audio/p027__ak_af.m4a",
+    "variants": []
+  },
+  "p028_agenge_num": {
+    "primary": "/audio/p028_agenge_num.m4a",
+    "variants": []
+  },
+  "p031_arap_n": {
+    "primary": "/audio/p031_arap_n.m4a",
+    "variants": []
+  },
+  "p032_artet_n": {
+    "primary": "/audio/p032_artet_n.m4a",
+    "variants": []
+  },
+  "p032_asista_n": {
+    "primary": "/audio/p032_asista_n.m4a",
+    "variants": []
+  },
+  "p035_bandek_n": {
+    "primary": "/audio/p035_bandek_n.m4a",
+    "variants": []
+  },
+  "p036_barak_n": {
+    "primary": "/audio/p036_barak_n.m4a",
+    "variants": []
+  },
+  "p038_bek_n": {
+    "primary": "/audio/p038_bek_n.m4a",
+    "variants": []
+  },
+  "p041_betut_n": {
+    "primary": "/audio/p041_betut_n.m4a",
+    "variants": []
+  },
+  "p042_bik_n": {
+    "primary": "/audio/p042_bik_n.m4a",
+    "variants": []
+  },
+  "p046_bombo_n": {
+    "primary": "/audio/p046_bombo_n.m4a",
+    "variants": []
+  },
+  "p046_borbor_a": {
+    "primary": "/audio/p046_borbor_a.m4a",
+    "variants": []
+  },
+  "p047_bororiet_n": {
+    "primary": "/audio/p047_bororiet_n.m4a",
+    "variants": []
+  },
+  "p052_bogol_num": {
+    "primary": "/audio/p052_bogol_num.m4a",
+    "variants": []
+  },
+  "p052_bo_p": {
+    "primary": "/audio/p052_bo_p.m4a",
+    "variants": []
+  },
+  "p052_ki_bo_vt": {
+    "primary": "/audio/p052_ki_bo_vt.m4a",
+    "variants": []
+  },
+  "p056_ke_che_vt": {
+    "primary": "/audio/p056_ke_che_vt.m4a",
+    "variants": []
+  },
+  "p059_chego_n": {
+    "primary": "/audio/p059_chego_n.m4a",
+    "variants": []
+  },
+  "p073_chiget_n": {
+    "primary": "/audio/p073_chiget_n.m4a",
+    "variants": []
+  },
+  "p085_ke_eb_vt": {
+    "primary": "/audio/p085_ke_eb_vt.m4a",
+    "variants": []
+  },
+  "p086_emet_n": {
+    "primary": "/audio/p086_emet_n.m4a",
+    "variants": []
+  },
+  "p087_eng'_p": {
+    "primary": "/audio/p087_eng'_p.m4a",
+    "variants": [
+      "/audio/p087_eng'_p__v2.m4a"
+    ]
+  },
+  "p088_eut_n": {
+    "primary": "/audio/p088_eut_n.m4a",
+    "variants": []
+  },
+  "p095_ingoro_adv": {
+    "primary": "/audio/p095_ingoro_adv.m4a",
+    "variants": []
+  },
+  "p096_ingwek_n": {
+    "primary": "/audio/p096_ingwek_n.m4a",
+    "variants": []
+  },
+  "p098_itit_n": {
+    "primary": "/audio/p098_itit_n.m4a",
+    "variants": []
+  },
+  "p102_ka_n": {
+    "primary": "/audio/p102_ka_n.m4a",
+    "variants": []
+  },
+  "p109_kararan_a": {
+    "primary": "/audio/p109_kararan_a.m4a",
+    "variants": []
+  },
+  "p109_karit_n": {
+    "primary": "/audio/p109_karit_n.m4a",
+    "variants": []
+  },
+  "p111_katam_n": {
+    "primary": "/audio/p111_katam_n.m4a",
+    "variants": []
+  },
+  "p111_keit_n": {
+    "primary": "/audio/p111_keit_n.m4a",
+    "variants": []
+  },
+  "p113_keldo_n": {
+    "primary": "/audio/p113_keldo_n.m4a",
+    "variants": []
+  },
+  "p117_keringet_n": {
+    "primary": "/audio/p117_keringet_n.m4a",
+    "variants": []
+  },
+  "p120_ketit_n": {
+    "primary": "/audio/p120_ketit_n.m4a",
+    "variants": []
+  },
+  "p120_ke_get_vt": {
+    "primary": "/audio/p120_ke_get_vt.m4a",
+    "variants": []
+  },
+  "p125_kigombet_n": {
+    "primary": "/audio/p125_kigombet_n.m4a",
+    "variants": []
+  },
+  "p127_kimiet_n": {
+    "primary": "/audio/p127_kimiet_n.m4a",
+    "variants": []
+  },
+  "p144_kitio_adv": {
+    "primary": "/audio/p144_kitio_adv.m4a",
+    "variants": []
+  },
+  "p145_kobob_adv": {
+    "primary": "/audio/p145_kobob_adv.m4a",
+    "variants": []
+  },
+  "p149_konom_num": {
+    "primary": "/audio/p149_konom_num.m4a",
+    "variants": []
+  },
+  "p151_kot_adv": {
+    "primary": "/audio/p151_kot_adv.m4a",
+    "variants": []
+  },
+  "p158_kutet_n": {
+    "primary": "/audio/p158_kutet_n.m4a",
+    "variants": []
+  },
+  "p158_kutit_n": {
+    "primary": "/audio/p158_kutit_n.m4a",
+    "variants": []
+  },
+  "p170_kowet_n": {
+    "primary": "/audio/p170_kowet_n.m4a",
+    "variants": []
+  },
+  "p171_lakwet_n": {
+    "primary": "/audio/p171_lakwet_n.m4a",
+    "variants": []
+  },
+  "p176_letut_n": {
+    "primary": "/audio/p176_letut_n.m4a",
+    "variants": []
+  },
+  "p178_litit_a": {
+    "primary": "/audio/p178_litit_a.m4a",
+    "variants": []
+  },
+  "p180_ke_lot_vt": {
+    "primary": "/audio/p180_ke_lot_vt.m4a",
+    "variants": []
+  },
+  "p180_long'et_n": {
+    "primary": "/audio/p180_long'et_n.m4a",
+    "variants": []
+  },
+  "p184_maget_n": {
+    "primary": "/audio/p184_maget_n.m4a",
+    "variants": []
+  },
+  "p184_maiyek_n": {
+    "primary": "/audio/p184_maiyek_n.m4a",
+    "variants": []
+  },
+  "p185_manget_n": {
+    "primary": "/audio/p185_manget_n.m4a",
+    "variants": []
+  },
+  "p186_ke_many_vt": {
+    "primary": "/audio/p186_ke_many_vt.m4a",
+    "variants": []
+  },
+  "p187_marich_a": {
+    "primary": "/audio/p187_marich_a.m4a",
+    "variants": []
+  },
+  "p188_mat_n": {
+    "primary": "/audio/p188_mat_n.m4a",
+    "variants": []
+  },
+  "p191_menet_n": {
+    "primary": "/audio/p191_menet_n.m4a",
+    "variants": []
+  },
+  "p194_metit_n": {
+    "primary": "/audio/p194_metit_n.m4a",
+    "variants": [
+      "/audio/p194_metit_n__v2.m4a"
+    ]
+  },
+  "p194_miat_n": {
+    "primary": "/audio/p194_miat_n.m4a",
+    "variants": []
+  },
+  "p194_mie_a": {
+    "primary": "/audio/p194_mie_a.m4a",
+    "variants": []
+  },
+  "p197_mobet_n": {
+    "primary": "/audio/p197_mobet_n.m4a",
+    "variants": []
+  },
+  "p199_moita_n": {
+    "primary": "/audio/p199_moita_n.m4a",
+    "variants": []
+  },
+  "p208_mur_a": {
+    "primary": "/audio/p208_mur_a.m4a",
+    "variants": []
+  },
+  "p210_mut_num": {
+    "primary": "/audio/p210_mut_num.m4a",
+    "variants": []
+  },
+  "p218_negit_a": {
+    "primary": "/audio/p218_negit_a.m4a",
+    "variants": []
+  },
+  "p220_ke_ng'al_vt": {
+    "primary": "/audio/p220_ke_ng'al_vt.m4a",
+    "variants": []
+  },
+  "p223_ng'etet_n": {
+    "primary": "/audio/p223_ng'etet_n.m4a",
+    "variants": []
+  },
+  "p228_ng'utum_a": {
+    "primary": "/audio/p228_ng'utum_a.m4a",
+    "variants": []
+  },
+  "p239_oldo_n": {
+    "primary": "/audio/p239_oldo_n.m4a",
+    "variants": []
+  },
+  "p240_ole_adv": {
+    "primary": "/audio/p240_ole_adv.m4a",
+    "variants": []
+  },
+  "p241_oret_n": {
+    "primary": "/audio/p241_oret_n.m4a",
+    "variants": []
+  },
+  "p241_orit_n": {
+    "primary": "/audio/p241_orit_n.m4a",
+    "variants": []
+  },
+  "p243_ramba_a": {
+    "primary": "/audio/p243_ramba_a.m4a",
+    "variants": []
+  },
+  "p250_ropta_n": {
+    "primary": "/audio/p250_ropta_n.m4a",
+    "variants": []
+  },
+  "p251_rubet_n": {
+    "primary": "/audio/p251_rubet_n.m4a",
+    "variants": []
+  },
+  "p251_rungut_n": {
+    "primary": "/audio/p251_rungut_n.m4a",
+    "variants": []
+  },
+  "p257_sang'ut_a": {
+    "primary": "/audio/p257_sang'ut_a.m4a",
+    "variants": []
+  },
+  "p262_seset_n": {
+    "primary": "/audio/p262_seset_n.m4a",
+    "variants": []
+  },
+  "p262_seta_a": {
+    "primary": "/audio/p262_seta_a.m4a",
+    "variants": []
+  },
+  "p263_sibit_n": {
+    "primary": "/audio/p263_sibit_n.m4a",
+    "variants": []
+  },
+  "p267_siret_n": {
+    "primary": "/audio/p267_siret_n.m4a",
+    "variants": []
+  },
+  "p269_ke_sit_vt": {
+    "primary": "/audio/p269_ke_sit_vt.m4a",
+    "variants": []
+  },
+  "p271_sotet_n": {
+    "primary": "/audio/p271_sotet_n.m4a",
+    "variants": []
+  },
+  "p273_sundet_n": {
+    "primary": "/audio/p273_sundet_n.m4a",
+    "variants": []
+  },
+  "p279_ta_adv": {
+    "primary": "/audio/p279_ta_adv.m4a",
+    "variants": []
+  },
+  "p281_taita_n": {
+    "primary": "/audio/p281_taita_n.m4a",
+    "variants": []
+  },
+  "p288_ke_ter_vt": {
+    "primary": "/audio/p288_ke_ter_vt.m4a",
+    "variants": []
+  },
+  "p289_teta_n": {
+    "primary": "/audio/p289_teta_n.m4a",
+    "variants": []
+  },
+  "p299_ke_tor_vt": {
+    "primary": "/audio/p299_ke_tor_vt.m4a",
+    "variants": []
+  },
+  "p300_tugul_a": {
+    "primary": "/audio/p300_tugul_a.m4a",
+    "variants": []
+  },
+  "p311_ke_uny_vt": {
+    "primary": "/audio/p311_ke_uny_vt.m4a",
+    "variants": []
+  },
+  "p316_ya_a": {
+    "primary": "/audio/p316_ya_a.m4a",
+    "variants": []
+  },
+  "p319_yu_adv": {
+    "primary": "/audio/p319_yu_adv.m4a",
+    "variants": []
+  },
+  "p320_yo_adv": {
+    "primary": "/audio/p320_yo_adv.m4a",
+    "variants": []
+  },
+  "p323_oinet_n": {
+    "primary": "/audio/p323_oinet_n.m4a",
+    "variants": []
+  },
+  "p323_okwet_n": {
+    "primary": "/audio/p323_okwet_n.m4a",
+    "variants": []
+  }
+}
