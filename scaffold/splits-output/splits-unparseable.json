@@ -1,0 +1,5086 @@
+[
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p34_ke_baibai_it_vincep",
+      "page": 34,
+      "headword": "ke-baibai-it",
+      "pos": "verb",
+      "pos_raw": "v.incep.",
+      "phonetic_forms": [
+        "_ke:-paypayi:t"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p034_baguleita_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "ke-baibai-it"
+    },
+    "parentId": "p034_baguleita_n",
+    "headerRowRaw": "ke-baibai-it v.incep.",
+    "originalRows": [
+      {
+        "raw": "ke-baibai-it v.incep.",
+        "phonetic": "_ke:-paypayi:t"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p36_ki_bara_v",
+      "page": 36,
+      "headword": "ki-bara",
+      "pos": "verb",
+      "pos_raw": "v.",
+      "phonetic_forms": [
+        "_ki:-para"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p036_bara_a",
+        "no-gloss-found"
+      ],
+      "section_hdr": "ki-bara"
+    },
+    "parentId": "p036_bara_a",
+    "headerRowRaw": "ki-bara v.",
+    "originalRows": [
+      {
+        "raw": "ki-bara v.",
+        "phonetic": "_ki:-para"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p37_Barsienypr_n",
+      "page": 37,
+      "headword": "Barsienypr",
+      "pos": "noun",
+      "pos_raw": "n.",
+      "phonetic_forms": [
+        "jparsye:ny"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p037_barjet_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "Barsienypr"
+    },
+    "parentId": "p037_barjet_n",
+    "headerRowRaw": "Barsienyprn.",
+    "originalRows": [
+      {
+        "raw": "Barsienyprn.",
+        "phonetic": "jparsye:ny"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p37_ki_basiany_v",
+      "page": 37,
+      "headword": "ki-basiany",
+      "pos": "verb",
+      "pos_raw": "v.",
+      "phonetic_forms": [
+        "_ki:-pasya:ny"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p037_barwet_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "ki-basiany"
+    },
+    "parentId": "p037_barwet_n",
+    "headerRowRaw": "ki-basiany v.",
+    "originalRows": [
+      {
+        "raw": "ki-basiany v.",
+        "phonetic": "_ki:-pasya:ny"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p42_ke_bior_v",
+      "page": 42,
+      "headword": "ke-bior",
+      "pos": "verb",
+      "pos_raw": "v.",
+      "phonetic_forms": [
+        "ke:-pi6r"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p042_bionet_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "ke-bior"
+    },
+    "parentId": "p042_bionet_n",
+    "headerRowRaw": "ke-bior v.",
+    "originalRows": [
+      {
+        "raw": "ke-bior v.",
+        "phonetic": "ke:-pi6r"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p43_ke_birir_v",
+      "page": 43,
+      "headword": "ke-birir",
+      "pos": "verb",
+      "pos_raw": "v.",
+      "phonetic_forms": [
+        "_ke:-pi:ri:r"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p043_birir_a",
+        "no-gloss-found"
+      ],
+      "section_hdr": "ke-birir"
+    },
+    "parentId": "p043_birir_a",
+    "headerRowRaw": "ke-birir v.",
+    "originalRows": [
+      {
+        "raw": "ke-birir v.",
+        "phonetic": "_ke:-pi:ri:r"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p46_bore_kei_ke_bor_e_vinsref",
+      "page": 46,
+      "headword": "bore kei ke-bor-e",
+      "pos": "verb",
+      "pos_raw": "v.ins.ref.",
+      "phonetic_forms": [
+        "ke:-po:r-e: _ke:y"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p046_ke_borbor_vt",
+        "no-gloss-found"
+      ],
+      "section_hdr": "bore kei ke-bor-e"
+    },
+    "parentId": "p046_ke_borbor_vt",
+    "headerRowRaw": "bore kei ke-bor-e kei v.ins.ref.",
+    "originalRows": [
+      {
+        "raw": "bore kei ke-bor-e kei v.ins.ref.",
+        "phonetic": "ke:-po:r-e: _ke:y"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p56_chebaibai_n",
+      "page": 56,
+      "headword": "chebaibai",
+      "pos": "noun",
+      "pos_raw": "n.",
+      "phonetic_forms": [
+        "_ce:-paypay"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p056_ke_che_vt",
+        "no-gloss-found"
+      ],
+      "section_hdr": "chebaibai"
+    },
+    "parentId": "p056_ke_che_vt",
+    "headerRowRaw": "chebaibai prn.",
+    "originalRows": [
+      {
+        "raw": "chebaibai prn.",
+        "phonetic": "_ce:-paypay"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p59_cheli_metpr_n",
+      "page": 59,
+      "headword": "cheli-metpr",
+      "pos": "noun",
+      "pos_raw": "n.",
+      "phonetic_forms": [
+        "_ce:-li met"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p059_chelesos_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "cheli-metpr"
+    },
+    "parentId": "p059_chelesos_n",
+    "headerRowRaw": "cheli-metprn.",
+    "originalRows": [
+      {
+        "raw": "cheli-metprn.",
+        "phonetic": "_ce:-li met"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p60_Chemase_n",
+      "page": 60,
+      "headword": "Chemase",
+      "pos": "noun",
+      "pos_raw": "n.",
+      "phonetic_forms": [
+        "_ce:-ma:se"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p060_chemasaiat_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "Chemase"
+    },
+    "parentId": "p060_chemasaiat_n",
+    "headerRowRaw": "Chemase prn.",
+    "originalRows": [
+      {
+        "raw": "Chemase prn.",
+        "phonetic": "_ce:-ma:se"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p67_cheplalkong'_n",
+      "page": 67,
+      "headword": "cheplalkong'",
+      "pos": "noun",
+      "pos_raw": "n.",
+      "phonetic_forms": [
+        "_ce:p-lal-ko:ng"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p067_cheplakwet_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "cheplalkong'"
+    },
+    "parentId": "p067_cheplakwet_n",
+    "headerRowRaw": "cheplalkong' cheplalkong'n.",
+    "originalRows": [
+      {
+        "raw": "cheplalkong' cheplalkong'n.",
+        "phonetic": "_ce:p-lal-ko:ng"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p69_Cheptarit_n",
+      "page": 69,
+      "headword": "Cheptarit",
+      "pos": "noun",
+      "pos_raw": "n.",
+      "phonetic_forms": [
+        "_ce:p-tari:t"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p069_cheptabaniat_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "Cheptarit"
+    },
+    "parentId": "p069_cheptabaniat_n",
+    "headerRowRaw": "Cheptarit prn.",
+    "originalRows": [
+      {
+        "raw": "Cheptarit prn.",
+        "phonetic": "_ce:p-tari:t"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p69_chepterigindet_n",
+      "page": 69,
+      "headword": "chepterigindet",
+      "pos": "noun",
+      "pos_raw": "n.",
+      "phonetic_forms": [
+        "ce:p-terik-i:n-tet, ce:p-terik-i:n; ce:p-terik-i:n, ce:pterik-i:n-ik"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p069_cheptereniot_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "chepterigindet"
+    },
+    "parentId": "p069_cheptereniot_n",
+    "headerRowRaw": "chepterigindetn.",
+    "originalRows": [
+      {
+        "raw": "chepterigindetn.",
+        "phonetic": "ce:p-terik-i:n-tet, ce:p-terik-i:n; ce:p-terik-i:n, ce:pterik-i:n-ik"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p70_Cheptol_n",
+      "page": 70,
+      "headword": "Cheptol",
+      "pos": "noun",
+      "pos_raw": "n.",
+      "phonetic_forms": [
+        "ce:p-to:l"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p070_cheptobet_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "Cheptol"
+    },
+    "parentId": "p070_cheptobet_n",
+    "headerRowRaw": "Cheptol prn.",
+    "originalRows": [
+      {
+        "raw": "Cheptol prn.",
+        "phonetic": "ce:p-to:l"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p72_Cheso_n",
+      "page": 72,
+      "headword": "Cheso",
+      "pos": "noun",
+      "pos_raw": "n.",
+      "phonetic_forms": [
+        "ce:so"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p072_chesiru_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "Cheso"
+    },
+    "parentId": "p072_chesiru_n",
+    "headerRowRaw": "Cheso prn.",
+    "originalRows": [
+      {
+        "raw": "Cheso prn.",
+        "phonetic": "ce:so"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p75_kechoch_e_vinstr",
+      "page": 75,
+      "headword": "kechoch-e",
+      "pos": "verb_instrumental",
+      "pos_raw": "v.instr.",
+      "phonetic_forms": [
+        "ke:-coc-e:"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p075_chobosta_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "kechoch-e"
+    },
+    "parentId": "p075_chobosta_n",
+    "headerRowRaw": "kechoch-e v.instr.",
+    "originalRows": [
+      {
+        "raw": "kechoch-e v.instr.",
+        "phonetic": "ke:-coc-e:"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "reason": "unparseable-header",
+    "rawRows": [
+      {
+        "raw": "chorta kei (see chor lower) chorunet ab kei chorunet ab kei n.",
+        "phonetic": "co:r-un-ne:t _a:p _ke:y"
+      }
+    ],
+    "parentId": "p077_chorset_n"
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p77_ki_chot_v",
+      "page": 77,
+      "headword": "ki-chot",
+      "pos": "verb",
+      "pos_raw": "v.",
+      "phonetic_forms": [
+        "_ki:-cot"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p077_chorwet_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "ki-chot"
+    },
+    "parentId": "p077_chorwet_n",
+    "headerRowRaw": "ki-chot V.",
+    "originalRows": [
+      {
+        "raw": "ki-chot V.",
+        "phonetic": "_ki:-cot"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p79_ki_chum_da_vitv",
+      "page": 79,
+      "headword": "ki-chum-da",
+      "pos": "verb_intransitive",
+      "pos_raw": "v.itv.",
+      "phonetic_forms": [
+        "_ki:-cu:m-ta"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p079_ke_chulul_vt",
+        "no-gloss-found"
+      ],
+      "section_hdr": "ki-chum-da"
+    },
+    "parentId": "p079_ke_chulul_vt",
+    "headerRowRaw": "ki-chum-da v.itv.",
+    "originalRows": [
+      {
+        "raw": "ki-chum-da v.itv.",
+        "phonetic": "_ki:-cu:m-ta"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p80_ko_chur_v",
+      "page": 80,
+      "headword": "ko-chur",
+      "pos": "verb",
+      "pos_raw": "v.",
+      "phonetic_forms": [
+        "_ko-cur"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p080_chumbindet_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "ko-chur"
+    },
+    "parentId": "p080_chumbindet_n",
+    "headerRowRaw": "ko-chur V.",
+    "originalRows": [
+      {
+        "raw": "ko-chur V.",
+        "phonetic": "_ko-cur"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p85_eben_e_v",
+      "page": 85,
+      "headword": "eben e",
+      "pos": "verb",
+      "pos_raw": "v.",
+      "phonetic_forms": [
+        "ke:-epen"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p085_ke_eb_vt",
+        "no-gloss-found"
+      ],
+      "section_hdr": "eben e"
+    },
+    "parentId": "p085_ke_eb_vt",
+    "headerRowRaw": "eben e ke-eben v.",
+    "originalRows": [
+      {
+        "raw": "eben e ke-eben v.",
+        "phonetic": "ke:-epen"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p91_imbisik_n",
+      "page": 91,
+      "headword": "imbisik",
+      "pos": "noun",
+      "pos_raw": "n.",
+      "phonetic_forms": [
+        "impis-i:k, impisi; impisya:, impis-ya:t"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p091_imbiret_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "imbisik"
+    },
+    "parentId": "p091_imbiret_n",
+    "headerRowRaw": "imbisikn.",
+    "originalRows": [
+      {
+        "raw": "imbisikn.",
+        "phonetic": "impis-i:k, impisi; impisya:, impis-ya:t"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p93_inegei_n",
+      "page": 93,
+      "headword": "inegei",
+      "pos": "noun",
+      "pos_raw": "n.",
+      "phonetic_forms": [
+        "_ine:ke:y"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p093_indoling'iot_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "inegei"
+    },
+    "parentId": "p093_indoling'iot_n",
+    "headerRowRaw": "inegei pn.",
+    "originalRows": [
+      {
+        "raw": "inegei pn.",
+        "phonetic": "_ine:ke:y"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p94_ingisyiliot_n",
+      "page": 94,
+      "headword": "ingisyiliot",
+      "pos": "noun",
+      "pos_raw": "n.",
+      "phonetic_forms": [
+        "inkisyil-ya:t, inkisyilya:t, inkisyil-ya:, inkisyil-ya:; inkisyili, inkisyile, inkisyili, inkisyile, inkisyil-i:k"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p094_Ingeresa_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "ingisyiliot"
+    },
+    "parentId": "p094_Ingeresa_n",
+    "headerRowRaw": "ingisyiliotn.",
+    "originalRows": [
+      {
+        "raw": "ingisyiliotn.",
+        "phonetic": "inkisyil-ya:t, inkisyilya:t, inkisyil-ya:, inkisyil-ya:; inkisyili, inkisyile, inkisyili, inkisyile, inkisyil-i:k"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p100_Jemetun_n",
+      "page": 100,
+      "headword": "Jemetun",
+      "pos": "noun",
+      "pos_raw": "n.",
+      "phonetic_forms": [
+        "_ce:-me tu:n"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p100_Jemesundei_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "Jemetun"
+    },
+    "parentId": "p100_Jemesundei_n",
+    "headerRowRaw": "Jemetun prn.",
+    "originalRows": [
+      {
+        "raw": "Jemetun prn.",
+        "phonetic": "_ce:-me tu:n"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p103_Kabiyet_n",
+      "page": 103,
+      "headword": "Kabiyet",
+      "pos": "noun",
+      "pos_raw": "n.",
+      "phonetic_forms": [
+        "ka:p-iyyet"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p103_kabiugit_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "Kabiyet"
+    },
+    "parentId": "p103_kabiugit_n",
+    "headerRowRaw": "Kabiyet prn.",
+    "originalRows": [
+      {
+        "raw": "Kabiyet prn.",
+        "phonetic": "ka:p-iyyet"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p103_Kabwareng'_Kabwareng'_n",
+      "page": 103,
+      "headword": "Kabwareng' Kabwareng'",
+      "pos": "noun",
+      "pos_raw": "n.",
+      "phonetic_forms": [
+        "_ka:p-wa:re:ng"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p103_kabwalit_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "Kabwareng' Kabwareng'"
+    },
+    "parentId": "p103_kabwalit_n",
+    "headerRowRaw": "Kabwareng' Kabwareng' prn.",
+    "originalRows": [
+      {
+        "raw": "Kabwareng' Kabwareng' prn.",
+        "phonetic": "_ka:p-wa:re:ng"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p104_ke_galagal_vrep",
+      "page": 104,
+      "headword": "ke-galagal",
+      "pos": "verb",
+      "pos_raw": "v.rep.",
+      "phonetic_forms": [
+        "_ke:-gala:gal"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p104_kaiwatek_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "ke-galagal"
+    },
+    "parentId": "p104_kaiwatek_n",
+    "headerRowRaw": "ke-galagal v.rep.",
+    "originalRows": [
+      {
+        "raw": "ke-galagal v.rep.",
+        "phonetic": "_ke:-gala:gal"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p106_Kamoiywo_n",
+      "page": 106,
+      "headword": "Kamoiywo",
+      "pos": "noun",
+      "pos_raw": "n.",
+      "phonetic_forms": [
+        "ka:-mô:ywa"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p106_kamogom_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "Kamoiywo"
+    },
+    "parentId": "p106_kamogom_n",
+    "headerRowRaw": "Kamoiywo prn.",
+    "originalRows": [
+      {
+        "raw": "Kamoiywo prn.",
+        "phonetic": "ka:-mô:ywa"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p109_ke_garmat_v",
+      "page": 109,
+      "headword": "ke-garmat",
+      "pos": "verb",
+      "pos_raw": "v.",
+      "phonetic_forms": [
+        "_ke:-karmat"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p109_karit_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "ke-garmat"
+    },
+    "parentId": "p109_karit_n",
+    "headerRowRaw": "ke-garmat v.",
+    "originalRows": [
+      {
+        "raw": "ke-garmat v.",
+        "phonetic": "_ke:-karmat"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p113_ki_geigei_ta_vitv",
+      "page": 113,
+      "headword": "ki-geigei-ta",
+      "pos": "verb_intransitive",
+      "pos_raw": "v.itv.",
+      "phonetic_forms": [
+        "_ki:-keyke:y-ta"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p113_ki_geigei_vt",
+        "no-gloss-found"
+      ],
+      "section_hdr": "ki-geigei-ta"
+    },
+    "parentId": "p113_ki_geigei_vt",
+    "headerRowRaw": "ki-geigei-ta v.itv.",
+    "originalRows": [
+      {
+        "raw": "ki-geigei-ta v.itv.",
+        "phonetic": "_ki:-keyke:y-ta"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p114_ke_gen_v",
+      "page": 114,
+      "headword": "ke-gen",
+      "pos": "verb",
+      "pos_raw": "v.",
+      "phonetic_forms": [
+        "ke:-ken"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p114_kemeut_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "ke-gen"
+    },
+    "parentId": "p114_kemeut_n",
+    "headerRowRaw": "ke-gen v.",
+    "originalRows": [
+      {
+        "raw": "ke-gen v.",
+        "phonetic": "ke:-ken"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p115_keny_v",
+      "page": 115,
+      "headword": "keny",
+      "pos": "verb",
+      "pos_raw": "v.",
+      "phonetic_forms": [
+        "_ki:-ke:ny"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p115_keny_adv",
+        "no-gloss-found"
+      ],
+      "section_hdr": "keny"
+    },
+    "parentId": "p115_keny_adv",
+    "headerRowRaw": "keny (keeny) ki-geny v.",
+    "originalRows": [
+      {
+        "raw": "keny (keeny) ki-geny v.",
+        "phonetic": "_ki:-ke:ny"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p116_kerek_n",
+      "page": 116,
+      "headword": "kerek",
+      "pos": "noun",
+      "pos_raw": "n.",
+      "phonetic_forms": [
+        "_ke:r-ek, _ke:r"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p116_kerebet_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "kerek"
+    },
+    "parentId": "p116_kerebet_n",
+    "headerRowRaw": "kerekn.",
+    "originalRows": [
+      {
+        "raw": "kerekn.",
+        "phonetic": "_ke:r-ek, _ke:r"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p117_ke_gergeren_v",
+      "page": 117,
+      "headword": "ke-gergeren",
+      "pos": "verb",
+      "pos_raw": "v.",
+      "phonetic_forms": [
+        "ke:-kerkeren"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p117_kerge_a",
+        "no-gloss-found"
+      ],
+      "section_hdr": "ke-gergeren"
+    },
+    "parentId": "p117_kerge_a",
+    "headerRowRaw": "ke-gergeren v.",
+    "originalRows": [
+      {
+        "raw": "ke-gergeren v.",
+        "phonetic": "ke:-kerkeren"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p121_kibaibaipr_n",
+      "page": 121,
+      "headword": "kibaibaipr",
+      "pos": "noun",
+      "pos_raw": "n.",
+      "phonetic_forms": [
+        "_ki-paypay"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p121_kibabet_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "kibaibaipr"
+    },
+    "parentId": "p121_kibabet_n",
+    "headerRowRaw": "kibaibaiprn.",
+    "originalRows": [
+      {
+        "raw": "kibaibaiprn.",
+        "phonetic": "_ki-paypay"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p123_Kiboit_n",
+      "page": 123,
+      "headword": "Kiboit",
+      "pos": "noun",
+      "pos_raw": "n.",
+      "phonetic_forms": [
+        "kib-6:-i:t"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p123_kibobitiet_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "Kiboit"
+    },
+    "parentId": "p123_kibobitiet_n",
+    "headerRowRaw": "Kiboit prn.",
+    "originalRows": [
+      {
+        "raw": "Kiboit prn.",
+        "phonetic": "kib-6:-i:t"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p123_Kibor_n",
+      "page": 123,
+      "headword": "Kibor",
+      "pos": "noun",
+      "pos_raw": "n.",
+      "phonetic_forms": [
+        "_kip-ô:r"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p123_kibong'bong'it_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "Kibor"
+    },
+    "parentId": "p123_kibong'bong'it_n",
+    "headerRowRaw": "Kibor prn.",
+    "originalRows": [
+      {
+        "raw": "Kibor prn.",
+        "phonetic": "_kip-ô:r"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p124_Kiboriotpr_n",
+      "page": 124,
+      "headword": "Kiboriotpr",
+      "pos": "noun",
+      "pos_raw": "n.",
+      "phonetic_forms": [
+        "ki-pa:rya:t"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p124_kiboitiot_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "Kiboriotpr"
+    },
+    "parentId": "p124_kiboitiot_n",
+    "headerRowRaw": "Kiboriotprn.",
+    "originalRows": [
+      {
+        "raw": "Kiboriotprn.",
+        "phonetic": "ki-pa:rya:t"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p125_ki_gil_vrefl",
+      "page": 125,
+      "headword": "ki-gil",
+      "pos": "verb",
+      "pos_raw": "v.refl.",
+      "phonetic_forms": [
+        "ki:-ki:l _ke:y"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p125_ki_gil_vt",
+        "no-gloss-found"
+      ],
+      "section_hdr": "ki-gil"
+    },
+    "parentId": "p125_ki_gil_vt",
+    "headerRowRaw": "ki-gil kei v.refl.",
+    "originalRows": [
+      {
+        "raw": "ki-gil kei v.refl.",
+        "phonetic": "ki:-ki:l _ke:y"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p126_Kimaiyo_n",
+      "page": 126,
+      "headword": "Kimaiyo",
+      "pos": "noun",
+      "pos_raw": "n.",
+      "phonetic_forms": [
+        "_ki-may-yo"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p126_kimaitet_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "Kimaiyo"
+    },
+    "parentId": "p126_kimaitet_n",
+    "headerRowRaw": "Kimaiyo prn.",
+    "originalRows": [
+      {
+        "raw": "Kimaiyo prn.",
+        "phonetic": "_ki-may-yo"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p126_Kimeli_n",
+      "page": 126,
+      "headword": "Kimeli",
+      "pos": "noun",
+      "pos_raw": "n.",
+      "phonetic_forms": [
+        "_ki-meli"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p126_kimekwanit_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "Kimeli"
+    },
+    "parentId": "p126_kimekwanit_n",
+    "headerRowRaw": "Kimeli prn.",
+    "originalRows": [
+      {
+        "raw": "Kimeli prn.",
+        "phonetic": "_ki-meli"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p127_Kimenjo_n",
+      "page": 127,
+      "headword": "Kimenjo",
+      "pos": "noun",
+      "pos_raw": "n.",
+      "phonetic_forms": [
+        "ki-me:nco"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p127_kimeng'wet_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "Kimenjo"
+    },
+    "parentId": "p127_kimeng'wet_n",
+    "headerRowRaw": "Kimenjo prn.",
+    "originalRows": [
+      {
+        "raw": "Kimenjo prn.",
+        "phonetic": "ki-me:nco"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p127_Kimetun_n",
+      "page": 127,
+      "headword": "Kimetun",
+      "pos": "noun",
+      "pos_raw": "n.",
+      "phonetic_forms": [
+        "_ki-me tu:n"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p127_ki_mesundei_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "Kimetun"
+    },
+    "parentId": "p127_ki_mesundei_n",
+    "headerRowRaw": "Kimetun prn.",
+    "originalRows": [
+      {
+        "raw": "Kimetun prn.",
+        "phonetic": "_ki-me tu:n"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p127_Kimng'eny_Kimng'eny_n",
+      "page": 127,
+      "headword": "Kimng'eny Kimng'eny",
+      "pos": "noun",
+      "pos_raw": "n.",
+      "phonetic_forms": [
+        "_kim-nge:ny"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p127_kimitiat_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "Kimng'eny Kimng'eny"
+    },
+    "parentId": "p127_kimitiat_n",
+    "headerRowRaw": "Kimng'eny Kimng'eny prn.",
+    "originalRows": [
+      {
+        "raw": "Kimng'eny Kimng'eny prn.",
+        "phonetic": "_kim-nge:ny"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p128_Kimng'oror_Kimng'oror_n",
+      "page": 128,
+      "headword": "Kimng'oror Kimng'oror",
+      "pos": "noun",
+      "pos_raw": "n.",
+      "phonetic_forms": [
+        "kim-ngara:r"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p128_kimng'omio_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "Kimng'oror Kimng'oror"
+    },
+    "parentId": "p128_kimng'omio_n",
+    "headerRowRaw": "Kimng'oror Kimng'oror prn.",
+    "originalRows": [
+      {
+        "raw": "Kimng'oror Kimng'oror prn.",
+        "phonetic": "kim-ngara:r"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p128_Kimnyigepr_n",
+      "page": 128,
+      "headword": "Kimnyigepr",
+      "pos": "noun",
+      "pos_raw": "n.",
+      "phonetic_forms": [
+        "_kim-nyike:"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p128_kimni_adv",
+        "no-gloss-found"
+      ],
+      "section_hdr": "Kimnyigepr"
+    },
+    "parentId": "p128_kimni_adv",
+    "headerRowRaw": "Kimnyigeprn.",
+    "originalRows": [
+      {
+        "raw": "Kimnyigeprn.",
+        "phonetic": "_kim-nyike:"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p128_Kimuge_n",
+      "page": 128,
+      "headword": "Kimuge",
+      "pos": "noun",
+      "pos_raw": "n.",
+      "phonetic_forms": [
+        "_kimuke"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p128_kimorinit_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "Kimuge"
+    },
+    "parentId": "p128_kimorinit_n",
+    "headerRowRaw": "Kimuge prn.",
+    "originalRows": [
+      {
+        "raw": "Kimuge prn.",
+        "phonetic": "_kimuke"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p128_Kimuigei_n",
+      "page": 128,
+      "headword": "Kimuigei",
+      "pos": "noun",
+      "pos_raw": "n.",
+      "phonetic_forms": [
+        "_ki-muy-ke:y"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p128_Kimugon_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "Kimuigei"
+    },
+    "parentId": "p128_Kimugon_n",
+    "headerRowRaw": "Kimuigei prn.",
+    "originalRows": [
+      {
+        "raw": "Kimuigei prn.",
+        "phonetic": "_ki-muy-ke:y"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p129_Kimunai_n",
+      "page": 129,
+      "headword": "Kimunai",
+      "pos": "noun",
+      "pos_raw": "n.",
+      "phonetic_forms": [
+        "_ki-muna:y"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p129_kimumaiyat_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "Kimunai"
+    },
+    "parentId": "p129_kimumaiyat_n",
+    "headerRowRaw": "Kimunai prn.",
+    "originalRows": [
+      {
+        "raw": "Kimunai prn.",
+        "phonetic": "_ki-muna:y"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p129_Kimurgorpr_n",
+      "page": 129,
+      "headword": "Kimurgorpr",
+      "pos": "noun",
+      "pos_raw": "n.",
+      "phonetic_forms": [
+        "ki-mur-ko:r"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p129_kimunyeriet_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "Kimurgorpr"
+    },
+    "parentId": "p129_kimunyeriet_n",
+    "headerRowRaw": "Kimurgorprn.",
+    "originalRows": [
+      {
+        "raw": "Kimurgorprn.",
+        "phonetic": "ki-mur-ko:r"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p129_Kimutaipr_n",
+      "page": 129,
+      "headword": "Kimutaipr",
+      "pos": "noun",
+      "pos_raw": "n.",
+      "phonetic_forms": [
+        "_ki-muta:y"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p129_kimusarit_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "Kimutaipr"
+    },
+    "parentId": "p129_kimusarit_n",
+    "headerRowRaw": "Kimutaiprn.",
+    "originalRows": [
+      {
+        "raw": "Kimutaiprn.",
+        "phonetic": "_ki-muta:y"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p130_Kipchirjir_n",
+      "page": 130,
+      "headword": "Kipchirjir",
+      "pos": "noun",
+      "pos_raw": "n.",
+      "phonetic_forms": [
+        "kip-ci:rci:r"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p130_kipcheiat_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "Kipchirjir"
+    },
+    "parentId": "p130_kipcheiat_n",
+    "headerRowRaw": "Kipchirjir prn.",
+    "originalRows": [
+      {
+        "raw": "Kipchirjir prn.",
+        "phonetic": "kip-ci:rci:r"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p131_Kipkeinopr_n",
+      "page": 131,
+      "headword": "Kipkeinopr",
+      "pos": "noun",
+      "pos_raw": "n.",
+      "phonetic_forms": [
+        "_kip-key no"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p131_kipkeiat_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "Kipkeinopr"
+    },
+    "parentId": "p131_kipkeiat_n",
+    "headerRowRaw": "Kipkeinoprn.",
+    "originalRows": [
+      {
+        "raw": "Kipkeinoprn.",
+        "phonetic": "_kip-key no"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p133_Kipkoiyo_n",
+      "page": 133,
+      "headword": "Kipkoiyo",
+      "pos": "noun",
+      "pos_raw": "n.",
+      "phonetic_forms": [
+        "kip-kô:yyo"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p133_kipkoi_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "Kipkoiyo"
+    },
+    "parentId": "p133_kipkoi_n",
+    "headerRowRaw": "Kipkoiyo prn.",
+    "originalRows": [
+      {
+        "raw": "Kipkoiyo prn.",
+        "phonetic": "kip-kô:yyo"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p136_kiprout_n",
+      "page": 136,
+      "headword": "kiprout",
+      "pos": "noun",
+      "pos_raw": "n.",
+      "phonetic_forms": [
+        "kipra-u:t, kipra-u; kiprau:s-ya, kipra-u:s-yek"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p136_kiprongetit_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "kiprout"
+    },
+    "parentId": "p136_kiprongetit_n",
+    "headerRowRaw": "kiproutn.",
+    "originalRows": [
+      {
+        "raw": "kiproutn.",
+        "phonetic": "kipra-u:t, kipra-u; kiprau:s-ya, kipra-u:s-yek"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p138_kipsomberiet_n",
+      "page": 138,
+      "headword": "kipsomberiet",
+      "pos": "noun",
+      "pos_raw": "n.",
+      "phonetic_forms": [
+        "_kip-sô:mpe:r-yet, _kip-sô:mpe:r; _kip-so:mpe:r, _kip-so:mpe:r-ik"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p138_kipsoiwet_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "kipsomberiet"
+    },
+    "parentId": "p138_kipsoiwet_n",
+    "headerRowRaw": "kipsomberietn.",
+    "originalRows": [
+      {
+        "raw": "kipsomberietn.",
+        "phonetic": "_kip-sô:mpe:r-yet, _kip-sô:mpe:r; _kip-so:mpe:r, _kip-so:mpe:r-ik"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p138_kipsunde_ne_bo_tai_kipsunde_ne_bo_n",
+      "page": 138,
+      "headword": "kipsunde ne bo tai kipsunde ne bo",
+      "pos": "noun",
+      "pos_raw": "n.",
+      "phonetic_forms": [
+        "kip-su:nte ne pa _ta:y"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p138_kipsugutit_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "kipsunde ne bo tai kipsunde ne bo"
+    },
+    "parentId": "p138_kipsugutit_n",
+    "headerRowRaw": "kipsunde ne bo tai kipsunde ne bo taiprn.",
+    "originalRows": [
+      {
+        "raw": "kipsunde ne bo tai kipsunde ne bo taiprn.",
+        "phonetic": "kip-su:nte ne pa _ta:y"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p139_Kiptalam_n",
+      "page": 139,
+      "headword": "Kiptalam",
+      "pos": "noun",
+      "pos_raw": "n.",
+      "phonetic_forms": [
+        "_kip-ta:lam"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p139_kiptakiat_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "Kiptalam"
+    },
+    "parentId": "p139_kiptakiat_n",
+    "headerRowRaw": "Kiptalam prn.",
+    "originalRows": [
+      {
+        "raw": "Kiptalam prn.",
+        "phonetic": "_kip-ta:lam"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p139_Kiptamui_n",
+      "page": 139,
+      "headword": "Kiptamui",
+      "pos": "noun",
+      "pos_raw": "n.",
+      "phonetic_forms": [
+        "_kip-ta mu:y"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p139_kiptamo_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "Kiptamui"
+    },
+    "parentId": "p139_kiptamo_n",
+    "headerRowRaw": "Kiptamui prn.",
+    "originalRows": [
+      {
+        "raw": "Kiptamui prn.",
+        "phonetic": "_kip-ta mu:y"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p139_Kiptarbeipr_n",
+      "page": 139,
+      "headword": "Kiptarbeipr",
+      "pos": "noun",
+      "pos_raw": "n.",
+      "phonetic_forms": [
+        "_kip-tar bey"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p139_kiptangasiat_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "Kiptarbeipr"
+    },
+    "parentId": "p139_kiptangasiat_n",
+    "headerRowRaw": "Kiptarbeiprn.",
+    "originalRows": [
+      {
+        "raw": "Kiptarbeiprn.",
+        "phonetic": "_kip-tar bey"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p140_Kiptildich_n",
+      "page": 140,
+      "headword": "Kiptildich",
+      "pos": "noun",
+      "pos_raw": "n.",
+      "phonetic_forms": [
+        "_kip-til-tic"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p140_kiptiegoit_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "Kiptildich"
+    },
+    "parentId": "p140_kiptiegoit_n",
+    "headerRowRaw": "Kiptildich prn.",
+    "originalRows": [
+      {
+        "raw": "Kiptildich prn.",
+        "phonetic": "_kip-til-tic"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p141_Kiptoitoekpr_n",
+      "page": 141,
+      "headword": "Kiptoitoekpr",
+      "pos": "noun",
+      "pos_raw": "n.",
+      "phonetic_forms": [
+        "kip-ta:ytô-e:k,kipta:yt6"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p141_kiptuswet_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "Kiptoitoekpr"
+    },
+    "parentId": "p141_kiptuswet_n",
+    "headerRowRaw": "Kiptoitoekprn.",
+    "originalRows": [
+      {
+        "raw": "Kiptoitoekprn.",
+        "phonetic": "kip-ta:ytô-e:k,kipta:yt6"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p142_Kiristo_n",
+      "page": 142,
+      "headword": "Kiristo",
+      "pos": "noun",
+      "pos_raw": "n.",
+      "phonetic_forms": [
+        "_kiristo"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p142_kireset_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "Kiristo"
+    },
+    "parentId": "p142_kireset_n",
+    "headerRowRaw": "Kiristo prn.",
+    "originalRows": [
+      {
+        "raw": "Kiristo prn.",
+        "phonetic": "_kiristo"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p143_Kitale_n",
+      "page": 143,
+      "headword": "Kitale",
+      "pos": "noun",
+      "pos_raw": "n.",
+      "phonetic_forms": [
+        "_kita:li"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p143_kitalaita_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "Kitale"
+    },
+    "parentId": "p143_kitalaita_n",
+    "headerRowRaw": "Kitale prn.",
+    "originalRows": [
+      {
+        "raw": "Kitale prn.",
+        "phonetic": "_kita:li"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p144_ke_gititen_v",
+      "page": 144,
+      "headword": "ke-gititen",
+      "pos": "verb",
+      "pos_raw": "v.",
+      "phonetic_forms": [
+        "ke:-kiti:ten"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p144_kitio_adv",
+        "no-gloss-found"
+      ],
+      "section_hdr": "ke-gititen"
+    },
+    "parentId": "p144_kitio_adv",
+    "headerRowRaw": "ke-gititen v.",
+    "originalRows": [
+      {
+        "raw": "ke-gititen v.",
+        "phonetic": "ke:-kiti:ten"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p144_ke_go_vrefl",
+      "page": 144,
+      "headword": "ke-go",
+      "pos": "verb",
+      "pos_raw": "v.refl.",
+      "phonetic_forms": [
+        "_ke:-ko _ke:y"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p144_kiyeng'ut_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "ke-go"
+    },
+    "parentId": "p144_kiyeng'ut_n",
+    "headerRowRaw": "ke-go kei v.refl.",
+    "originalRows": [
+      {
+        "raw": "ke-go kei v.refl.",
+        "phonetic": "_ke:-ko _ke:y"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p144_to_overload_oneself_v",
+      "page": 144,
+      "headword": "to overload oneself",
+      "pos": "verb",
+      "pos_raw": "v.",
+      "phonetic_forms": [
+        "ki:-ko"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p144_kiyeng'ut_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "to overload oneself"
+    },
+    "parentId": "p144_kiyeng'ut_n",
+    "headerRowRaw": "to overload oneself ki-go V.",
+    "originalRows": [
+      {
+        "raw": "to overload oneself ki-go V.",
+        "phonetic": "ki:-ko"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p146_ki_gogo_v",
+      "page": 146,
+      "headword": "ki-gogo",
+      "pos": "verb",
+      "pos_raw": "v.",
+      "phonetic_forms": [
+        "_ki:-koko"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p146_kogo_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "ki-gogo"
+    },
+    "parentId": "p146_kogo_n",
+    "headerRowRaw": "ki-gogo V.",
+    "originalRows": [
+      {
+        "raw": "ki-gogo V.",
+        "phonetic": "_ki:-koko"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p146_Koilegei_n",
+      "page": 146,
+      "headword": "Koilegei",
+      "pos": "noun",
+      "pos_raw": "n.",
+      "phonetic_forms": [
+        "koyleke:y"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p146_koigoch_a",
+        "no-gloss-found"
+      ],
+      "section_hdr": "Koilegei"
+    },
+    "parentId": "p146_koigoch_a",
+    "headerRowRaw": "Koilegei prn.",
+    "originalRows": [
+      {
+        "raw": "Koilegei prn.",
+        "phonetic": "koyleke:y"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "reason": "unparseable-header",
+    "rawRows": [
+      {
+        "raw": "korot (see koroito) kos kei ke-gos kei v.refl.",
+        "phonetic": "ke:-ko:s _ke:y"
+      },
+      {
+        "nandi": "for a child to delay accepting a name given it.",
+        "english": "Kogos kei lakwet. The child rejected the name given to it.",
+        "phonetic": "ka-kô:s _ke:y _la:k-we:t"
+      }
+    ],
+    "parentId": "p151_korosiiit_n"
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p151_ke_gotkot_vrefl",
+      "page": 151,
+      "headword": "ke-gotkot",
+      "pos": "verb",
+      "pos_raw": "v.refl.",
+      "phonetic_forms": [
+        "ke:-ko:tkô:t _ke:y"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p151_kotit_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "ke-gotkot"
+    },
+    "parentId": "p151_kotit_n",
+    "headerRowRaw": "ke-gotkot kei v.refl.",
+    "originalRows": [
+      {
+        "raw": "ke-gotkot kei v.refl.",
+        "phonetic": "ke:-ko:tkô:t _ke:y"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p154_ke_gumbut_v",
+      "page": 154,
+      "headword": "ke-gumbut",
+      "pos": "verb",
+      "pos_raw": "v.",
+      "phonetic_forms": [
+        "ke:-ku:mbut"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p154_kumbet_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "ke-gumbut"
+    },
+    "parentId": "p154_kumbet_n",
+    "headerRowRaw": "ke-gumbut v.",
+    "originalRows": [
+      {
+        "raw": "ke-gumbut v.",
+        "phonetic": "ke:-ku:mbut"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p155_Kundos_n",
+      "page": 155,
+      "headword": "Kundos",
+      "pos": "noun",
+      "pos_raw": "n.",
+      "phonetic_forms": [
+        "ku:nta:s"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p155_kundit_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "Kundos"
+    },
+    "parentId": "p155_kundit_n",
+    "headerRowRaw": "Kundos prn.",
+    "originalRows": [
+      {
+        "raw": "Kundos prn.",
+        "phonetic": "ku:nta:s"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p160_ke_kwel_vrefl",
+      "page": 160,
+      "headword": "ke-kwel",
+      "pos": "verb",
+      "pos_raw": "v.refl.",
+      "phonetic_forms": [
+        "_ke:-kwel _ke:y"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p160_ke_kwel_vt",
+        "no-gloss-found"
+      ],
+      "section_hdr": "ke-kwel"
+    },
+    "parentId": "p160_ke_kwel_vt",
+    "headerRowRaw": "ke-kwel kei v.refl.",
+    "originalRows": [
+      {
+        "raw": "ke-kwel kei v.refl.",
+        "phonetic": "_ke:-kwel _ke:y"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p161_ke_kwenda_vitv",
+      "page": 161,
+      "headword": "ke-kwenda",
+      "pos": "verb_intransitive",
+      "pos_raw": "v.itv.",
+      "phonetic_forms": [
+        "_ke:-kwen-ta"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p161_ke_kweii_vt",
+        "no-gloss-found"
+      ],
+      "section_hdr": "ke-kwenda"
+    },
+    "parentId": "p161_ke_kweii_vt",
+    "headerRowRaw": "ke-kwenda v.itv.",
+    "originalRows": [
+      {
+        "raw": "ke-kwenda v.itv.",
+        "phonetic": "_ke:-kwen-ta"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p162_ke_kwililen_v",
+      "page": 162,
+      "headword": "ke-kwililen",
+      "pos": "verb",
+      "pos_raw": "v.",
+      "phonetic_forms": [
+        "ke:-kwililen"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p162_kwetiot_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "ke-kwililen"
+    },
+    "parentId": "p162_kwetiot_n",
+    "headerRowRaw": "ke-kwililen v.",
+    "originalRows": [
+      {
+        "raw": "ke-kwililen v.",
+        "phonetic": "ke:-kwililen"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p162_kwong'utiet_kwong_n",
+      "page": 162,
+      "headword": "kwong'utiet kwong",
+      "pos": "noun",
+      "pos_raw": "n.",
+      "phonetic_forms": [
+        "kwang-u:t-yet, kwang-u:t"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p162_kwondo_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "kwong'utiet kwong"
+    },
+    "parentId": "p162_kwondo_n",
+    "headerRowRaw": "kwong'utiet kwong 'utiet n.",
+    "originalRows": [
+      {
+        "raw": "kwong'utiet kwong 'utiet n.",
+        "phonetic": "kwang-u:t-yet, kwang-u:t"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p165_kokipsomok_n",
+      "page": 165,
+      "headword": "kokipsomok",
+      "pos": "noun",
+      "pos_raw": "n.",
+      "phonetic_forms": [
+        "ka:-kip-s6mok"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p165_koitet_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "kokipsomok"
+    },
+    "parentId": "p165_koitet_n",
+    "headerRowRaw": "kokipsomok prn.",
+    "originalRows": [
+      {
+        "raw": "kokipsomok prn.",
+        "phonetic": "ka:-kip-s6mok"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p166_kong'_vven",
+      "page": 166,
+      "headword": "kong'",
+      "pos": "verb",
+      "pos_raw": "v.ven.",
+      "phonetic_forms": [
+        "ke:-kang"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p166_kondit_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "kong'"
+    },
+    "parentId": "p166_kondit_n",
+    "headerRowRaw": "kong' ke-gong' v.ven.",
+    "originalRows": [
+      {
+        "raw": "kong' ke-gong' v.ven.",
+        "phonetic": "ke:-kang"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p167_Kopchepkendi_n",
+      "page": 167,
+      "headword": "Kopchepkendi",
+      "pos": "noun",
+      "pos_raw": "n.",
+      "phonetic_forms": [
+        "ka:p-ce:pke:nti"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p167_kopchemosin_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "Kopchepkendi"
+    },
+    "parentId": "p167_kopchemosin_n",
+    "headerRowRaw": "Kopchepkendi prn.",
+    "originalRows": [
+      {
+        "raw": "Kopchepkendi prn.",
+        "phonetic": "ka:p-ce:pke:nti"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p167_Kopsile_n",
+      "page": 167,
+      "headword": "Kopsile",
+      "pos": "noun",
+      "pos_raw": "n.",
+      "phonetic_forms": [
+        "ka:p-si:le"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p167_kopkwony_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "Kopsile"
+    },
+    "parentId": "p167_kopkwony_n",
+    "headerRowRaw": "Kopsile prn.",
+    "originalRows": [
+      {
+        "raw": "Kopsile prn.",
+        "phonetic": "ka:p-si:le"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p171_ke_lagan_v",
+      "page": 171,
+      "headword": "ke-lagan",
+      "pos": "verb",
+      "pos_raw": "v.",
+      "phonetic_forms": [
+        "_ke:-lakan"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p171_labotiet_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "ke-lagan"
+    },
+    "parentId": "p171_labotiet_n",
+    "headerRowRaw": "ke-lagan v.",
+    "originalRows": [
+      {
+        "raw": "ke-lagan v.",
+        "phonetic": "_ke:-lakan"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p171_lakwandit_n",
+      "page": 171,
+      "headword": "lakwandit",
+      "pos": "noun",
+      "pos_raw": "n.",
+      "phonetic_forms": [
+        "_la:k-wa:n-ti:t, _la:kwa:n-ti"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p171_laita_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "lakwandit"
+    },
+    "parentId": "p171_laita_n",
+    "headerRowRaw": "lakwanditn.",
+    "originalRows": [
+      {
+        "raw": "lakwanditn.",
+        "phonetic": "_la:k-wa:n-ti:t, _la:kwa:n-ti"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p175_Lelmokwopr_n",
+      "page": 175,
+      "headword": "Lelmokwopr",
+      "pos": "noun",
+      "pos_raw": "n.",
+      "phonetic_forms": [
+        "Ie:lmô:kwa"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p175_lelesta_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "Lelmokwopr"
+    },
+    "parentId": "p175_lelesta_n",
+    "headerRowRaw": "Lelmokwoprn.",
+    "originalRows": [
+      {
+        "raw": "Lelmokwoprn.",
+        "phonetic": "Ie:lmô:kwa"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p176_leta_v",
+      "page": 176,
+      "headword": "leta",
+      "pos": "verb",
+      "pos_raw": "v.",
+      "phonetic_forms": [
+        "_ke:-letyey"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p176_letut_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "leta"
+    },
+    "parentId": "p176_letut_n",
+    "headerRowRaw": "leta (see le sow) ke-letiei v.",
+    "originalRows": [
+      {
+        "raw": "leta (see le sow) ke-letiei v.",
+        "phonetic": "_ke:-letyey"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p178_ki_liplib_v",
+      "page": 178,
+      "headword": "ki-liplib",
+      "pos": "verb",
+      "pos_raw": "v.",
+      "phonetic_forms": [
+        "ki:-lipli:p"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p178_limet_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "ki-liplib"
+    },
+    "parentId": "p178_limet_n",
+    "headerRowRaw": "ki-liplib V.",
+    "originalRows": [
+      {
+        "raw": "ki-liplib V.",
+        "phonetic": "ki:-lipli:p"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p178_lit_v",
+      "page": 178,
+      "headword": "lit",
+      "pos": "verb",
+      "pos_raw": "v.",
+      "phonetic_forms": [
+        "ke:-li:t"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p178_ke_lis_vi",
+        "no-gloss-found"
+      ],
+      "section_hdr": "lit"
+    },
+    "parentId": "p178_ke_lis_vi",
+    "headerRowRaw": "lit (liit) ke-lit V.",
+    "originalRows": [
+      {
+        "raw": "lit (liit) ke-lit V.",
+        "phonetic": "ke:-li:t"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p179_ke_loklogan_v",
+      "page": 179,
+      "headword": "ke-loklogan",
+      "pos": "verb",
+      "pos_raw": "v.",
+      "phonetic_forms": [
+        "_ke:-loklokan"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p179_logosta_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "ke-loklogan"
+    },
+    "parentId": "p179_logosta_n",
+    "headerRowRaw": "ke-loklogan v.",
+    "originalRows": [
+      {
+        "raw": "ke-loklogan v.",
+        "phonetic": "_ke:-loklokan"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p179_ki_lombo_v",
+      "page": 179,
+      "headword": "ki-lombo",
+      "pos": "verb",
+      "pos_raw": "v.",
+      "phonetic_forms": [
+        "_ki:-lompo"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p179_ko_loklogan_vi",
+        "no-gloss-found"
+      ],
+      "section_hdr": "ki-lombo"
+    },
+    "parentId": "p179_ko_loklogan_vi",
+    "headerRowRaw": "ki-lombo v.",
+    "originalRows": [
+      {
+        "raw": "ki-lombo v.",
+        "phonetic": "_ki:-lompo"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p183_ke_mach_v",
+      "page": 183,
+      "headword": "ke-mach",
+      "pos": "verb",
+      "pos_raw": "v.",
+      "phonetic_forms": [
+        "_ke:-mac"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p183_mabwai_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "ke-mach"
+    },
+    "parentId": "p183_mabwai_n",
+    "headerRowRaw": "ke-mach v.",
+    "originalRows": [
+      {
+        "raw": "ke-mach v.",
+        "phonetic": "_ke:-mac"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p184_Maina_n",
+      "page": 184,
+      "headword": "Maina",
+      "pos": "noun",
+      "pos_raw": "n.",
+      "phonetic_forms": [
+        "_ma:yna"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p184_maigutik_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "Maina"
+    },
+    "parentId": "p184_maigutik_n",
+    "headerRowRaw": "Maina prn.",
+    "originalRows": [
+      {
+        "raw": "Maina prn.",
+        "phonetic": "_ma:yna"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p190_ke_melel_v",
+      "page": 190,
+      "headword": "ke-melel",
+      "pos": "verb",
+      "pos_raw": "v.",
+      "phonetic_forms": [
+        "ke:-melel"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p190_melel_a",
+        "no-gloss-found"
+      ],
+      "section_hdr": "ke-melel"
+    },
+    "parentId": "p190_melel_a",
+    "headerRowRaw": "ke-melel v.",
+    "originalRows": [
+      {
+        "raw": "ke-melel v.",
+        "phonetic": "ke:-melel"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p192_mermer_vven",
+      "page": 192,
+      "headword": "mermer",
+      "pos": "verb",
+      "pos_raw": "v.ven.",
+      "phonetic_forms": [
+        "ko-merme:r"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p192_mermer_a",
+        "no-gloss-found"
+      ],
+      "section_hdr": "mermer"
+    },
+    "parentId": "p192_mermer_a",
+    "headerRowRaw": "mermer (mermeer) ko-mermer v.ven.",
+    "originalRows": [
+      {
+        "raw": "mermer (mermeer) ko-mermer v.ven.",
+        "phonetic": "ko-merme:r"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p193_ke_mesmesan_v",
+      "page": 193,
+      "headword": "ke-mesmesan",
+      "pos": "verb",
+      "pos_raw": "v.",
+      "phonetic_forms": [
+        "_ke:-mesmesa:n"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p193_ko_mesmes_vi",
+        "no-gloss-found"
+      ],
+      "section_hdr": "ke-mesmesan"
+    },
+    "parentId": "p193_ko_mesmes_vi",
+    "headerRowRaw": "ke-mesmesan v.",
+    "originalRows": [
+      {
+        "raw": "ke-mesmesan v.",
+        "phonetic": "_ke:-mesmesa:n"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p198_Mogong'_Mogong'_n",
+      "page": 198,
+      "headword": "Mogong' Mogong'",
+      "pos": "noun",
+      "pos_raw": "n.",
+      "phonetic_forms": [
+        "mokô:ng"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p198_mogomiat_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "Mogong' Mogong'"
+    },
+    "parentId": "p198_mogomiat_n",
+    "headerRowRaw": "Mogong' Mogong' prn.",
+    "originalRows": [
+      {
+        "raw": "Mogong' Mogong' prn.",
+        "phonetic": "mokô:ng"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p199_mong'ong'en_v",
+      "page": 199,
+      "headword": "mong'ong'en",
+      "pos": "verb",
+      "pos_raw": "v.",
+      "phonetic_forms": [
+        "ke:- mo:ngo:ngen"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p199_mong'mokta_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "mong'ong'en"
+    },
+    "parentId": "p199_mong'mokta_n",
+    "headerRowRaw": "mong'ong'en ke-mong'ong'en v.",
+    "originalRows": [
+      {
+        "raw": "mong'ong'en ke-mong'ong'en v.",
+        "phonetic": "ke:- mo:ngo:ngen"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p200_ke_mor_v",
+      "page": 200,
+      "headword": "ke-mor",
+      "pos": "verb",
+      "pos_raw": "v.",
+      "phonetic_forms": [
+        "ke:-m6r"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p200_mopchot_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "ke-mor"
+    },
+    "parentId": "p200_mopchot_n",
+    "headerRowRaw": "ke-mor v.",
+    "originalRows": [
+      {
+        "raw": "ke-mor v.",
+        "phonetic": "ke:-m6r"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p201_ke_mosisen_v",
+      "page": 201,
+      "headword": "ke-mosisen",
+      "pos": "verb",
+      "pos_raw": "v.",
+      "phonetic_forms": [
+        "ke:-mo:si:sen"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p201_moset_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "ke-mosisen"
+    },
+    "parentId": "p201_moset_n",
+    "headerRowRaw": "ke-mosisen v.",
+    "originalRows": [
+      {
+        "raw": "ke-mosisen v.",
+        "phonetic": "ke:-mo:si:sen"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p203_ki_mugul_vcaus",
+      "page": 203,
+      "headword": "ki-mugul",
+      "pos": "verb",
+      "pos_raw": "v.caus.",
+      "phonetic_forms": [
+        "ki:-muku:l"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p203_mugul_a",
+        "no-gloss-found"
+      ],
+      "section_hdr": "ki-mugul"
+    },
+    "parentId": "p203_mugul_a",
+    "headerRowRaw": "ki-mugul v.caus.",
+    "originalRows": [
+      {
+        "raw": "ki-mugul v.caus.",
+        "phonetic": "ki:-muku:l"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p204_muitaetpr_n",
+      "page": 204,
+      "headword": "muitaetpr",
+      "pos": "noun",
+      "pos_raw": "n.",
+      "phonetic_forms": [
+        "_muy-ta-e:t,_muy-ta6"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p204_muindet_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "muitaetpr"
+    },
+    "parentId": "p204_muindet_n",
+    "headerRowRaw": "muitaetprn.",
+    "originalRows": [
+      {
+        "raw": "muitaetprn.",
+        "phonetic": "_muy-ta-e:t,_muy-ta6"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p206_ke_mumut_vrefl",
+      "page": 206,
+      "headword": "ke-mumut",
+      "pos": "verb",
+      "pos_raw": "v.refl.",
+      "phonetic_forms": [
+        "_ke:-mu:mut _ke:y"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p206_ke_mumui_vt",
+        "no-gloss-found"
+      ],
+      "section_hdr": "ke-mumut"
+    },
+    "parentId": "p206_ke_mumui_vt",
+    "headerRowRaw": "ke-mumut kei v.refl.",
+    "originalRows": [
+      {
+        "raw": "ke-mumut kei v.refl.",
+        "phonetic": "_ke:-mu:mut _ke:y"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p209_ke_mus_yi_vapp",
+      "page": 209,
+      "headword": "ke-mus-yi",
+      "pos": "verb_applicative",
+      "pos_raw": "v.app.",
+      "phonetic_forms": [
+        "ke:-mus-yi"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p209_murot_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "ke-mus-yi"
+    },
+    "parentId": "p209_murot_n",
+    "headerRowRaw": "ke-mus-yi v.app.",
+    "originalRows": [
+      {
+        "raw": "ke-mus-yi v.app.",
+        "phonetic": "ke:-mus-yi"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p210_ki_mut_vrefl",
+      "page": 210,
+      "headword": "ki-mut",
+      "pos": "verb",
+      "pos_raw": "v.refl.",
+      "phonetic_forms": [
+        "ki:-mu:t _ke:y"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p210_mut_num",
+        "no-gloss-found"
+      ],
+      "section_hdr": "ki-mut"
+    },
+    "parentId": "p210_mut_num",
+    "headerRowRaw": "ki-mut kei v.refl.",
+    "originalRows": [
+      {
+        "raw": "ki-mut kei v.refl.",
+        "phonetic": "ki:-mu:t _ke:y"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p217_Nandi_Hills_Nandi_Hills_n",
+      "page": 217,
+      "headword": "Nandi Hills Nandi Hills",
+      "pos": "noun",
+      "pos_raw": "n.",
+      "phonetic_forms": [
+        "_na:nti _i:l"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p217_Nandi_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "Nandi Hills Nandi Hills"
+    },
+    "parentId": "p217_Nandi_n",
+    "headerRowRaw": "Nandi Hills Nandi Hills prn.",
+    "originalRows": [
+      {
+        "raw": "Nandi Hills Nandi Hills prn.",
+        "phonetic": "_na:nti _i:l"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p217_ki_ndi_v",
+      "page": 217,
+      "headword": "ki-ndi",
+      "pos": "verb",
+      "pos_raw": "v.",
+      "phonetic_forms": [
+        "ki:-nti"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p217_nasit_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "ki-ndi"
+    },
+    "parentId": "p217_nasit_n",
+    "headerRowRaw": "ki-ndi v.",
+    "originalRows": [
+      {
+        "raw": "ki-ndi v.",
+        "phonetic": "ki:-nti"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p218_ke_negit_yi_v",
+      "page": 218,
+      "headword": "ke-negit-yi",
+      "pos": "verb",
+      "pos_raw": "v.",
+      "phonetic_forms": [
+        "ke:-ne:kit-yi"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p218_negit_a",
+        "no-gloss-found"
+      ],
+      "section_hdr": "ke-negit-yi"
+    },
+    "parentId": "p218_negit_a",
+    "headerRowRaw": "ke-negit-yi v.",
+    "originalRows": [
+      {
+        "raw": "ke-negit-yi v.",
+        "phonetic": "ke:-ne:kit-yi"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p220_ke_ng'any_vrefl",
+      "page": 220,
+      "headword": "ke-ng'any",
+      "pos": "verb",
+      "pos_raw": "v.refl.",
+      "phonetic_forms": [
+        "_ke:-nga:ny _ke:y"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p220_ke_ng'al_vt",
+        "no-gloss-found"
+      ],
+      "section_hdr": "ke-ng'any"
+    },
+    "parentId": "p220_ke_ng'al_vt",
+    "headerRowRaw": "ke-ng'any kei v.refl.",
+    "originalRows": [
+      {
+        "raw": "ke-ng'any kei v.refl.",
+        "phonetic": "_ke:-nga:ny _ke:y"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p220_The_rope_is_easily_n",
+      "page": 220,
+      "headword": "The rope is easily",
+      "pos": "noun",
+      "pos_raw": "n.",
+      "phonetic_forms": [
+        "_ngasngas _ka:mpe:t"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p220_ng'asng'as_a",
+        "no-gloss-found"
+      ],
+      "section_hdr": "The rope is easily"
+    },
+    "parentId": "p220_ng'asng'as_a",
+    "headerRowRaw": "The rope is easily broken.",
+    "originalRows": [
+      {
+        "raw": "The rope is easily broken.",
+        "phonetic": "_ngasngas _ka:mpe:t"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p221_ki_ng'el_vrefl",
+      "page": 221,
+      "headword": "ki-ng'el",
+      "pos": "verb",
+      "pos_raw": "v.refl.",
+      "phonetic_forms": [
+        "_ki:-nge:l _ke:y"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p221_ki_ng'el_vt",
+        "no-gloss-found"
+      ],
+      "section_hdr": "ki-ng'el"
+    },
+    "parentId": "p221_ki_ng'el_vt",
+    "headerRowRaw": "ki-ng'el kei v.refl.",
+    "originalRows": [
+      {
+        "raw": "ki-ng'el kei v.refl.",
+        "phonetic": "_ki:-nge:l _ke:y"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p222_ke_ng'eng'_vven",
+      "page": 222,
+      "headword": "ke-ng'eng'",
+      "pos": "verb",
+      "pos_raw": "v.ven.",
+      "phonetic_forms": [
+        "ke:-nge:ng"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p222_ke_ng'eny_vt",
+        "no-gloss-found"
+      ],
+      "section_hdr": "ke-ng'eng'"
+    },
+    "parentId": "p222_ke_ng'eny_vt",
+    "headerRowRaw": "ke-ng'eng' v.ven.",
+    "originalRows": [
+      {
+        "raw": "ke-ng'eng' v.ven.",
+        "phonetic": "ke:-nge:ng"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p222_ng'eret_v",
+      "page": 222,
+      "headword": "ng'eret",
+      "pos": "verb",
+      "pos_raw": "v.",
+      "phonetic_forms": [
+        "_ki:-nge:ret"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p222_ko_ng'er_vi",
+        "no-gloss-found"
+      ],
+      "section_hdr": "ng'eret"
+    },
+    "parentId": "p222_ko_ng'er_vi",
+    "headerRowRaw": "ng'eret ki-ng'eret v.",
+    "originalRows": [
+      {
+        "raw": "ng'eret ki-ng'eret v.",
+        "phonetic": "_ki:-nge:ret"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p222_ke_ng'et_chi_vapp",
+      "page": 222,
+      "headword": "ke-ng'et-chi",
+      "pos": "verb_applicative",
+      "pos_raw": "v.app.",
+      "phonetic_forms": [
+        "ke:-nget-ci, konget-ci"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p222_ko_ng'et_vi",
+        "no-gloss-found"
+      ],
+      "section_hdr": "ke-ng'et-chi"
+    },
+    "parentId": "p222_ko_ng'et_vi",
+    "headerRowRaw": "ke-ng'et-chi v.app.",
+    "originalRows": [
+      {
+        "raw": "ke-ng'et-chi v.app.",
+        "phonetic": "ke:-nget-ci, konget-ci"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p224_ng'ich_v",
+      "page": 224,
+      "headword": "ng'ich",
+      "pos": "verb",
+      "pos_raw": "v.",
+      "phonetic_forms": [
+        "_ke:-ngic"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p224_ng'ewet_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "ng'ich"
+    },
+    "parentId": "p224_ng'ewet_n",
+    "headerRowRaw": "ng'ich ke-ng'ich v.",
+    "originalRows": [
+      {
+        "raw": "ng'ich ke-ng'ich v.",
+        "phonetic": "_ke:-ngic"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p226_ng'oror_v",
+      "page": 226,
+      "headword": "ng'oror",
+      "pos": "verb",
+      "pos_raw": "v.",
+      "phonetic_forms": [
+        "ke:-ngor6r"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p226_ki_ng'ol_vt",
+        "no-gloss-found"
+      ],
+      "section_hdr": "ng'oror"
+    },
+    "parentId": "p226_ki_ng'ol_vt",
+    "headerRowRaw": "ng'oror ke-ng'oror v.",
+    "originalRows": [
+      {
+        "raw": "ng'oror ke-ng'oror v.",
+        "phonetic": "ke:-ngor6r"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p226_ke_ng_'_ot_e_vinsref",
+      "page": 226,
+      "headword": "ke-ng ' ot-e",
+      "pos": "verb",
+      "pos_raw": "v.ins.ref.",
+      "phonetic_forms": [
+        "_ke : -ngo :te: _ke:y"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p226_ng'ososiot_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "ke-ng ' ot-e"
+    },
+    "parentId": "p226_ng'ososiot_n",
+    "headerRowRaw": "ke-ng ' ot-e keiv.ins.ref.",
+    "originalRows": [
+      {
+        "raw": "ke-ng ' ot-e keiv.ins.ref.",
+        "phonetic": "_ke : -ngo :te: _ke:y"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p227_ng'ung'_v",
+      "page": 227,
+      "headword": "ng'ung'",
+      "pos": "verb",
+      "pos_raw": "v.",
+      "phonetic_forms": [
+        "_ki:-ngu:ng"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p227_ng'ulielet_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "ng'ung'"
+    },
+    "parentId": "p227_ng'ulielet_n",
+    "headerRowRaw": "ng'ung' ki-ng'ung' v.",
+    "originalRows": [
+      {
+        "raw": "ng'ung' ki-ng'ung' v.",
+        "phonetic": "_ki:-ngu:ng"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p229_ke_ng'walng'wal_vredup",
+      "page": 229,
+      "headword": "ke-ng'walng'wal",
+      "pos": "verb",
+      "pos_raw": "v.redup.",
+      "phonetic_forms": [
+        "_ke:- ngwa:lngwa:l"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p229_ke_ng'wal_ak_vstv",
+        "no-gloss-found"
+      ],
+      "section_hdr": "ke-ng'walng'wal"
+    },
+    "parentId": "p229_ke_ng'wal_ak_vstv",
+    "headerRowRaw": "ke-ng'walng'wal v.redup.",
+    "originalRows": [
+      {
+        "raw": "ke-ng'walng'wal v.redup.",
+        "phonetic": "_ke:- ngwa:lngwa:l"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p230_ng'omit_vincep",
+      "page": 230,
+      "headword": "ng'omit",
+      "pos": "verb",
+      "pos_raw": "v.incep.",
+      "phonetic_forms": [
+        "ki:-nga:m-i:t"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p230_ng'om_a",
+        "no-gloss-found"
+      ],
+      "section_hdr": "ng'omit"
+    },
+    "parentId": "p230_ng'om_a",
+    "headerRowRaw": "ng'omit ki-ng'om-it v.incep.",
+    "originalRows": [
+      {
+        "raw": "ng'omit ki-ng'om-it v.incep.",
+        "phonetic": "ki:-nga:m-i:t"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p233_ke_nyamur_v",
+      "page": 233,
+      "headword": "ke-nyamur",
+      "pos": "verb",
+      "pos_raw": "v.",
+      "phonetic_forms": [
+        "_ke:-nyamur"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p233_nyalilda_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "ke-nyamur"
+    },
+    "parentId": "p233_nyalilda_n",
+    "headerRowRaw": "ke-nyamur v.",
+    "originalRows": [
+      {
+        "raw": "ke-nyamur v.",
+        "phonetic": "_ke:-nyamur"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p235_ke_nyimnyim_v",
+      "page": 235,
+      "headword": "ke-nyimnyim",
+      "pos": "verb",
+      "pos_raw": "v.",
+      "phonetic_forms": [
+        "ke:-nyimnyi:m"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p235_nyigis_a",
+        "no-gloss-found"
+      ],
+      "section_hdr": "ke-nyimnyim"
+    },
+    "parentId": "p235_nyigis_a",
+    "headerRowRaw": "ke-nyimnyim v.",
+    "originalRows": [
+      {
+        "raw": "ke-nyimnyim v.",
+        "phonetic": "ke:-nyimnyi:m"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "reason": "unparseable-header",
+    "rawRows": [
+      {
+        "raw": "nyo (see bwa come) nyochinet ab kat nyochinet ab kat n.",
+        "phonetic": "nyo:-cin-e:t _a:p _ka:t, nyo:-cin-6"
+      },
+      {
+        "raw": "forgiveness. nyoet ab kat nyoet ab kat n.",
+        "phonetic": "_nyo:-e:t _a:p _ka:t"
+      }
+    ],
+    "parentId": "p236_ki_nyit_vt"
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p237_ki_nyul_vrefl",
+      "page": 237,
+      "headword": "ki-nyul",
+      "pos": "verb",
+      "pos_raw": "v.refl.",
+      "phonetic_forms": [
+        "_ki:-nyul _ke:y"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p237_nyonyoiyat_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "ki-nyul"
+    },
+    "parentId": "p237_nyonyoiyat_n",
+    "headerRowRaw": "ki-nyul kei v.refl.",
+    "originalRows": [
+      {
+        "raw": "ki-nyul kei v.refl.",
+        "phonetic": "_ki:-nyul _ke:y"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p241_ko_os_v",
+      "page": 241,
+      "headword": "ko-os",
+      "pos": "verb",
+      "pos_raw": "v.",
+      "phonetic_forms": [
+        "ko-o:s"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p241_ord_ni_adv",
+        "no-gloss-found"
+      ],
+      "section_hdr": "ko-os"
+    },
+    "parentId": "p241_ord_ni_adv",
+    "headerRowRaw": "ko-os V.",
+    "originalRows": [
+      {
+        "raw": "ko-os V.",
+        "phonetic": "ko-o:s"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p242_ki_rabach_v",
+      "page": 242,
+      "headword": "ki-rabach",
+      "pos": "verb",
+      "pos_raw": "v.",
+      "phonetic_forms": [
+        "_ki:-rapa:c"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p242_polisidt_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "ki-rabach"
+    },
+    "parentId": "p242_polisidt_n",
+    "headerRowRaw": "ki-rabach v.",
+    "originalRows": [
+      {
+        "raw": "ki-rabach v.",
+        "phonetic": "_ki:-rapa:c"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p245_ko_rere_v",
+      "page": 245,
+      "headword": "ko-rere",
+      "pos": "verb",
+      "pos_raw": "v.",
+      "phonetic_forms": [
+        "_ki:-rere"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p245_reberwet_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "ko-rere"
+    },
+    "parentId": "p245_reberwet_n",
+    "headerRowRaw": "ko-rere v.",
+    "originalRows": [
+      {
+        "raw": "ko-rere v.",
+        "phonetic": "_ki:-rere"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p247_rich_v",
+      "page": 247,
+      "headword": "rich",
+      "pos": "verb",
+      "pos_raw": "v.",
+      "phonetic_forms": [
+        "ke:-ri:c"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p247_ke_rich_vt",
+        "no-gloss-found"
+      ],
+      "section_hdr": "rich"
+    },
+    "parentId": "p247_ke_rich_vt",
+    "headerRowRaw": "rich (riich) ke-rich v.",
+    "originalRows": [
+      {
+        "raw": "rich (riich) ke-rich v.",
+        "phonetic": "ke:-ri:c"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p247_ke_rik_ta_vitv",
+      "page": 247,
+      "headword": "ke-rik-ta",
+      "pos": "verb_intransitive",
+      "pos_raw": "v.itv.",
+      "phonetic_forms": [
+        "_ke:-ri:k-ta"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p247_rigeret_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "ke-rik-ta"
+    },
+    "parentId": "p247_rigeret_n",
+    "headerRowRaw": "ke-rik-ta v.itv.",
+    "originalRows": [
+      {
+        "raw": "ke-rik-ta v.itv.",
+        "phonetic": "_ke:-ri:k-ta"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p250_ki_rorot_v",
+      "page": 250,
+      "headword": "ki-rorot",
+      "pos": "verb",
+      "pos_raw": "v.",
+      "phonetic_forms": [
+        "ki:-ro:r6t, ki:-ro:rô:t"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p250_roriat_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "ki-rorot"
+    },
+    "parentId": "p250_roriat_n",
+    "headerRowRaw": "ki-rorot v.",
+    "originalRows": [
+      {
+        "raw": "ki-rorot v.",
+        "phonetic": "ki:-ro:r6t, ki:-ro:rô:t"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p253_rwond_ab_mo_rwond_ab_n",
+      "page": 253,
+      "headword": "rwond ab mo rwond ab",
+      "pos": "noun",
+      "pos_raw": "n.",
+      "phonetic_forms": [
+        "rwa:n-t _a:p ma:"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p253_ke_rwet_vt",
+        "no-gloss-found"
+      ],
+      "section_hdr": "rwond ab mo rwond ab"
+    },
+    "parentId": "p253_ke_rwet_vt",
+    "headerRowRaw": "rwond ab mo rwond ab mo n.",
+    "originalRows": [
+      {
+        "raw": "rwond ab mo rwond ab mo n.",
+        "phonetic": "rwa:n-t _a:p ma:"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p253_ke_rori_v",
+      "page": 253,
+      "headword": "ke-rori",
+      "pos": "verb",
+      "pos_raw": "v.",
+      "phonetic_forms": [
+        "ke:-ra:ri"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p253_robwoniot_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "ke-rori"
+    },
+    "parentId": "p253_robwoniot_n",
+    "headerRowRaw": "ke-rori v.",
+    "originalRows": [
+      {
+        "raw": "ke-rori v.",
+        "phonetic": "ke:-ra:ri"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p254_ke_ros_v",
+      "page": 254,
+      "headword": "ke-ros",
+      "pos": "verb",
+      "pos_raw": "v.",
+      "phonetic_forms": [
+        "ke:-ras"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p254_roriot_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "ke-ros"
+    },
+    "parentId": "p254_roriot_n",
+    "headerRowRaw": "ke-ros v.",
+    "originalRows": [
+      {
+        "raw": "ke-ros v.",
+        "phonetic": "ke:-ras"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p258_to_look_down_on_account_of_vdtr",
+      "page": 258,
+      "headword": "to look down on account of",
+      "pos": "verb",
+      "pos_raw": "v.dtr.",
+      "phonetic_forms": [
+        "ke:-sas-i:s"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p258_ke_sas_vt",
+        "no-gloss-found"
+      ],
+      "section_hdr": "to look down on account of"
+    },
+    "parentId": "p258_ke_sas_vt",
+    "headerRowRaw": "to look down on account of ke-sos-isv.dtr.",
+    "originalRows": [
+      {
+        "raw": "to look down on account of ke-sos-isv.dtr.",
+        "phonetic": "ke:-sas-i:s"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "reason": "unparseable-header",
+    "rawRows": [
+      {
+        "raw": "Serem (Seereem) Serem prn.",
+        "phonetic": "se:re:ni"
+      },
+      {
+        "raw": "1. name of location in southeastern portion of Nandi district. 2. name oftown in this location. ke-serer v.",
+        "phonetic": "ke:-serer"
+      }
+    ],
+    "parentId": "p261_serem_n"
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p262_ke_siar_v",
+      "page": 262,
+      "headword": "ke-siar",
+      "pos": "verb",
+      "pos_raw": "v.",
+      "phonetic_forms": [
+        "_ke:-sya:r"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p262_siang'anet_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "ke-siar"
+    },
+    "parentId": "p262_siang'anet_n",
+    "headerRowRaw": "ke-siar v.",
+    "originalRows": [
+      {
+        "raw": "ke-siar v.",
+        "phonetic": "_ke:-sya:r"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p263_ke_sien_v",
+      "page": 263,
+      "headword": "ke-sien",
+      "pos": "verb",
+      "pos_raw": "v.",
+      "phonetic_forms": [
+        "ke:-syen"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p263_ki_sich_vt",
+        "no-gloss-found"
+      ],
+      "section_hdr": "ke-sien"
+    },
+    "parentId": "p263_ki_sich_vt",
+    "headerRowRaw": "ke-sien v.",
+    "originalRows": [
+      {
+        "raw": "ke-sien v.",
+        "phonetic": "ke:-syen"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p265_sil_v",
+      "page": 265,
+      "headword": "sil",
+      "pos": "verb",
+      "pos_raw": "v.",
+      "phonetic_forms": [
+        "ki:-si:l"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p265_ke_sil_vt",
+        "no-gloss-found"
+      ],
+      "section_hdr": "sil"
+    },
+    "parentId": "p265_ke_sil_vt",
+    "headerRowRaw": "sil (siil) ki-sil V.",
+    "originalRows": [
+      {
+        "raw": "sil (siil) ki-sil V.",
+        "phonetic": "ki:-si:l"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p266_simotwet_n",
+      "page": 266,
+      "headword": "simotwet",
+      "pos": "noun",
+      "pos_raw": "n.",
+      "phonetic_forms": [
+        "sima:t-we:t, sima:t-wa; sima:t-o:n, sima:t-ô:n-ik"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p266_simormor_a",
+        "no-gloss-found"
+      ],
+      "section_hdr": "simotwet"
+    },
+    "parentId": "p266_simormor_a",
+    "headerRowRaw": "simotwetn.",
+    "originalRows": [
+      {
+        "raw": "simotwetn.",
+        "phonetic": "sima:t-we:t, sima:t-wa; sima:t-o:n, sima:t-ô:n-ik"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p266_sing'ilda_vitv",
+      "page": 266,
+      "headword": "sing'ilda",
+      "pos": "verb_intransitive",
+      "pos_raw": "v.itv.",
+      "phonetic_forms": [
+        "_ke:-singil-ta"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p266_sinet_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "sing'ilda"
+    },
+    "parentId": "p266_sinet_n",
+    "headerRowRaw": "sing'ilda ke-sing'il-da v.itv.",
+    "originalRows": [
+      {
+        "raw": "sing'ilda ke-sing'il-da v.itv.",
+        "phonetic": "_ke:-singil-ta"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p268_Sironoi_n",
+      "page": 268,
+      "headword": "Sironoi",
+      "pos": "noun",
+      "pos_raw": "n.",
+      "phonetic_forms": [
+        "si:ro:nô:y"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p268_siriot_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "Sironoi"
+    },
+    "parentId": "p268_siriot_n",
+    "headerRowRaw": "Sironoi prn.",
+    "originalRows": [
+      {
+        "raw": "Sironoi prn.",
+        "phonetic": "si:ro:nô:y"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p268_siset_v",
+      "page": 268,
+      "headword": "siset",
+      "pos": "verb",
+      "pos_raw": "v.",
+      "phonetic_forms": [
+        "_si:s-e:t, _si:s-6"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p268_sirwoio_a",
+        "no-gloss-found"
+      ],
+      "section_hdr": "siset"
+    },
+    "parentId": "p268_sirwoio_a",
+    "headerRowRaw": "siset V.",
+    "originalRows": [
+      {
+        "raw": "siset V.",
+        "phonetic": "_si:s-e:t, _si:s-6"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p268_ke_sisin_vrefl",
+      "page": 268,
+      "headword": "ke-sisin",
+      "pos": "verb",
+      "pos_raw": "v.refl.",
+      "phonetic_forms": [
+        "ke:-sisin _ke:y"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p268_ke_sisin_vt",
+        "no-gloss-found"
+      ],
+      "section_hdr": "ke-sisin"
+    },
+    "parentId": "p268_ke_sisin_vt",
+    "headerRowRaw": "ke-sisin kei v.refl.",
+    "originalRows": [
+      {
+        "raw": "ke-sisin kei v.refl.",
+        "phonetic": "ke:-sisin _ke:y"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p269_Siwa_n",
+      "page": 269,
+      "headword": "Siwa",
+      "pos": "noun",
+      "pos_raw": "n.",
+      "phonetic_forms": [
+        "si:wa:"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p269_sitwet_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "Siwa"
+    },
+    "parentId": "p269_sitwet_n",
+    "headerRowRaw": "Siwa prn.",
+    "originalRows": [
+      {
+        "raw": "Siwa prn.",
+        "phonetic": "si:wa:"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p271_sor_v",
+      "page": 271,
+      "headword": "sor",
+      "pos": "verb",
+      "pos_raw": "v.",
+      "phonetic_forms": [
+        "_ke:-sô:r"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p271_sopsob_a",
+        "no-gloss-found"
+      ],
+      "section_hdr": "sor"
+    },
+    "parentId": "p271_sopsob_a",
+    "headerRowRaw": "sor (soor) ke-sor v.",
+    "originalRows": [
+      {
+        "raw": "sor (soor) ke-sor v.",
+        "phonetic": "_ke:-sô:r"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p272_subenet_n",
+      "page": 272,
+      "headword": "subenet",
+      "pos": "noun",
+      "pos_raw": "n.",
+      "phonetic_forms": [
+        "supen-e:t, supen; supenay, supen-a-i:k"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p272_subendo_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "subenet"
+    },
+    "parentId": "p272_subendo_n",
+    "headerRowRaw": "subenetn.",
+    "originalRows": [
+      {
+        "raw": "subenetn.",
+        "phonetic": "supen-e:t, supen; supenay, supen-a-i:k"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p272_sugui_kei_ko_sugui_vrefl",
+      "page": 272,
+      "headword": "sugui kei ko-sugui",
+      "pos": "verb",
+      "pos_raw": "v.refl.",
+      "phonetic_forms": [
+        "ko-sukuy _ke:y"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p272_Sugu_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "sugui kei ko-sugui"
+    },
+    "parentId": "p272_Sugu_n",
+    "headerRowRaw": "sugui kei ko-sugui kei v.refl.",
+    "originalRows": [
+      {
+        "raw": "sugui kei ko-sugui kei v.refl.",
+        "phonetic": "ko-sukuy _ke:y"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p273_ki_sulum_v",
+      "page": 273,
+      "headword": "ki-sulum",
+      "pos": "verb",
+      "pos_raw": "v.",
+      "phonetic_forms": [
+        "ki:-sulu:m"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p273_suiot_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "ki-sulum"
+    },
+    "parentId": "p273_suiot_n",
+    "headerRowRaw": "ki-sulum V.",
+    "originalRows": [
+      {
+        "raw": "ki-sulum V.",
+        "phonetic": "ki:-sulu:m"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p274_ki_sur_v",
+      "page": 274,
+      "headword": "ki-sur",
+      "pos": "verb",
+      "pos_raw": "v.",
+      "phonetic_forms": [
+        "ki:-sur"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p274_sunonik_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "ki-sur"
+    },
+    "parentId": "p274_sunonik_n",
+    "headerRowRaw": "ki-sur V.",
+    "originalRows": [
+      {
+        "raw": "ki-sur V.",
+        "phonetic": "ki:-sur"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p274_Surongai_v",
+      "page": 274,
+      "headword": "Surongai",
+      "pos": "verb",
+      "pos_raw": "v.",
+      "phonetic_forms": [
+        "ki:-surtu:t"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p274_surkwen_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "Surongai"
+    },
+    "parentId": "p274_surkwen_n",
+    "headerRowRaw": "Surongai (see Surungai) ki-surtut V.",
+    "originalRows": [
+      {
+        "raw": "Surongai (see Surungai) ki-surtut V.",
+        "phonetic": "ki:-surtu:t"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p275_ke_swerer_v",
+      "page": 275,
+      "headword": "ke-swerer",
+      "pos": "verb",
+      "pos_raw": "v.",
+      "phonetic_forms": [
+        "_ke:-swe:re:r"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p275_suwet_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "ke-swerer"
+    },
+    "parentId": "p275_suwet_n",
+    "headerRowRaw": "ke-swerer v.",
+    "originalRows": [
+      {
+        "raw": "ke-swerer v.",
+        "phonetic": "_ke:-swe:re:r"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p281_ke_tol_vvenrfl",
+      "page": 281,
+      "headword": "ke-tol",
+      "pos": "verb",
+      "pos_raw": "v.ven.rfl.",
+      "phonetic_forms": [
+        "ke:-ta:l _ke:y"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p281_taiwet_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "ke-tol"
+    },
+    "parentId": "p281_taiwet_n",
+    "headerRowRaw": "ke-tol kei v.ven.rfl.",
+    "originalRows": [
+      {
+        "raw": "ke-tol kei v.ven.rfl.",
+        "phonetic": "ke:-ta:l _ke:y"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p281_to_exhibit_oneself_ke_tal_vrefl",
+      "page": 281,
+      "headword": "to exhibit oneself ke-tal",
+      "pos": "verb",
+      "pos_raw": "v.refl.",
+      "phonetic_forms": [
+        "_ke:-ta:l _ke:y"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p281_taiwet_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "to exhibit oneself ke-tal"
+    },
+    "parentId": "p281_taiwet_n",
+    "headerRowRaw": "to exhibit oneself ke-tal gei v.refl.",
+    "originalRows": [
+      {
+        "raw": "to exhibit oneself ke-tal gei v.refl.",
+        "phonetic": "_ke:-ta:l _ke:y"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p282_ke_tamdam_v",
+      "page": 282,
+      "headword": "ke-tamdam",
+      "pos": "verb",
+      "pos_raw": "v.",
+      "phonetic_forms": [
+        "_ke:-tamtam"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p282_tambulul_a",
+        "no-gloss-found"
+      ],
+      "section_hdr": "ke-tamdam"
+    },
+    "parentId": "p282_tambulul_a",
+    "headerRowRaw": "ke-tamdam v.",
+    "originalRows": [
+      {
+        "raw": "ke-tamdam v.",
+        "phonetic": "_ke:-tamtam"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p283_tany_v",
+      "page": 283,
+      "headword": "tany",
+      "pos": "verb",
+      "pos_raw": "v.",
+      "phonetic_forms": [
+        "_ki:-ta:ny"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p283_tany_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "tany"
+    },
+    "parentId": "p283_tany_n",
+    "headerRowRaw": "tany (taany) ki-tany v.",
+    "originalRows": [
+      {
+        "raw": "tany (taany) ki-tany v.",
+        "phonetic": "_ki:-ta:ny"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p283_Taptildich_n",
+      "page": 283,
+      "headword": "Taptildich",
+      "pos": "noun",
+      "pos_raw": "n.",
+      "phonetic_forms": [
+        "_ta:p-til-tic"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p283_taptet_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "Taptildich"
+    },
+    "parentId": "p283_taptet_n",
+    "headerRowRaw": "Taptildich prn.",
+    "originalRows": [
+      {
+        "raw": "Taptildich prn.",
+        "phonetic": "_ta:p-til-tic"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p287_ke_temene_v",
+      "page": 287,
+      "headword": "ke-temene",
+      "pos": "verb",
+      "pos_raw": "v.",
+      "phonetic_forms": [
+        "_ke:-temene:"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p287_tembwet_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "ke-temene"
+    },
+    "parentId": "p287_tembwet_n",
+    "headerRowRaw": "ke-temene v.",
+    "originalRows": [
+      {
+        "raw": "ke-temene v.",
+        "phonetic": "_ke:-temene:"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p289_Tetagatiek_n",
+      "page": 289,
+      "headword": "Tetagatiek",
+      "pos": "noun",
+      "pos_raw": "n.",
+      "phonetic_forms": [
+        "_te:taka:t-yek, _te:taka:t"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p289_teta_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "Tetagatiek"
+    },
+    "parentId": "p289_teta_n",
+    "headerRowRaw": "Tetagatiek prn.",
+    "originalRows": [
+      {
+        "raw": "Tetagatiek prn.",
+        "phonetic": "_te:taka:t-yek, _te:taka:t"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p291_ke_tien_ot_vand",
+      "page": 291,
+      "headword": "ke-tien-ot",
+      "pos": "verb",
+      "pos_raw": "v.and.",
+      "phonetic_forms": [
+        "ke:-tyen-a:t"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p291_tiemutiet_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "ke-tien-ot"
+    },
+    "parentId": "p291_tiemutiet_n",
+    "headerRowRaw": "ke-tien-ot v.and.",
+    "originalRows": [
+      {
+        "raw": "ke-tien-ot v.and.",
+        "phonetic": "ke:-tyen-a:t"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p292_ke_tigis_vrefl",
+      "page": 292,
+      "headword": "ke-tigis",
+      "pos": "verb",
+      "pos_raw": "v.refl.",
+      "phonetic_forms": [
+        "ke:-tekis _ke:y"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p292_tigikiet_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "ke-tigis"
+    },
+    "parentId": "p292_tigikiet_n",
+    "headerRowRaw": "ke-tigis kei v.refl.",
+    "originalRows": [
+      {
+        "raw": "ke-tigis kei v.refl.",
+        "phonetic": "ke:-tekis _ke:y"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p294_Tindinya_n",
+      "page": 294,
+      "headword": "Tindinya",
+      "pos": "noun",
+      "pos_raw": "n.",
+      "phonetic_forms": [
+        "ti:nti:n-ya:"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p294_tindiniot_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "Tindinya"
+    },
+    "parentId": "p294_tindiniot_n",
+    "headerRowRaw": "Tindinya prn.",
+    "originalRows": [
+      {
+        "raw": "Tindinya prn.",
+        "phonetic": "ti:nti:n-ya:"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p294_ting'ding'e_v",
+      "page": 294,
+      "headword": "ting'ding'e",
+      "pos": "verb",
+      "pos_raw": "v.",
+      "phonetic_forms": [
+        "ke:-tingtingnye:"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p294_tinet_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "ting'ding'e"
+    },
+    "parentId": "p294_tinet_n",
+    "headerRowRaw": "ting'ding'e ke-ting'ding'e v.",
+    "originalRows": [
+      {
+        "raw": "ting'ding'e ke-ting'ding'e v.",
+        "phonetic": "ke:-tingtingnye:"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p295_tiol_v",
+      "page": 295,
+      "headword": "tiol",
+      "pos": "verb",
+      "pos_raw": "v.",
+      "phonetic_forms": [
+        "ki:-tyô:l"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p295_tinit_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "tiol"
+    },
+    "parentId": "p295_tinit_n",
+    "headerRowRaw": "tiol (tiool) ki-tiol V.",
+    "originalRows": [
+      {
+        "raw": "tiol (tiool) ki-tiol V.",
+        "phonetic": "ki:-tyô:l"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p295_tiong'_v",
+      "page": 295,
+      "headword": "tiong'",
+      "pos": "verb",
+      "pos_raw": "v.",
+      "phonetic_forms": [
+        "ki:-tyô:ng"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p295_ki_tiol_vt",
+        "no-gloss-found"
+      ],
+      "section_hdr": "tiong'"
+    },
+    "parentId": "p295_ki_tiol_vt",
+    "headerRowRaw": "tiong' ki-tiong' V.",
+    "originalRows": [
+      {
+        "raw": "tiong' ki-tiong' V.",
+        "phonetic": "ki:-tyô:ng"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p298_tong'do_vitv",
+      "page": 298,
+      "headword": "tong'do",
+      "pos": "verb_intransitive",
+      "pos_raw": "v.itv.",
+      "phonetic_forms": [
+        "ki:-tong-ta"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p298_tomotet_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "tong'do"
+    },
+    "parentId": "p298_tomotet_n",
+    "headerRowRaw": "tong'do ki-tong'-do v.itv.",
+    "originalRows": [
+      {
+        "raw": "tong'do ki-tong'-do v.itv.",
+        "phonetic": "ki:-tong-ta"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p301_turn_v",
+      "page": 301,
+      "headword": "turn",
+      "pos": "verb",
+      "pos_raw": "v.",
+      "phonetic_forms": [
+        "ke:-tu:m"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p301_tulwet_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "turn"
+    },
+    "parentId": "p301_tulwet_n",
+    "headerRowRaw": "turn (tuum) ke-tum V.",
+    "originalRows": [
+      {
+        "raw": "turn (tuum) ke-tum V.",
+        "phonetic": "ke:-tu:m"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p302_ki_tun_vrefl",
+      "page": 302,
+      "headword": "ki-tun",
+      "pos": "verb",
+      "pos_raw": "v.refl.",
+      "phonetic_forms": [
+        "ki:-tun _ke:y"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p302_tumdo_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "ki-tun"
+    },
+    "parentId": "p302_tumdo_n",
+    "headerRowRaw": "ki-tun kei v.refl.",
+    "originalRows": [
+      {
+        "raw": "ki-tun kei v.refl.",
+        "phonetic": "ki:-tun _ke:y"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p303_ke_tuptub_v",
+      "page": 303,
+      "headword": "ke-tuptub",
+      "pos": "verb",
+      "pos_raw": "v.",
+      "phonetic_forms": [
+        "ke:-tuptup"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p303_tupchet_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "ke-tuptub"
+    },
+    "parentId": "p303_tupchet_n",
+    "headerRowRaw": "ke-tuptub V.",
+    "originalRows": [
+      {
+        "raw": "ke-tuptub V.",
+        "phonetic": "ke:-tuptup"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p303_ke_tururune_vinsref",
+      "page": 303,
+      "headword": "ke-tururune",
+      "pos": "verb",
+      "pos_raw": "v.ins.ref.",
+      "phonetic_forms": [
+        "ke:- tu:ru:r-un-e: _ke:y"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p303_turungik_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "ke-tururune"
+    },
+    "parentId": "p303_turungik_n",
+    "headerRowRaw": "ke-tururune kei v.ins.ref.",
+    "originalRows": [
+      {
+        "raw": "ke-tururune kei v.ins.ref.",
+        "phonetic": "ke:- tu:ru:r-un-e: _ke:y"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p304_ki_tut_v",
+      "page": 304,
+      "headword": "ki-tut",
+      "pos": "verb",
+      "pos_raw": "v.",
+      "phonetic_forms": [
+        "ki:-tut"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p304_tustus_a",
+        "no-gloss-found"
+      ],
+      "section_hdr": "ki-tut"
+    },
+    "parentId": "p304_tustus_a",
+    "headerRowRaw": "ki-tut V.",
+    "originalRows": [
+      {
+        "raw": "ki-tut V.",
+        "phonetic": "ki:-tut"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p306_ke_togul_vrefl",
+      "page": 306,
+      "headword": "ke-togul",
+      "pos": "verb",
+      "pos_raw": "v.refl.",
+      "phonetic_forms": [
+        "ke:-takul _ke:y"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p306_togisiet_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "ke-togul"
+    },
+    "parentId": "p306_togisiet_n",
+    "headerRowRaw": "ke-togul kei v.refl.",
+    "originalRows": [
+      {
+        "raw": "ke-togul kei v.refl.",
+        "phonetic": "ke:-takul _ke:y"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p307_ke_tomdomen_v",
+      "page": 307,
+      "headword": "ke-tomdomen",
+      "pos": "verb",
+      "pos_raw": "v.",
+      "phonetic_forms": [
+        "ke:-tamtamen"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p307_tomboiat_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "ke-tomdomen"
+    },
+    "parentId": "p307_tomboiat_n",
+    "headerRowRaw": "ke-tomdomen v.",
+    "originalRows": [
+      {
+        "raw": "ke-tomdomen v.",
+        "phonetic": "ke:-tamtamen"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p308_ki_tarbus_v",
+      "page": 308,
+      "headword": "ki-tarbus",
+      "pos": "verb",
+      "pos_raw": "v.",
+      "phonetic_forms": [
+        "ki:-tarpu:s, _ki:- tarpu:s"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p308_topsienet_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "ki-tarbus"
+    },
+    "parentId": "p308_topsienet_n",
+    "headerRowRaw": "ki-tarbus v.",
+    "originalRows": [
+      {
+        "raw": "ki-tarbus v.",
+        "phonetic": "ki:-tarpu:s, _ki:- tarpu:s"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p310_ke_ul_vrefl",
+      "page": 310,
+      "headword": "ke-ul",
+      "pos": "verb",
+      "pos_raw": "v.refl.",
+      "phonetic_forms": [
+        "ke:-u:l _ke:y"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p310_ukta_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "ke-ul"
+    },
+    "parentId": "p310_ukta_n",
+    "headerRowRaw": "ke-ul kei v.refl.",
+    "originalRows": [
+      {
+        "raw": "ke-ul kei v.refl.",
+        "phonetic": "ke:-u:l _ke:y"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p312_urusiet_n",
+      "page": 312,
+      "headword": "urusiet",
+      "pos": "noun",
+      "pos_raw": "n.",
+      "phonetic_forms": [
+        "_urus-ye:t, _urus; _urusay, _urus-a-i:k"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p312_urumet_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "urusiet"
+    },
+    "parentId": "p312_urumet_n",
+    "headerRowRaw": "urusietn.",
+    "originalRows": [
+      {
+        "raw": "urusietn.",
+        "phonetic": "_urus-ye:t, _urus; _urusay, _urus-a-i:k"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p312_ke_us_vrefl",
+      "page": 312,
+      "headword": "ke-us",
+      "pos": "verb",
+      "pos_raw": "v.refl.",
+      "phonetic_forms": [
+        "ke:-us _ke:y"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p312_ke_us_vt",
+        "no-gloss-found"
+      ],
+      "section_hdr": "ke-us"
+    },
+    "parentId": "p312_ke_us_vt",
+    "headerRowRaw": "ke-us kei v.refl.",
+    "originalRows": [
+      {
+        "raw": "ke-us kei v.refl.",
+        "phonetic": "ke:-us _ke:y"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p312_ke_us_to_vitvref",
+      "page": 312,
+      "headword": "ke-us-to",
+      "pos": "verb_intransitive",
+      "pos_raw": "v.itv.ref.",
+      "phonetic_forms": [
+        "ke:-u:s-ta _ke:y"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p312_ke_us_vt",
+        "no-gloss-found"
+      ],
+      "section_hdr": "ke-us-to"
+    },
+    "parentId": "p312_ke_us_vt",
+    "headerRowRaw": "ke-us-to kei v.itv.ref.",
+    "originalRows": [
+      {
+        "raw": "ke-us-to kei v.itv.ref.",
+        "phonetic": "ke:-u:s-ta _ke:y"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p314_ki_wal_vrefl",
+      "page": 314,
+      "headword": "ki-wal",
+      "pos": "verb",
+      "pos_raw": "v.refl.",
+      "phonetic_forms": [
+        "_ki:-wa:l _ke:y"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p314_wak_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "ki-wal"
+    },
+    "parentId": "p314_wak_n",
+    "headerRowRaw": "ki-wal kei v.refl.",
+    "originalRows": [
+      {
+        "raw": "ki-wal kei v.refl.",
+        "phonetic": "_ki:-wa:l _ke:y"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p315_ke_welel_vrefl",
+      "page": 315,
+      "headword": "ke-welel",
+      "pos": "verb",
+      "pos_raw": "v.refl.",
+      "phonetic_forms": [
+        "ke:-welel _ke:y"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p315_ke_welel_vt",
+        "no-gloss-found"
+      ],
+      "section_hdr": "ke-welel"
+    },
+    "parentId": "p315_ke_welel_vt",
+    "headerRowRaw": "ke-welel kei v.refl.",
+    "originalRows": [
+      {
+        "raw": "ke-welel kei v.refl.",
+        "phonetic": "ke:-welel _ke:y"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p315_ki_wer_v",
+      "page": 315,
+      "headword": "ki-wer",
+      "pos": "verb",
+      "pos_raw": "v.",
+      "phonetic_forms": [
+        "_ki:-we:r"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p315_ki_welwel_vt",
+        "no-gloss-found"
+      ],
+      "section_hdr": "ki-wer"
+    },
+    "parentId": "p315_ki_welwel_vt",
+    "headerRowRaw": "ki-wer v.",
+    "originalRows": [
+      {
+        "raw": "ki-wer v.",
+        "phonetic": "_ki:-we:r"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "reason": "unparseable-header",
+    "rawRows": [
+      {
+        "raw": "wol (see wal) wong' ki-wong' v.ven.",
+        "phonetic": "ki:-wa:ng"
+      },
+      {
+        "raw": "to finish, empty hither. ki-wan-da v.itv.",
+        "phonetic": "_ki:-wa:n-ta"
+      }
+    ],
+    "parentId": "p316_wisis_a"
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p316_ki_yap_ta_vitv",
+      "page": 316,
+      "headword": "ki-yap-ta",
+      "pos": "verb_intransitive",
+      "pos_raw": "v.itv.",
+      "phonetic_forms": [
+        "_ki:-yap-ta"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p316_ya_a",
+        "no-gloss-found"
+      ],
+      "section_hdr": "ki-yap-ta"
+    },
+    "parentId": "p316_ya_a",
+    "headerRowRaw": "ki-yap-ta v.itv.",
+    "originalRows": [
+      {
+        "raw": "ki-yap-ta v.itv.",
+        "phonetic": "_ki:-yap-ta"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p319_ke_yot_v",
+      "page": 319,
+      "headword": "ke-yot",
+      "pos": "verb",
+      "pos_raw": "v.",
+      "phonetic_forms": [
+        "_ke:-yô:t"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p319_ke_yot_vt",
+        "no-gloss-found"
+      ],
+      "section_hdr": "ke-yot"
+    },
+    "parentId": "p319_ke_yot_vt",
+    "headerRowRaw": "ke-yot V.",
+    "originalRows": [
+      {
+        "raw": "ke-yot V.",
+        "phonetic": "_ke:-yô:t"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p323_ke_oiyeben_v",
+      "page": 323,
+      "headword": "ke-oiyeben",
+      "pos": "verb",
+      "pos_raw": "v.",
+      "phonetic_forms": [
+        "ke:-ayye:pen"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p323_ois_a",
+        "no-gloss-found"
+      ],
+      "section_hdr": "ke-oiyeben"
+    },
+    "parentId": "p323_ois_a",
+    "headerRowRaw": "ke-oiyeben v.",
+    "originalRows": [
+      {
+        "raw": "ke-oiyeben v.",
+        "phonetic": "ke:-ayye:pen"
+      }
+    ]
+  },
+  {
+    "confidence": "low",
+    "entry": {
+      "id": "p326_otoliet_v",
+      "page": 326,
+      "headword": "otoliet",
+      "pos": "verb",
+      "pos_raw": "v.",
+      "phonetic_forms": [
+        "ata:l-ye:t, ata:l-ya"
+      ],
+      "gloss": "(reconstruction incomplete)",
+      "examples": [],
+      "review_flags": [
+        "split-from-p326_otondoiet_n",
+        "no-gloss-found"
+      ],
+      "section_hdr": "otoliet"
+    },
+    "parentId": "p326_otondoiet_n",
+    "headerRowRaw": "otoliet V.",
+    "originalRows": [
+      {
+        "raw": "otoliet V.",
+        "phonetic": "ata:l-ye:t, ata:l-ya"
+      }
+    ]
+  }
+]
