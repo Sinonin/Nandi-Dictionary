@@ -58724,5 +58724,6916 @@
     "examples": [],
     "review_flags": [],
     "id": "p326_ou_adv"
+  },
+  {
+    "page": 167,
+    "headword": "ngecher",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_1a",
+    "phonetic_forms": [
+      "ngecheret (sg.def)",
+      "ngecherok (pl.)",
+      "ngecheraiik (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 167. Section: substantive_class_1a.",
+    "gloss": "stool",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p167_ngecher_n"
+  },
+  {
+    "page": 167,
+    "headword": "tomirimir",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_1a",
+    "phonetic_forms": [
+      "tomirimiriet (sg.def)",
+      "tomirimirok (pl.)",
+      "tomirimiraiik (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 167. Section: substantive_class_1a.",
+    "gloss": "person's shadow",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p167_tomirimir_n"
+  },
+  {
+    "page": 167,
+    "headword": "kimaket",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_1a",
+    "phonetic_forms": [
+      "kimaketet (sg.def)",
+      "kimaketoi (pl.)",
+      "kimaketok (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 167. Section: substantive_class_1a.",
+    "gloss": "hyena. (alt pl. kimaketaiik)",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p167_kimaket_n"
+  },
+  {
+    "page": 167,
+    "headword": "ormarich",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_1a",
+    "phonetic_forms": [
+      "ormarichet (sg.def)",
+      "ormarichoi (pl.)",
+      "ormarichok (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 167. Section: substantive_class_1a.",
+    "gloss": "door of cattlefold",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p167_ormarich_n"
+  },
+  {
+    "page": 167,
+    "headword": "cheringis",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_1a",
+    "phonetic_forms": [
+      "cheringisiet (sg.def)",
+      "cheringisoi (pl.)",
+      "cheringisok (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 167. Section: substantive_class_1a.",
+    "gloss": "lizard",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p167_cheringis_n"
+  },
+  {
+    "page": 167,
+    "headword": "kwang",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_1a",
+    "phonetic_forms": [
+      "kwanget (sg.def)",
+      "kwangoi (pl.)",
+      "kwangok (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 167. Section: substantive_class_1a.",
+    "gloss": "bow",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p167_kwang_n"
+  },
+  {
+    "page": 167,
+    "headword": "temen",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_1a",
+    "phonetic_forms": [
+      "temenyet (sg.def)",
+      "temenoi (pl.)",
+      "temenok (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 167. Section: substantive_class_1a.",
+    "gloss": "wax",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p167_temen_n"
+  },
+  {
+    "page": 167,
+    "headword": "makata",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_1b",
+    "phonetic_forms": [
+      "makatet (sg.def)",
+      "makatoi (pl.)",
+      "makatok (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 167. Section: substantive_class_1b.",
+    "gloss": "leather, goat's skin",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p167_makata_n"
+  },
+  {
+    "page": 167,
+    "headword": "kaina",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_1b",
+    "phonetic_forms": [
+      "kainet (sg.def)",
+      "kainoi (pl.)",
+      "kainaiik (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 167. Section: substantive_class_1b.",
+    "gloss": "name",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p167_kaina_n"
+  },
+  {
+    "page": 167,
+    "headword": "kuina",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_1b",
+    "phonetic_forms": [
+      "kuinet (sg.def)",
+      "kuinai (pl.)",
+      "kuinaiik (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 167. Section: substantive_class_1b.",
+    "gloss": "horn",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p167_kuina_n"
+  },
+  {
+    "page": 167,
+    "headword": "kina",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_1b",
+    "phonetic_forms": [
+      "kinet (sg.def)",
+      "kinai (pl.)",
+      "kinaiik (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 167. Section: substantive_class_1b.",
+    "gloss": "nipple",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p167_kina_n"
+  },
+  {
+    "page": 167,
+    "headword": "cheplanga",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_1b",
+    "phonetic_forms": [
+      "cheplanget (sg.def)",
+      "cheplangoi (pl.)",
+      "cheplangok (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 167. Section: substantive_class_1b.",
+    "gloss": "leopard",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p167_cheplanga_n"
+  },
+  {
+    "page": 167,
+    "headword": "indara",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_1b",
+    "phonetic_forms": [
+      "indaret (sg.def)",
+      "indaroi (pl.)",
+      "indarok (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 167. Section: substantive_class_1b.",
+    "gloss": "python",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p167_indara_n"
+  },
+  {
+    "page": 167,
+    "headword": "chepkeswai",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_1c",
+    "phonetic_forms": [
+      "chepkeswet (sg.def)",
+      "chepkesoi (pl.)",
+      "chepkesok (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 167. Section: substantive_class_1c.",
+    "gloss": "small knife",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p167_chepkeswai_n"
+  },
+  {
+    "page": 167,
+    "headword": "tisia",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_1c",
+    "phonetic_forms": [
+      "tisiet (sg.def)",
+      "tisoi (pl.)",
+      "tisok (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 167. Section: substantive_class_1c.",
+    "gloss": "monkey",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p167_tisia_n"
+  },
+  {
+    "page": 167,
+    "headword": "sigirio",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_1c",
+    "phonetic_forms": [
+      "sigiriet (sg.def)",
+      "sigiroi (pl.)",
+      "sigirok (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 167. Section: substantive_class_1c.",
+    "gloss": "donkey",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p167_sigirio_n"
+  },
+  {
+    "page": 167,
+    "headword": "iririo",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_1c",
+    "phonetic_forms": [
+      "iririot (sg.def)",
+      "iriren (pl.)",
+      "irirenik (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 167. Section: substantive_class_1c.",
+    "gloss": "piece of hide. (cf class IV.C)",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p167_iririo_n"
+  },
+  {
+    "page": 167,
+    "headword": "soromya",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_1c",
+    "phonetic_forms": [
+      "soromyet (sg.def)",
+      "soromoi (pl.)",
+      "soromok (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 167. Section: substantive_class_1c.",
+    "gloss": "kidney",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p167_soromya_n"
+  },
+  {
+    "page": 167,
+    "headword": "siiya",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_1c",
+    "phonetic_forms": [
+      "siiyet (sg.def)",
+      "sioi (pl.)",
+      "siok (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 167. Section: substantive_class_1c.",
+    "gloss": "nail, claw",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p167_siiya_n"
+  },
+  {
+    "page": 167,
+    "headword": "taiyua",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_1c",
+    "phonetic_forms": [
+      "taiyuet (sg.def)",
+      "taoi (pl.)",
+      "taok (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 167. Section: substantive_class_1c.",
+    "gloss": "spur-fowl",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p167_taiyua_n"
+  },
+  {
+    "page": 167,
+    "headword": "tae",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_1c",
+    "phonetic_forms": [
+      "taet (sg.def)",
+      "taoi (pl.)",
+      "taok (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 167. Section: substantive_class_1c.",
+    "gloss": "brass-wire",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p167_tae_n"
+  },
+  {
+    "page": 167,
+    "headword": "kutere",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_1c",
+    "phonetic_forms": [
+      "kuteret (sg.def)",
+      "kuterai (pl.)",
+      "kuteraiik (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 167. Section: substantive_class_1c.",
+    "gloss": "spoon",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p167_kutere_n"
+  },
+  {
+    "page": 167,
+    "headword": "kipisua",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_1c",
+    "phonetic_forms": [
+      "kipisuet (sg.def)",
+      "kipisoi (pl.)",
+      "kipisok (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 167. Section: substantive_class_1c.",
+    "gloss": "swallow (bird)",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p167_kipisua_n"
+  },
+  {
+    "page": 168,
+    "headword": "rotua",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_1d",
+    "phonetic_forms": [
+      "rotuet (sg.def)",
+      "rotoi (pl.)",
+      "rotok (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 168. Section: substantive_class_1d.",
+    "gloss": "sword or knife. (alt rotonai/rotonaiik)",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p168_rotua_n"
+  },
+  {
+    "page": 168,
+    "headword": "kiplengwa",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_1d",
+    "phonetic_forms": [
+      "kiplengwet (sg.def)",
+      "kiplengoi (pl.)",
+      "kiplengok (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 168. Section: substantive_class_1d.",
+    "gloss": "hare. (alt kiplengonoi)",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p168_kiplengwa_n"
+  },
+  {
+    "page": 168,
+    "headword": "lakwa",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_1d",
+    "phonetic_forms": [
+      "lakwet (sg.def)",
+      "lakoi (pl.)",
+      "lakok (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 168. Section: substantive_class_1d.",
+    "gloss": "child",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p168_lakwa_n"
+  },
+  {
+    "page": 168,
+    "headword": "situa",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_1d",
+    "phonetic_forms": [
+      "situet (sg.def)",
+      "sitonoi (pl.)",
+      "sitonok (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 168. Section: substantive_class_1d.",
+    "gloss": "impalla gazelle",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p168_situa_n"
+  },
+  {
+    "page": 168,
+    "headword": "chorua",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_1d",
+    "phonetic_forms": [
+      "choruet (sg.def)",
+      "choronoi (pl.)",
+      "choronok (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 168. Section: substantive_class_1d.",
+    "gloss": "friend",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p168_chorua_n"
+  },
+  {
+    "page": 168,
+    "headword": "mulua",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_1d",
+    "phonetic_forms": [
+      "muluet (sg.def)",
+      "mulondoi (pl.)",
+      "mulondok (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 168. Section: substantive_class_1d.",
+    "gloss": "lump",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p168_mulua_n"
+  },
+  {
+    "page": 168,
+    "headword": "urua",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_1d",
+    "phonetic_forms": [
+      "uruet (sg.def)",
+      "uruondoi (pl.)",
+      "uruondok (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 168. Section: substantive_class_1d.",
+    "gloss": "shadow",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p168_urua_n"
+  },
+  {
+    "page": 168,
+    "headword": "tuluo",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_1d",
+    "phonetic_forms": [
+      "tuluet (sg.def)",
+      "tuluondoi (pl.)",
+      "tuluondok (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 168. Section: substantive_class_1d.",
+    "gloss": "mountain",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p168_tuluo_n"
+  },
+  {
+    "page": 168,
+    "headword": "turio",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_1d",
+    "phonetic_forms": [
+      "turiet (sg.def)",
+      "turionoi (pl.)",
+      "turionok (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 168. Section: substantive_class_1d.",
+    "gloss": "unlucky omen",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p168_turio_n"
+  },
+  {
+    "page": 168,
+    "headword": "rokcho",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_1d",
+    "phonetic_forms": [
+      "rokchet (sg.def)",
+      "rokchonoi (pl.)",
+      "rokchonok (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 168. Section: substantive_class_1d.",
+    "gloss": "potsherd",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p168_rokcho_n"
+  },
+  {
+    "page": 168,
+    "headword": "mororoch",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_2a",
+    "phonetic_forms": [
+      "mororochet (sg.def)",
+      "mororochai (pl.)",
+      "mororochaiik (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 168. Section: substantive_class_2a.",
+    "gloss": "frog",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p168_mororoch_n"
+  },
+  {
+    "page": 168,
+    "headword": "kaliang",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_2a",
+    "phonetic_forms": [
+      "kalianget (sg.def)",
+      "kaliangai (pl.)",
+      "kaliangaiik (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 168. Section: substantive_class_2a.",
+    "gloss": "fly",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p168_kaliang_n"
+  },
+  {
+    "page": 168,
+    "headword": "muren",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_2a",
+    "phonetic_forms": [
+      "murenet (sg.def)",
+      "murenik (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 168. Section: substantive_class_2a.",
+    "gloss": "warrior, man",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p168_muren_n"
+  },
+  {
+    "page": 169,
+    "headword": "tapupur",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_2a",
+    "phonetic_forms": [
+      "tapupuriet (sg.def)",
+      "tapupurik (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 169. Section: substantive_class_2a.",
+    "gloss": "butterfly",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p169_tapupur_n"
+  },
+  {
+    "page": 169,
+    "headword": "koroiit",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_2a",
+    "phonetic_forms": [
+      "koroiityet (sg.def)",
+      "koroiitik (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 169. Section: substantive_class_2a.",
+    "gloss": "Colobus monkey",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p169_koroiit_n"
+  },
+  {
+    "page": 169,
+    "headword": "puon",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_2a",
+    "phonetic_forms": [
+      "puondet (sg.def)",
+      "puonik (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 169. Section: substantive_class_2a.",
+    "gloss": "lung",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p169_puon_n"
+  },
+  {
+    "page": 169,
+    "headword": "ket",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_2a",
+    "phonetic_forms": [
+      "ketit (sg.def)",
+      "ketik (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 169. Section: substantive_class_2a.",
+    "gloss": "tree",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p169_ket_n"
+  },
+  {
+    "page": 169,
+    "headword": "panan",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_2a",
+    "phonetic_forms": [
+      "pananet (sg.def)",
+      "ponon (pl.)",
+      "pononik (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 169. Section: substantive_class_2a.",
+    "gloss": "poor person",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p169_panan_n"
+  },
+  {
+    "page": 169,
+    "headword": "tarit",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_2a",
+    "phonetic_forms": [
+      "tarityet (sg.def)",
+      "taritik (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 169. Section: substantive_class_2a.",
+    "gloss": "bird",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p169_tarit_n"
+  },
+  {
+    "page": 169,
+    "headword": "tangoch",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_2a",
+    "phonetic_forms": [
+      "tangochet (sg.def)",
+      "tongoch (pl.)",
+      "tongochik (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 169. Section: substantive_class_2a.",
+    "gloss": "enigma, riddle",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p169_tangoch_n"
+  },
+  {
+    "page": 169,
+    "headword": "torkoch",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_2a",
+    "phonetic_forms": [
+      "torkochet (sg.def)",
+      "torkochik (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 169. Section: substantive_class_2a.",
+    "gloss": "Kavirondo shield",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p169_torkoch_n"
+  },
+  {
+    "page": 169,
+    "headword": "lembech",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_2b",
+    "phonetic_forms": [
+      "lembechet (sg.def)",
+      "lembechek (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 169. Section: substantive_class_2b.",
+    "gloss": "lie",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p169_lembech_n"
+  },
+  {
+    "page": 169,
+    "headword": "ngoror",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_2b",
+    "phonetic_forms": [
+      "ngororiet (sg.def)",
+      "ngororek (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 169. Section: substantive_class_2b.",
+    "gloss": "goat",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p169_ngoror_n"
+  },
+  {
+    "page": 169,
+    "headword": "kechir",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_2b",
+    "phonetic_forms": [
+      "kechiriet (sg.def)",
+      "kechirek (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 169. Section: substantive_class_2b.",
+    "gloss": "sheep",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p169_kechir_n"
+  },
+  {
+    "page": 169,
+    "headword": "kapatut",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_2c",
+    "phonetic_forms": [
+      "kapatutik (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 169. Section: substantive_class_2c.",
+    "gloss": "field cleared ready for sowing",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p169_kapatut_n"
+  },
+  {
+    "page": 169,
+    "headword": "kurkat",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_2c",
+    "phonetic_forms": [
+      "kurket (sg.def)",
+      "kurkot (pl.)",
+      "kurkotik (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 169. Section: substantive_class_2c.",
+    "gloss": "door",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p169_kurkat_n"
+  },
+  {
+    "page": 169,
+    "headword": "sumat",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_2c",
+    "phonetic_forms": [
+      "sumet (sg.def)",
+      "sumot (pl.)",
+      "sumotik (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 169. Section: substantive_class_2c.",
+    "gloss": "old men's garment",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p169_sumat_n"
+  },
+  {
+    "page": 169,
+    "headword": "patai",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_2c",
+    "phonetic_forms": [
+      "patet (sg.def)",
+      "patoi (pl.)",
+      "patoiik (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 169. Section: substantive_class_2c.",
+    "gloss": "back",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p169_patai_n"
+  },
+  {
+    "page": 169,
+    "headword": "mengich",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_2c",
+    "phonetic_forms": [
+      "mengit (sg.def)",
+      "mengichik (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 169. Section: substantive_class_2c.",
+    "gloss": "ram",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p169_mengich_n"
+  },
+  {
+    "page": 169,
+    "headword": "tokoch",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_2c",
+    "phonetic_forms": [
+      "toket (sg.def)",
+      "tokochik (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 169. Section: substantive_class_2c.",
+    "gloss": "face",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p169_tokoch_n"
+  },
+  {
+    "page": 169,
+    "headword": "kunyut",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_2c",
+    "phonetic_forms": [
+      "kundit (sg.def)",
+      "kunyutik (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 169. Section: substantive_class_2c.",
+    "gloss": "brain",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p169_kunyut_n"
+  },
+  {
+    "page": 169,
+    "headword": "kunyuk",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_2c",
+    "phonetic_forms": [
+      "kungit (sg.def)",
+      "kunyukik (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 169. Section: substantive_class_2c.",
+    "gloss": "handle",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p169_kunyuk_n"
+  },
+  {
+    "page": 170,
+    "headword": "nianja",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_3a",
+    "phonetic_forms": [
+      "nianjet (sg.def)",
+      "nianjas (pl.)",
+      "nianjasiek (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 170. Section: substantive_class_3a.",
+    "gloss": "lake. (alt pl. nianjoi/nianjok)",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p170_nianja_n"
+  },
+  {
+    "page": 170,
+    "headword": "rungu",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_3a",
+    "phonetic_forms": [
+      "rungut (sg.def)",
+      "rungus (pl.)",
+      "rungusiek (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 170. Section: substantive_class_3a.",
+    "gloss": "club",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p170_rungu_n"
+  },
+  {
+    "page": 170,
+    "headword": "kepen",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_3a",
+    "phonetic_forms": [
+      "kepenet (sg.def)",
+      "kepenos (pl.)",
+      "kepenosiek (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 170. Section: substantive_class_3a.",
+    "gloss": "cave",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p170_kepen_n"
+  },
+  {
+    "page": 170,
+    "headword": "itok",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_3a",
+    "phonetic_forms": [
+      "itokut (sg.def)",
+      "itokus (pl.)",
+      "itokusiek (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 170. Section: substantive_class_3a.",
+    "gloss": "bed",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p170_itok_n"
+  },
+  {
+    "page": 170,
+    "headword": "aina",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_3a",
+    "phonetic_forms": [
+      "ainet (sg.def)",
+      "ainos (pl.)",
+      "ainosiek (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 170. Section: substantive_class_3a.",
+    "gloss": "river",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p170_aina_n"
+  },
+  {
+    "page": 170,
+    "headword": "kuto",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_3a",
+    "phonetic_forms": [
+      "kutet (sg.def)",
+      "kutes (pl.)",
+      "kutesiek (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 170. Section: substantive_class_3a.",
+    "gloss": "ant-bear",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p170_kuto_n"
+  },
+  {
+    "page": 170,
+    "headword": "salua",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_3a",
+    "phonetic_forms": [
+      "saluet (sg.def)",
+      "salus (pl.)",
+      "salusiek (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 170. Section: substantive_class_3a.",
+    "gloss": "deformed person",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p170_salua_n"
+  },
+  {
+    "page": 170,
+    "headword": "chambolua",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_3b",
+    "phonetic_forms": [
+      "chamboluet (sg.def)",
+      "chambolos (pl.)",
+      "chambolosiek (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 170. Section: substantive_class_3b.",
+    "gloss": "knife for butchering cattle",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p170_chambolua_n"
+  },
+  {
+    "page": 170,
+    "headword": "pireyuo",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_3b",
+    "phonetic_forms": [
+      "pireyuot (sg.def)",
+      "pireyuos (pl.)",
+      "pireyuosiek (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 170. Section: substantive_class_3b.",
+    "gloss": "man's belt",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p170_pireyuo_n"
+  },
+  {
+    "page": 170,
+    "headword": "sese",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_4a",
+    "phonetic_forms": [
+      "seset (sg.def)",
+      "sesen (pl.)",
+      "sesenik (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 170. Section: substantive_class_4a.",
+    "gloss": "dog",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p170_sese_n"
+  },
+  {
+    "page": 170,
+    "headword": "moso",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_4a",
+    "phonetic_forms": [
+      "moset (sg.def)",
+      "moson (pl.)",
+      "mosonik (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 170. Section: substantive_class_4a.",
+    "gloss": "baboon",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p170_moso_n"
+  },
+  {
+    "page": 170,
+    "headword": "mukang",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_4a",
+    "phonetic_forms": [
+      "mukanget (sg.def)",
+      "mukangan (pl.)",
+      "mukanganik (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 170. Section: substantive_class_4a.",
+    "gloss": "spoon",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p170_mukang_n"
+  },
+  {
+    "page": 170,
+    "headword": "imbar",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_4a",
+    "phonetic_forms": [
+      "imbaret (sg.def)",
+      "imbaren (pl.)",
+      "imbarenik (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 170. Section: substantive_class_4a.",
+    "gloss": "plantation",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p170_imbar_n"
+  },
+  {
+    "page": 170,
+    "headword": "cherengen",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_4a",
+    "phonetic_forms": [
+      "cherengendet (sg.def)",
+      "cherengenyen (pl.)",
+      "cherengenyenik (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 170. Section: substantive_class_4a.",
+    "gloss": "locust",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p170_cherengen_n"
+  },
+  {
+    "page": 170,
+    "headword": "kipokan",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_4a",
+    "phonetic_forms": [
+      "kipokandet (sg.def)",
+      "kipokandin (pl.)",
+      "kipokandinik (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 170. Section: substantive_class_4a.",
+    "gloss": "lyre",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p170_kipokan_n"
+  },
+  {
+    "page": 170,
+    "headword": "sot",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_4a",
+    "phonetic_forms": [
+      "sotet (sg.def)",
+      "soton (pl.)",
+      "sotonik (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 170. Section: substantive_class_4a.",
+    "gloss": "calabash",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p170_sot_n"
+  },
+  {
+    "page": 170,
+    "headword": "kipkeu",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_4a",
+    "phonetic_forms": [
+      "kipkeut (sg.def)",
+      "kipkeun (pl.)",
+      "kipkeunik (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 170. Section: substantive_class_4a.",
+    "gloss": "kind of rat",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p170_kipkeu_n"
+  },
+  {
+    "page": 171,
+    "headword": "ser",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_4b",
+    "phonetic_forms": [
+      "serut (sg.def)",
+      "serun (pl.)",
+      "serunek (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 171. Section: substantive_class_4b.",
+    "gloss": "nose",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p171_ser_n"
+  },
+  {
+    "page": 171,
+    "headword": "sabitia",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_4c",
+    "phonetic_forms": [
+      "sabitiat (sg.def)",
+      "sabiten (pl.)",
+      "sabitenik (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 171. Section: substantive_class_4c.",
+    "gloss": "porcupine quill",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p171_sabitia_n"
+  },
+  {
+    "page": 171,
+    "headword": "tiangia",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_4c",
+    "phonetic_forms": [
+      "tiangiat (sg.def)",
+      "tiangin (pl.)",
+      "tianglnik (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 171. Section: substantive_class_4c.",
+    "gloss": "stalk of millet",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p171_tiangia_n"
+  },
+  {
+    "page": 171,
+    "headword": "terkekya",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_4c",
+    "phonetic_forms": [
+      "terkekyat (sg.def)",
+      "terkeken (pl.)",
+      "terkekenik (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 171. Section: substantive_class_4c.",
+    "gloss": "guinea-fowl",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p171_terkekya_n"
+  },
+  {
+    "page": 171,
+    "headword": "iririo",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_4c",
+    "phonetic_forms": [
+      "iririot (sg.def)",
+      "iriren (pl.)",
+      "irirenik (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 171. Section: substantive_class_4c.",
+    "gloss": "piece of hide",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p171_iririo_n"
+  },
+  {
+    "page": 171,
+    "headword": "maiyo",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_4c",
+    "phonetic_forms": [
+      "maiyat (sg.def)",
+      "maen (pl.)",
+      "maenik (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 171. Section: substantive_class_4c.",
+    "gloss": "digging-stick",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p171_maiyo_n"
+  },
+  {
+    "page": 171,
+    "headword": "ingotio",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_4c",
+    "phonetic_forms": [
+      "ingotiot (sg.def)",
+      "ingotin (pl.)",
+      "ingotinik (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 171. Section: substantive_class_4c.",
+    "gloss": "giraffe",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p171_ingotio_n"
+  },
+  {
+    "page": 171,
+    "headword": "samoiyo",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_4c",
+    "phonetic_forms": [
+      "samoiyot (sg.def)",
+      "samoiin (pl.)",
+      "samoiinik (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 171. Section: substantive_class_4c.",
+    "gloss": "old man's bracelet",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p171_samoiyo_n"
+  },
+  {
+    "page": 171,
+    "headword": "kweyo",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_4c",
+    "phonetic_forms": [
+      "kweyot (sg.def)",
+      "kweon (pl.)",
+      "kweonik (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 171. Section: substantive_class_4c.",
+    "gloss": "sandal, broom",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p171_kweyo_n"
+  },
+  {
+    "page": 171,
+    "headword": "kumia",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_4c",
+    "phonetic_forms": [
+      "kumiat (sg.def)",
+      "kumin (pl.)",
+      "kumik (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 171. Section: substantive_class_4c.",
+    "gloss": "honey",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p171_kumia_n"
+  },
+  {
+    "page": 171,
+    "headword": "twalio",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_4c",
+    "phonetic_forms": [
+      "twaliot (sg.def)",
+      "twalin (pl.)",
+      "twalik (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 171. Section: substantive_class_4c.",
+    "gloss": "cow-bell",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p171_twalio_n"
+  },
+  {
+    "page": 171,
+    "headword": "tyolio",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_4c",
+    "phonetic_forms": [
+      "tyoliot (sg.def)",
+      "tyolin (pl.)",
+      "tyolik (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 171. Section: substantive_class_4c.",
+    "gloss": "cooked locust",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p171_tyolio_n"
+  },
+  {
+    "page": 171,
+    "headword": "karna",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_4c",
+    "phonetic_forms": [
+      "karnet (sg.def)",
+      "karin (pl.)",
+      "karik (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 171. Section: substantive_class_4c.",
+    "gloss": "iron",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p171_karna_n"
+  },
+  {
+    "page": 171,
+    "headword": "morna",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_4c",
+    "phonetic_forms": [
+      "mornet (sg.def)",
+      "morin (pl.)",
+      "morik (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 171. Section: substantive_class_4c.",
+    "gloss": "finger",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p171_morna_n"
+  },
+  {
+    "page": 171,
+    "headword": "longno",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_4c",
+    "phonetic_forms": [
+      "longnet (sg.def)",
+      "longin (pl.)",
+      "longik (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 171. Section: substantive_class_4c.",
+    "gloss": "arrow used for bleeding cattle",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p171_longno_n"
+  },
+  {
+    "page": 171,
+    "headword": "iit",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_4c",
+    "phonetic_forms": [
+      "iitit (sg.def)",
+      "iitin (pl.)",
+      "iitik (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 171. Section: substantive_class_4c.",
+    "gloss": "ear",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p171_iit_n"
+  },
+  {
+    "page": 171,
+    "headword": "sororua",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_4d",
+    "phonetic_forms": [
+      "sororuet (sg.def)",
+      "sororon (pl.)",
+      "sororonik (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 171. Section: substantive_class_4d.",
+    "gloss": "flower of the banana",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p171_sororua_n"
+  },
+  {
+    "page": 171,
+    "headword": "serengwa",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_4d",
+    "phonetic_forms": [
+      "serengwet (sg.def)",
+      "serengon (pl.)",
+      "serengonik (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 171. Section: substantive_class_4d.",
+    "gloss": "wooden horn",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p171_serengwa_n"
+  },
+  {
+    "page": 171,
+    "headword": "kipsoiyua",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_4d",
+    "phonetic_forms": [
+      "kipsoiyuet (sg.def)",
+      "kipsoon (pl.)",
+      "kipsoonik (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 171. Section: substantive_class_4d.",
+    "gloss": "cock (male bird)",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p171_kipsoiyua_n"
+  },
+  {
+    "page": 171,
+    "headword": "lamaiyuo",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_4d",
+    "phonetic_forms": [
+      "lamaiyuet (sg.def)",
+      "lamaon (pl.)",
+      "lamaonik (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 171. Section: substantive_class_4d.",
+    "gloss": "Ximenia americana (tree)",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p171_lamaiyuo_n"
+  },
+  {
+    "page": 172,
+    "headword": "ngot",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_5a",
+    "phonetic_forms": [
+      "ngotit (sg.def)",
+      "ngotua (pl.)",
+      "ngotuek (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 172. Section: substantive_class_5a.",
+    "gloss": "spear",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p172_ngot_n"
+  },
+  {
+    "page": 172,
+    "headword": "kipeperia",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_5a",
+    "phonetic_forms": [
+      "kipeperiat (sg.def)",
+      "kipeperua (pl.)",
+      "kipeperuek (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 172. Section: substantive_class_5a.",
+    "gloss": "portion",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p172_kipeperia_n"
+  },
+  {
+    "page": 172,
+    "headword": "musio",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_5a",
+    "phonetic_forms": [
+      "musiot (sg.def)",
+      "musua (pl.)",
+      "musuek (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 172. Section: substantive_class_5a.",
+    "gloss": "carcase",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p172_musio_n"
+  },
+  {
+    "page": 172,
+    "headword": "kwetio",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_5a",
+    "phonetic_forms": [
+      "kwetiot (sg.def)",
+      "kwetua (pl.)",
+      "kwetuek (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 172. Section: substantive_class_5a.",
+    "gloss": "buttock",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p172_kwetio_n"
+  },
+  {
+    "page": 172,
+    "headword": "lokoiyo",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_5a",
+    "phonetic_forms": [
+      "lokoiyot (sg.def)",
+      "lokoiyua (pl.)",
+      "lokoiyuek (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 172. Section: substantive_class_5a.",
+    "gloss": "answer",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p172_lokoiyo_n"
+  },
+  {
+    "page": 172,
+    "headword": "susuo",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_5b",
+    "phonetic_forms": [
+      "susuot (sg.def)",
+      "susua (pl.)",
+      "susuek (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 172. Section: substantive_class_5b.",
+    "gloss": "grass",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p172_susuo_n"
+  },
+  {
+    "page": 172,
+    "headword": "sokwo",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_5b",
+    "phonetic_forms": [
+      "sokwot (sg.def)",
+      "sokwa (pl.)",
+      "sokwek (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 172. Section: substantive_class_5b.",
+    "gloss": "notch in the butt of arrow",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p172_sokwo_n"
+  },
+  {
+    "page": 172,
+    "headword": "tungwo",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_5b",
+    "phonetic_forms": [
+      "tungwot (sg.def)",
+      "tungwa (pl.)",
+      "tungwek (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 172. Section: substantive_class_5b.",
+    "gloss": "cough",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p172_tungwo_n"
+  },
+  {
+    "page": 172,
+    "headword": "siwo",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_5b",
+    "phonetic_forms": [
+      "siwot (sg.def)",
+      "siwa (pl.)",
+      "siwek (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 172. Section: substantive_class_5b.",
+    "gloss": "stinging-nettle",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p172_siwo_n"
+  },
+  {
+    "page": 172,
+    "headword": "lol",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_5c",
+    "phonetic_forms": [
+      "lolet (sg.def)",
+      "lolotinua (pl.)",
+      "lolotinuek (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 172. Section: substantive_class_5c.",
+    "gloss": "bag",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p172_lol_n"
+  },
+  {
+    "page": 172,
+    "headword": "kor",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_5c",
+    "phonetic_forms": [
+      "koret (sg.def)",
+      "korotinua (pl.)",
+      "korotinuek (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 172. Section: substantive_class_5c.",
+    "gloss": "country",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p172_kor_n"
+  },
+  {
+    "page": 172,
+    "headword": "em",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_5c",
+    "phonetic_forms": [
+      "emet (sg.def)",
+      "emotinua (pl.)",
+      "emotinuek (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 172. Section: substantive_class_5c.",
+    "gloss": "earth",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p172_em_n"
+  },
+  {
+    "page": 172,
+    "headword": "mo",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_5c",
+    "phonetic_forms": [
+      "moiet (sg.def)",
+      "mootinua (pl.)",
+      "mootinuek (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 172. Section: substantive_class_5c.",
+    "gloss": "belly",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p172_mo_n"
+  },
+  {
+    "page": 172,
+    "headword": "or",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_5c",
+    "phonetic_forms": [
+      "oret (sg.def)",
+      "ortinua (pl.)",
+      "ortinuek (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 172. Section: substantive_class_5c.",
+    "gloss": "path, clan",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p172_or_n"
+  },
+  {
+    "page": 172,
+    "headword": "long",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_5c",
+    "phonetic_forms": [
+      "longet (sg.def)",
+      "longotinua (pl.)",
+      "longotinuek (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 172. Section: substantive_class_5c.",
+    "gloss": "shield",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p172_long_n"
+  },
+  {
+    "page": 172,
+    "headword": "kor2",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_5c",
+    "phonetic_forms": [
+      "koret (sg.def)",
+      "korotinua (pl.)",
+      "korotinuek (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 172. Section: substantive_class_5c.",
+    "gloss": "stubble. (homograph of country)",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p172_kor2_n"
+  },
+  {
+    "page": 172,
+    "headword": "kut",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_5d",
+    "phonetic_forms": [
+      "kutit (sg.def)",
+      "kutusua (pl.)",
+      "kutusuek (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 172. Section: substantive_class_5d.",
+    "gloss": "mouth",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p172_kut_n"
+  },
+  {
+    "page": 172,
+    "headword": "kat",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_5d",
+    "phonetic_forms": [
+      "katit (sg.def)",
+      "katusua (pl.)",
+      "katusuek (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 172. Section: substantive_class_5d.",
+    "gloss": "neck",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p172_kat_n"
+  },
+  {
+    "page": 173,
+    "headword": "siro",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_5e",
+    "phonetic_forms": [
+      "siret (sg.def)",
+      "sireyua (pl.)",
+      "sireyuek (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 173. Section: substantive_class_5e.",
+    "gloss": "band, stripe",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p173_siro_n"
+  },
+  {
+    "page": 173,
+    "headword": "met",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_5e",
+    "phonetic_forms": [
+      "metit (sg.def)",
+      "metoa (pl.)",
+      "metoek (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 173. Section: substantive_class_5e.",
+    "gloss": "head",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p173_met_n"
+  },
+  {
+    "page": 173,
+    "headword": "suwe",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_6",
+    "phonetic_forms": [
+      "suwet (sg.def)",
+      "suwenut (pl.)",
+      "suwenutik (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 173. Section: substantive_class_6.",
+    "gloss": "loin",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p173_suwe_n"
+  },
+  {
+    "page": 173,
+    "headword": "sombe",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_6",
+    "phonetic_forms": [
+      "sombet (sg.def)",
+      "sombenut (pl.)",
+      "sombenutik (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 173. Section: substantive_class_6.",
+    "gloss": "ostrich-feather head-dress",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p173_sombe_n"
+  },
+  {
+    "page": 173,
+    "headword": "tilia",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_6",
+    "phonetic_forms": [
+      "tiliet (sg.def)",
+      "tilionut (pl.)",
+      "tilionutik (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 173. Section: substantive_class_6.",
+    "gloss": "peace, relation",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p173_tilia_n"
+  },
+  {
+    "page": 173,
+    "headword": "kiruog",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_6",
+    "phonetic_forms": [
+      "kiruoget (sg.def)",
+      "kiruogut (pl.)",
+      "kiruogutik (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 173. Section: substantive_class_6.",
+    "gloss": "advice, assembly",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p173_kiruog_n"
+  },
+  {
+    "page": 173,
+    "headword": "kap-kiruog",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_6",
+    "phonetic_forms": [
+      "kap-kiruoget (sg.def)",
+      "kap-kiruogut (pl.)",
+      "kap-kiruogutik (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 173. Section: substantive_class_6.",
+    "gloss": "place of assembly",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p173_kapkiruog_n"
+  },
+  {
+    "page": 173,
+    "headword": "kesua",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_7a",
+    "phonetic_forms": [
+      "kesuot (sg.def)",
+      "kesui (pl.)",
+      "kesuek (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 173. Section: substantive_class_7a.",
+    "gloss": "seed",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p173_kesua_n"
+  },
+  {
+    "page": 173,
+    "headword": "ingua",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_7a",
+    "phonetic_forms": [
+      "inguot (sg.def)",
+      "ingui (pl.)",
+      "inguek (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 173. Section: substantive_class_7a.",
+    "gloss": "herb, vegetable",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p173_ingua_n"
+  },
+  {
+    "page": 173,
+    "headword": "lelua",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_7a",
+    "phonetic_forms": [
+      "leluot (sg.def)",
+      "lelue (pl.)",
+      "leluek (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 173. Section: substantive_class_7a.",
+    "gloss": "jackal",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p173_lelua_n"
+  },
+  {
+    "page": 173,
+    "headword": "mistoa",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_7a",
+    "phonetic_forms": [
+      "mistoat (sg.def)",
+      "mistoe (pl.)",
+      "mistoek (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 173. Section: substantive_class_7a.",
+    "gloss": "herdsman",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p173_mistoa_n"
+  },
+  {
+    "page": 173,
+    "headword": "koto",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_7a",
+    "phonetic_forms": [
+      "kotet (sg.def)",
+      "koti (pl.)",
+      "kotiek (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 173. Section: substantive_class_7a.",
+    "gloss": "arrow",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p173_koto_n"
+  },
+  {
+    "page": 173,
+    "headword": "kowo",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_7b",
+    "phonetic_forms": [
+      "kowet (sg.def)",
+      "kowoi (pl.)",
+      "kowek (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 173. Section: substantive_class_7b.",
+    "gloss": "bone",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p173_kowo_n"
+  },
+  {
+    "page": 173,
+    "headword": "ruto",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_7b",
+    "phonetic_forms": [
+      "ruteet (sg.def)",
+      "rutoi (pl.)",
+      "rutoik (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 173. Section: substantive_class_7b.",
+    "gloss": "visitor",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p173_ruto_n"
+  },
+  {
+    "page": 173,
+    "headword": "akwo",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_7b",
+    "phonetic_forms": [
+      "akwot (sg.def)",
+      "akwai (pl.)",
+      "akwek (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 173. Section: substantive_class_7b.",
+    "gloss": "bag",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p173_akwo_n"
+  },
+  {
+    "page": 174,
+    "headword": "sirim",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_8a",
+    "phonetic_forms": [
+      "sirimdo (sg.def)",
+      "sirimwa (pl.)",
+      "sirimwagik (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 174. Section: substantive_class_8a.",
+    "gloss": "chain. (alt sirimai)",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p174_sirim_n"
+  },
+  {
+    "page": 174,
+    "headword": "pesen",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_8a",
+    "phonetic_forms": [
+      "pesendo (sg.def)",
+      "pesenua (pl.)",
+      "pesenuek (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 174. Section: substantive_class_8a.",
+    "gloss": "debt",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p174_pesen_n"
+  },
+  {
+    "page": 174,
+    "headword": "ror",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_8a",
+    "phonetic_forms": [
+      "rorta (sg.def)",
+      "rorua (pl.)",
+      "roruek (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 174. Section: substantive_class_8a.",
+    "gloss": "heifer",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p174_ror_n"
+  },
+  {
+    "page": 174,
+    "headword": "uk",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_8a",
+    "phonetic_forms": [
+      "ukta (sg.def)",
+      "ukwa (pl.)",
+      "ukwek (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 174. Section: substantive_class_8a.",
+    "gloss": "hump",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p174_uk_n"
+  },
+  {
+    "page": 174,
+    "headword": "melmel",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_8a",
+    "phonetic_forms": [
+      "melmeldo (sg.def)",
+      "melmelua (pl.)",
+      "melmeluek (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 174. Section: substantive_class_8a.",
+    "gloss": "scorpion",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p174_melmel_n"
+  },
+  {
+    "page": 174,
+    "headword": "litei",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_8a",
+    "phonetic_forms": [
+      "liteito (sg.def)",
+      "liteiua (pl.)",
+      "liteiuek (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 174. Section: substantive_class_8a.",
+    "gloss": "whetstone",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p174_litei_n"
+  },
+  {
+    "page": 174,
+    "headword": "ngeng",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_8b",
+    "phonetic_forms": [
+      "ngenda (sg.def)",
+      "ngengwa (pl.)",
+      "ngengwek (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 174. Section: substantive_class_8b.",
+    "gloss": "salt-lick",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p174_ngeng_n"
+  },
+  {
+    "page": 174,
+    "headword": "kutung",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_8b",
+    "phonetic_forms": [
+      "kutunda (sg.def)",
+      "kutungwa (pl.)",
+      "kutungwek (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 174. Section: substantive_class_8b.",
+    "gloss": "elbow, knee",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p174_kutung_n"
+  },
+  {
+    "page": 174,
+    "headword": "matang",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_8b",
+    "phonetic_forms": [
+      "matanda (sg.def)",
+      "matongwa (pl.)",
+      "matongwek (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 174. Section: substantive_class_8b.",
+    "gloss": "cheek",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p174_matang_n"
+  },
+  {
+    "page": 174,
+    "headword": "motony",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_8b",
+    "phonetic_forms": [
+      "motonda (sg.def)",
+      "motongwa (pl.)",
+      "motongwek (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 174. Section: substantive_class_8b.",
+    "gloss": "vulture",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p174_motony_n"
+  },
+  {
+    "page": 174,
+    "headword": "moi",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_9",
+    "phonetic_forms": [
+      "moita (sg.def)",
+      "moii (pl.)",
+      "moiek (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 174. Section: substantive_class_9.",
+    "gloss": "calf",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p174_moi_n"
+  },
+  {
+    "page": 174,
+    "headword": "koii",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_9",
+    "phonetic_forms": [
+      "koiita (sg.def)",
+      "koiin (pl.)",
+      "koiik (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 174. Section: substantive_class_9.",
+    "gloss": "stone, egg",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p174_koii_n"
+  },
+  {
+    "page": 174,
+    "headword": "ei",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_9",
+    "phonetic_forms": [
+      "eito (sg.def)",
+      "ein (pl.)",
+      "einik (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 174. Section: substantive_class_9.",
+    "gloss": "bullock",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p174_ei_n"
+  },
+  {
+    "page": 174,
+    "headword": "mwai",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_9",
+    "phonetic_forms": [
+      "mwaita (sg.def)",
+      "mwan (pl.)",
+      "mwanik (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 174. Section: substantive_class_9.",
+    "gloss": "oil",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p174_mwai_n"
+  },
+  {
+    "page": 174,
+    "headword": "kong",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_9",
+    "phonetic_forms": [
+      "konda (sg.def)",
+      "kongin (pl.)",
+      "kongik (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 174. Section: substantive_class_9.",
+    "gloss": "hole",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p174_kong_n"
+  },
+  {
+    "page": 174,
+    "headword": "kong2",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_9",
+    "phonetic_forms": [
+      "konda (sg.def)",
+      "konyan (pl.)",
+      "konyek (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 174. Section: substantive_class_9.",
+    "gloss": "eye. (homograph)",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p174_kong2_n"
+  },
+  {
+    "page": 174,
+    "headword": "tiony",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_9",
+    "phonetic_forms": [
+      "tiondo (sg.def)",
+      "tiongin (pl.)",
+      "tiongik (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 174. Section: substantive_class_9.",
+    "gloss": "animal",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p174_tiony_n"
+  },
+  {
+    "page": 174,
+    "headword": "ngetuny",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_9",
+    "phonetic_forms": [
+      "ngetundo (sg.def)",
+      "ngetunyik (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 174. Section: substantive_class_9.",
+    "gloss": "lion",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p174_ngetuny_n"
+  },
+  {
+    "page": 175,
+    "headword": "kecheia",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_10a",
+    "phonetic_forms": [
+      "kecheiat (sg.def)",
+      "kechei (pl.)",
+      "kecheik (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 175. Section: substantive_class_10a.",
+    "gloss": "star",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p175_kecheia_n"
+  },
+  {
+    "page": 175,
+    "headword": "kongonyo",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_10a",
+    "phonetic_forms": [
+      "kongonyot (sg.def)",
+      "kongony (pl.)",
+      "kongonyik (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 175. Section: substantive_class_10a.",
+    "gloss": "crested crane",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p175_kongonyo_n"
+  },
+  {
+    "page": 175,
+    "headword": "muria",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_10a",
+    "phonetic_forms": [
+      "muriat (sg.def)",
+      "mur (pl.)",
+      "murek (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 175. Section: substantive_class_10a.",
+    "gloss": "rat",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p175_muria_n"
+  },
+  {
+    "page": 175,
+    "headword": "kororia",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_10a",
+    "phonetic_forms": [
+      "kororiat (sg.def)",
+      "koror (pl.)",
+      "kororik (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 175. Section: substantive_class_10a.",
+    "gloss": "feather",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p175_kororia_n"
+  },
+  {
+    "page": 175,
+    "headword": "pelio",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_10a",
+    "phonetic_forms": [
+      "peliot (sg.def)",
+      "pel (pl.)",
+      "pelek (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 175. Section: substantive_class_10a.",
+    "gloss": "elephant",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p175_pelio_n"
+  },
+  {
+    "page": 175,
+    "headword": "roboonio",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_10a",
+    "phonetic_forms": [
+      "robooniot (sg.def)",
+      "roboon (pl.)",
+      "roboonik (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 175. Section: substantive_class_10a.",
+    "gloss": "potato",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p175_roboonio_n"
+  },
+  {
+    "page": 175,
+    "headword": "segemya",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_10a",
+    "phonetic_forms": [
+      "segemyat (sg.def)",
+      "segem (pl.)",
+      "segemik (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 175. Section: substantive_class_10a.",
+    "gloss": "bee",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p175_segemya_n"
+  },
+  {
+    "page": 175,
+    "headword": "imanya",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_10a",
+    "phonetic_forms": [
+      "imanyat (sg.def)",
+      "iman (pl.)",
+      "imanek (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 175. Section: substantive_class_10a.",
+    "gloss": "castor oil plant",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p175_imanya_n"
+  },
+  {
+    "page": 175,
+    "headword": "sumeyo",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_10a",
+    "phonetic_forms": [
+      "sumeyot (sg.def)",
+      "sume (pl.)",
+      "sumek (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 175. Section: substantive_class_10a.",
+    "gloss": "hair",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p175_sumeyo_n"
+  },
+  {
+    "page": 175,
+    "headword": "solopcho",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_10a",
+    "phonetic_forms": [
+      "solopchot (sg.def)",
+      "solop (pl.)",
+      "solopik (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 175. Section: substantive_class_10a.",
+    "gloss": "cockroach",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p175_solopcho_n"
+  },
+  {
+    "page": 175,
+    "headword": "mopcho",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_10a",
+    "phonetic_forms": [
+      "mopchot (sg.def)",
+      "mop (pl.)",
+      "mopik (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 175. Section: substantive_class_10a.",
+    "gloss": "sugar-cane",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p175_mopcho_n"
+  },
+  {
+    "page": 175,
+    "headword": "orokcha",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_10a",
+    "phonetic_forms": [
+      "orokchat (sg.def)",
+      "orok (pl.)",
+      "orokik (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 175. Section: substantive_class_10a.",
+    "gloss": "eagle",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p175_orokcha_n"
+  },
+  {
+    "page": 175,
+    "headword": "makandia",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_10b",
+    "phonetic_forms": [
+      "makandiat (sg.def)",
+      "makanda (pl.)",
+      "makandek (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 175. Section: substantive_class_10b.",
+    "gloss": "bean",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p175_makandia_n"
+  },
+  {
+    "page": 175,
+    "headword": "mumia",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_10b",
+    "phonetic_forms": [
+      "mumiat (sg.def)",
+      "muma (pl.)",
+      "mumek (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 175. Section: substantive_class_10b.",
+    "gloss": "oath",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p175_mumia_n"
+  },
+  {
+    "page": 175,
+    "headword": "ipandia",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_10b",
+    "phonetic_forms": [
+      "ipandiat (sg.def)",
+      "ipande (pl.)",
+      "ipandek (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 175. Section: substantive_class_10b.",
+    "gloss": "Indian corn",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p175_ipandia_n"
+  },
+  {
+    "page": 175,
+    "headword": "ndorio",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_10b",
+    "phonetic_forms": [
+      "ndoriot (sg.def)",
+      "ndore (pl.)",
+      "ndorek (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 175. Section: substantive_class_10b.",
+    "gloss": "red bead",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p175_ndorio_n"
+  },
+  {
+    "page": 175,
+    "headword": "makorio",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_10b",
+    "phonetic_forms": [
+      "makoriot (sg.def)",
+      "mokore (pl.)",
+      "mokorek (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 175. Section: substantive_class_10b.",
+    "gloss": "merchant",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p175_makorio_n"
+  },
+  {
+    "page": 175,
+    "headword": "pusia",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_10c",
+    "phonetic_forms": [
+      "pusiat (sg.def)",
+      "pusio (pl.)",
+      "pusiek (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 175. Section: substantive_class_10c.",
+    "gloss": "flour",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p175_pusia_n"
+  },
+  {
+    "page": 175,
+    "headword": "maiya",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_10c",
+    "phonetic_forms": [
+      "maiyat (sg.def)",
+      "maiyo (pl.)",
+      "maiyek (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 175. Section: substantive_class_10c.",
+    "gloss": "beer",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p175_maiya_n"
+  },
+  {
+    "page": 176,
+    "headword": "roteyua",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_10d",
+    "phonetic_forms": [
+      "roteyuot (sg.def)",
+      "rote (pl.)",
+      "roteyuek (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 176. Section: substantive_class_10d.",
+    "gloss": "slender pole",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p176_roteyua_n"
+  },
+  {
+    "page": 176,
+    "headword": "lumeyua",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_10d",
+    "phonetic_forms": [
+      "lumeyuot (sg.def)",
+      "lume (pl.)",
+      "lumeyuek (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 176. Section: substantive_class_10d.",
+    "gloss": "stout pole",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p176_lumeyua_n"
+  },
+  {
+    "page": 176,
+    "headword": "tareyuo",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_10d",
+    "phonetic_forms": [
+      "tareyuot (sg.def)",
+      "tare (pl.)",
+      "tareyuek (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 176. Section: substantive_class_10d.",
+    "gloss": "feathers of an arrow",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p176_tareyuo_n"
+  },
+  {
+    "page": 176,
+    "headword": "kanameyuo",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_10d",
+    "phonetic_forms": [
+      "kanameyuot (sg.def)",
+      "kaname (pl.)",
+      "kanameyuek (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 176. Section: substantive_class_10d.",
+    "gloss": "tongs",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p176_kanameyuo_n"
+  },
+  {
+    "page": 176,
+    "headword": "poldo",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_10e",
+    "phonetic_forms": [
+      "poldet (sg.def)",
+      "pol (pl.)",
+      "polik (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 176. Section: substantive_class_10e.",
+    "gloss": "cloud",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p176_poldo_n"
+  },
+  {
+    "page": 176,
+    "headword": "perto",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_10e",
+    "phonetic_forms": [
+      "pertet (sg.def)",
+      "per (pl.)",
+      "perik (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 176. Section: substantive_class_10e.",
+    "gloss": "bark of a tree",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p176_perto_n"
+  },
+  {
+    "page": 176,
+    "headword": "kwendo",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_10e",
+    "phonetic_forms": [
+      "kwendet (sg.def)",
+      "kwen (pl.)",
+      "kwenik (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 176. Section: substantive_class_10e.",
+    "gloss": "firewood",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p176_kwendo_n"
+  },
+  {
+    "page": 176,
+    "headword": "saanya",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_10e",
+    "phonetic_forms": [
+      "saandet (sg.def)",
+      "saan (pl.)",
+      "saanik (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 176. Section: substantive_class_10e.",
+    "gloss": "lover",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p176_saanya_n"
+  },
+  {
+    "page": 176,
+    "headword": "aruwa",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_10e",
+    "phonetic_forms": [
+      "aruwet (sg.def)",
+      "are (pl.)",
+      "arek (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 176. Section: substantive_class_10e.",
+    "gloss": "kid (young goat)",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p176_aruwa_n"
+  },
+  {
+    "page": 176,
+    "headword": "arawa",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_10e",
+    "phonetic_forms": [
+      "arawet (sg.def)",
+      "araa (pl.)",
+      "arawek (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 176. Section: substantive_class_10e.",
+    "gloss": "moon, month",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p176_arawa_n"
+  },
+  {
+    "page": 176,
+    "headword": "nandiin",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_11a",
+    "phonetic_forms": [
+      "nandiindet (sg.def)",
+      "nandi (pl.)",
+      "nandiek (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 176. Section: substantive_class_11a.",
+    "gloss": "Nandi person",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p176_nandiin_n"
+  },
+  {
+    "page": 176,
+    "headword": "kipsikisin",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_11a",
+    "phonetic_forms": [
+      "kipsikisindet (sg.def)",
+      "kipsikis (pl.)",
+      "kipsikisiek (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 176. Section: substantive_class_11a.",
+    "gloss": "Lumbwa person",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p176_kipsikisin_n"
+  },
+  {
+    "page": 176,
+    "headword": "lemin",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_11a",
+    "phonetic_forms": [
+      "lemindet (sg.def)",
+      "lem (pl.)",
+      "lemek (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 176. Section: substantive_class_11a.",
+    "gloss": "Kavirondo person",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p176_lemin_n"
+  },
+  {
+    "page": 176,
+    "headword": "masaein",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_11a",
+    "phonetic_forms": [
+      "masaeindet (sg.def)",
+      "masae (pl.)",
+      "masaeek (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 176. Section: substantive_class_11a.",
+    "gloss": "Masai person",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p176_masaein_n"
+  },
+  {
+    "page": 176,
+    "headword": "segein",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_11a",
+    "phonetic_forms": [
+      "segeindet (sg.def)",
+      "sege (pl.)",
+      "segeik (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 176. Section: substantive_class_11a.",
+    "gloss": "soldier",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p176_segein_n"
+  },
+  {
+    "page": 176,
+    "headword": "kitongin",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_11a",
+    "phonetic_forms": [
+      "kitongindet (sg.def)",
+      "kitong (pl.)",
+      "kitongik (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 176. Section: substantive_class_11a.",
+    "gloss": "smith",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p176_kitongin_n"
+  },
+  {
+    "page": 176,
+    "headword": "ponin",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_11a",
+    "phonetic_forms": [
+      "ponindet (sg.def)",
+      "pon (pl.)",
+      "ponik (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 176. Section: substantive_class_11a.",
+    "gloss": "wizard",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p176_ponin_n"
+  },
+  {
+    "page": 176,
+    "headword": "chorin",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_11a",
+    "phonetic_forms": [
+      "chorindet (sg.def)",
+      "chor (pl.)",
+      "chorik (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 176. Section: substantive_class_11a.",
+    "gloss": "thief",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p176_chorin_n"
+  },
+  {
+    "page": 177,
+    "headword": "chumbin",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_11b",
+    "phonetic_forms": [
+      "chumbindet (sg.def)",
+      "chumba (pl.)",
+      "chumbek (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 177. Section: substantive_class_11b.",
+    "gloss": "Swahili",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p177_chumbin_n"
+  },
+  {
+    "page": 177,
+    "headword": "kokoyin",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_11b",
+    "phonetic_forms": [
+      "kokoyindet (sg.def)",
+      "kokoyo (pl.)",
+      "kokoyek (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 177. Section: substantive_class_11b.",
+    "gloss": "Kikuyu",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p177_kokoyin_n"
+  },
+  {
+    "page": 177,
+    "headword": "keyo",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_11b",
+    "phonetic_forms": [
+      "keyondet (sg.def)",
+      "keyu (pl.)",
+      "keyek (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 177. Section: substantive_class_11b.",
+    "gloss": "Elgeyo",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p177_keyo_n"
+  },
+  {
+    "page": 177,
+    "headword": "asungio",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_class_11b",
+    "phonetic_forms": [
+      "asungiot (sg.def)",
+      "asungu (pl.)",
+      "asunguk (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 177. Section: substantive_class_11b.",
+    "gloss": "European",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_grammar_table"
+    ],
+    "id": "hollis_p177_asungio_n"
+  },
+  {
+    "page": 177,
+    "headword": "kipurienge",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_sg_only",
+    "phonetic_forms": [
+      "kipurienget (sg.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 177. Section: substantive_sg_only.",
+    "gloss": "fog, mist",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review"
+    ],
+    "id": "hollis_p177_kipurienge_n"
+  },
+  {
+    "page": 177,
+    "headword": "kap-walio",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_sg_only",
+    "phonetic_forms": [
+      "kap-waliot (sg.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 177. Section: substantive_sg_only.",
+    "gloss": "market",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review"
+    ],
+    "id": "hollis_p177_kapwalio_n"
+  },
+  {
+    "page": 177,
+    "headword": "olisio",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_sg_only",
+    "phonetic_forms": [
+      "olisiet (sg.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 177. Section: substantive_sg_only.",
+    "gloss": "merchandise",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review"
+    ],
+    "id": "hollis_p177_olisio_n"
+  },
+  {
+    "page": 177,
+    "headword": "lapcha",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_sg_only",
+    "phonetic_forms": [
+      "lapchat (sg.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 177. Section: substantive_sg_only.",
+    "gloss": "mud",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review"
+    ],
+    "id": "hollis_p177_lapcha_n"
+  },
+  {
+    "page": 177,
+    "headword": "polot",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_sg_only",
+    "phonetic_forms": [
+      "polotet (sg.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 177. Section: substantive_sg_only.",
+    "gloss": "uproar",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review"
+    ],
+    "id": "hollis_p177_polot_n"
+  },
+  {
+    "page": 177,
+    "headword": "mieno",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_sg_only",
+    "phonetic_forms": [
+      "mienot (sg.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 177. Section: substantive_sg_only.",
+    "gloss": "goodness",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review"
+    ],
+    "id": "hollis_p177_mieno_n"
+  },
+  {
+    "page": 177,
+    "headword": "yaitio",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_sg_only",
+    "phonetic_forms": [
+      "yaitiot (sg.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 177. Section: substantive_sg_only.",
+    "gloss": "badness",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review"
+    ],
+    "id": "hollis_p177_yaitio_n"
+  },
+  {
+    "page": 177,
+    "headword": "kararin",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_sg_only",
+    "phonetic_forms": [
+      "kararindo (sg.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 177. Section: substantive_sg_only.",
+    "gloss": "beauty",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review"
+    ],
+    "id": "hollis_p177_kararin_n"
+  },
+  {
+    "page": 177,
+    "headword": "pusio",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_pl_only",
+    "phonetic_forms": [
+      "pusiek (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 177. Section: substantive_pl_only.",
+    "gloss": "powder",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review"
+    ],
+    "id": "hollis_p177_pusio_n"
+  },
+  {
+    "page": 177,
+    "headword": "pusaru",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_pl_only",
+    "phonetic_forms": [
+      "pusaruk (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 177. Section: substantive_pl_only.",
+    "gloss": "gunpowder",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review"
+    ],
+    "id": "hollis_p177_pusaru_n"
+  },
+  {
+    "page": 177,
+    "headword": "kaot",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_pl_only",
+    "phonetic_forms": [
+      "kaotik (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 177. Section: substantive_pl_only.",
+    "gloss": "perspiration",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review"
+    ],
+    "id": "hollis_p177_kaot_n"
+  },
+  {
+    "page": 177,
+    "headword": "purut",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_pl_only",
+    "phonetic_forms": [
+      "purutek (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 177. Section: substantive_pl_only.",
+    "gloss": "pus",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review"
+    ],
+    "id": "hollis_p177_purut_n"
+  },
+  {
+    "page": 177,
+    "headword": "ngul",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_pl_only",
+    "phonetic_forms": [
+      "ngulek (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 177. Section: substantive_pl_only.",
+    "gloss": "saliva",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review"
+    ],
+    "id": "hollis_p177_ngul_n"
+  },
+  {
+    "page": 177,
+    "headword": "kipketin",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_pl_only",
+    "phonetic_forms": [
+      "kipketinik (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 177. Section: substantive_pl_only.",
+    "gloss": "honey-wine",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review"
+    ],
+    "id": "hollis_p177_kipketin_n"
+  },
+  {
+    "page": 177,
+    "headword": "porok",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_pl_only",
+    "phonetic_forms": [
+      "porokek (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 177. Section: substantive_pl_only.",
+    "gloss": "palm-wine",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review"
+    ],
+    "id": "hollis_p177_porok_n"
+  },
+  {
+    "page": 177,
+    "headword": "mursi",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_pl_only",
+    "phonetic_forms": [
+      "mursiik (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 177. Section: substantive_pl_only.",
+    "gloss": "curdled milk",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review"
+    ],
+    "id": "hollis_p177_mursi_n"
+  },
+  {
+    "page": 177,
+    "headword": "sukut",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_pl_only",
+    "phonetic_forms": [
+      "sukutek (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 177. Section: substantive_pl_only.",
+    "gloss": "cattle pond",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review"
+    ],
+    "id": "hollis_p177_sukut_n"
+  },
+  {
+    "page": 177,
+    "headword": "musar",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_pl_only",
+    "phonetic_forms": [
+      "musarek (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 177. Section: substantive_pl_only.",
+    "gloss": "gruel",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review"
+    ],
+    "id": "hollis_p177_musar_n"
+  },
+  {
+    "page": 177,
+    "headword": "pei",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_pl_only",
+    "phonetic_forms": [
+      "pek (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 177. Section: substantive_pl_only.",
+    "gloss": "water",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review"
+    ],
+    "id": "hollis_p177_pei_n"
+  },
+  {
+    "page": 177,
+    "headword": "che",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "substantive_pl_only",
+    "phonetic_forms": [
+      "cheko (pl.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 177. Section: substantive_pl_only.",
+    "gloss": "milk",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review"
+    ],
+    "id": "hollis_p177_che_n"
+  },
+  {
+    "page": 4,
+    "headword": "pororiet",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [
+      "pororosiek (pl.)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 4. Section: ethnography.",
+    "gloss": "district, division. (administrative subdivision)",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p004_pororiet_n"
+  },
+  {
+    "page": 4,
+    "headword": "masop",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 4. Section: ethnography.",
+    "gloss": "Masop (eastern county). (proper toponym)",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p004_masop_n"
+  },
+  {
+    "page": 4,
+    "headword": "soiin",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 4. Section: ethnography.",
+    "gloss": "Soiin (southern county). (proper toponym; aka Pelkut)",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p004_soiin_n"
+  },
+  {
+    "page": 4,
+    "headword": "chesume",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 4. Section: ethnography.",
+    "gloss": "Chesume (western county). (proper toponym)",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p004_chesume_n"
+  },
+  {
+    "page": 5,
+    "headword": "kipoiis",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 5. Section: ethnography.",
+    "gloss": "Kipoiis clan. (totem: jackal & cockroach)",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p005_kipoiis_n"
+  },
+  {
+    "page": 5,
+    "headword": "leluot",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 5. Section: ethnography.",
+    "gloss": "jackal. (totem of Kipoiis)",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p005_leluot_n"
+  },
+  {
+    "page": 5,
+    "headword": "kipkoiitim",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 5. Section: ethnography.",
+    "gloss": "Kipkoiitim clan. (totem: elephant & chameleon)",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p005_kipkoiitim_n"
+  },
+  {
+    "page": 5,
+    "headword": "peliot",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 5. Section: ethnography.",
+    "gloss": "elephant. (see also class X)",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p005_peliot_n"
+  },
+  {
+    "page": 5,
+    "headword": "kipamwi",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 5. Section: ethnography.",
+    "gloss": "Kipamwi clan. (totem: duiker)",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p005_kipamwi_n"
+  },
+  {
+    "page": 5,
+    "headword": "kipkenda",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 5. Section: ethnography.",
+    "gloss": "Kipkenda clan. (totem: bee & frog)",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p005_kipkenda_n"
+  },
+  {
+    "page": 5,
+    "headword": "segemyat",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 5. Section: ethnography.",
+    "gloss": "bee. (cf. class X segemya)",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p005_segemyat_n"
+  },
+  {
+    "page": 5,
+    "headword": "kipkokos",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 5. Section: ethnography.",
+    "gloss": "Kipkokos clan. (totem: buzzard)",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p005_kipkokos_n"
+  },
+  {
+    "page": 5,
+    "headword": "chepkokosiot",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 5. Section: ethnography.",
+    "gloss": "buzzard. (totem of Kipkokos)",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p005_chepkokosiot_n"
+  },
+  {
+    "page": 5,
+    "headword": "kipiegen",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 5. Section: ethnography.",
+    "gloss": "Kipiegen clan. (totem: baboon & house rat)",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p005_kipiegen_n"
+  },
+  {
+    "page": 5,
+    "headword": "muriot",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 5. Section: ethnography.",
+    "gloss": "house rat",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p005_muriot_n"
+  },
+  {
+    "page": 5,
+    "headword": "talai",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 5. Section: ethnography.",
+    "gloss": "Talai clan. (totem: lion; medicine men)",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p005_talai_n"
+  },
+  {
+    "page": 5,
+    "headword": "toiyoi",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 5. Section: ethnography.",
+    "gloss": "Toiyoi clan. (totem: soldier ant & rain)",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p005_toiyoi_n"
+  },
+  {
+    "page": 5,
+    "headword": "pirechet",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 5. Section: ethnography.",
+    "gloss": "soldier ant. (totem of Toiyoi)",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p005_pirechet_n"
+  },
+  {
+    "page": 5,
+    "headword": "robta",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 5. Section: ethnography.",
+    "gloss": "rain. (borrowed from Galla per Eliot)",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p005_robta_n"
+  },
+  {
+    "page": 5,
+    "headword": "kipsirgoi",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 5. Section: ethnography.",
+    "gloss": "Kipsirgoi clan. (totem: bush pig)",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p005_kipsirgoi_n"
+  },
+  {
+    "page": 5,
+    "headword": "sokom",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 5. Section: ethnography.",
+    "gloss": "Sokom clan. (totem: hawk)",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p005_sokom_n"
+  },
+  {
+    "page": 5,
+    "headword": "chepsiriret",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 5. Section: ethnography.",
+    "gloss": "hawk. (totem of Sokom)",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p005_chepsiriret_n"
+  },
+  {
+    "page": 5,
+    "headword": "moi",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 5. Section: ethnography.",
+    "gloss": "Moi clan. (totem: crested crane & buffalo)",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p005_moi_n"
+  },
+  {
+    "page": 5,
+    "headword": "kiptopke",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 5. Section: ethnography.",
+    "gloss": "Kiptopke clan. (totem: monkey)",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p005_kiptopke_n"
+  },
+  {
+    "page": 5,
+    "headword": "kamwaike",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 5. Section: ethnography.",
+    "gloss": "Kamwaike clan. (totem: partridge)",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p005_kamwaike_n"
+  },
+  {
+    "page": 5,
+    "headword": "taiyuet",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 5. Section: ethnography.",
+    "gloss": "partridge. (cf. class I.C taiyua)",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p005_taiyuet_n"
+  },
+  {
+    "page": 5,
+    "headword": "tungo",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 5. Section: ethnography.",
+    "gloss": "Tungo clan. (totem: hyena)",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p005_tungo_n"
+  },
+  {
+    "page": 5,
+    "headword": "kimaketyet",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 5. Section: ethnography.",
+    "gloss": "hyena. (cf. class I.A kimaket)",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p005_kimaketyet_n"
+  },
+  {
+    "page": 5,
+    "headword": "kipaa",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 5. Section: ethnography.",
+    "gloss": "Kipaa clan. (totem: snake & colobus monkey)",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p005_kipaa_n"
+  },
+  {
+    "page": 5,
+    "headword": "koroiityet",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 5. Section: ethnography.",
+    "gloss": "Colobus monkey. (cf. class II.A koroiit)",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p005_koroiityet_n"
+  },
+  {
+    "page": 5,
+    "headword": "kipasiso",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 5. Section: ethnography.",
+    "gloss": "Kipasiso clan. (totem: sun & mole)",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p005_kipasiso_n"
+  },
+  {
+    "page": 5,
+    "headword": "asis",
+    "pos_raw": "-",
+    "pos": "-",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [
+      "asista (pl.)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 5. Section: ethnography.",
+    "gloss": "noun. (God, the Sun)",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p005_asis_-"
+  },
+  {
+    "page": 5,
+    "headword": "pungungwet",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 5. Section: ethnography.",
+    "gloss": "mole. (totem of Kipasiso)",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p005_pungungwet_n"
+  },
+  {
+    "page": 5,
+    "headword": "chemur",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 5. Section: ethnography.",
+    "gloss": "Chemur clan. (totem: wild cat)",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p005_chemur_n"
+  },
+  {
+    "page": 13,
+    "headword": "nganaset",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 13. Section: ethnography.",
+    "gloss": "group of huts",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p013_nganaset_n"
+  },
+  {
+    "page": 13,
+    "headword": "kipsat",
+    "pos_raw": "-",
+    "pos": "-",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [
+      "korik-ap-sat (pl.)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 13. Section: ethnography.",
+    "gloss": "noun. (hut (alt form))",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p013_kipsat_-"
+  },
+  {
+    "page": 13,
+    "headword": "koiimaut",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 13. Section: ethnography.",
+    "gloss": "main living-room of hut",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p013_koiimaut_n"
+  },
+  {
+    "page": 13,
+    "headword": "injorut",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 13. Section: ethnography.",
+    "gloss": "goats' compartment of hut",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p013_injorut_n"
+  },
+  {
+    "page": 13,
+    "headword": "kutit-ap-taput",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 13. Section: ethnography.",
+    "gloss": "skylight",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p013_kutitaptaput_n"
+  },
+  {
+    "page": 14,
+    "headword": "kiylengut",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 14. Section: ethnography.",
+    "gloss": "milk compartment",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p014_kiylengut_n"
+  },
+  {
+    "page": 14,
+    "headword": "kilonget",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 14. Section: ethnography.",
+    "gloss": "depression in floor for beer pot",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p014_kilonget_n"
+  },
+  {
+    "page": 14,
+    "headword": "ireusiek",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 14. Section: ethnography.",
+    "gloss": "pegs (for hanging arms/gourds). (pl.)",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p014_ireusiek_n"
+  },
+  {
+    "page": 15,
+    "headword": "taloita",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 15. Section: ethnography.",
+    "gloss": "central pole of hut",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p015_taloita_n"
+  },
+  {
+    "page": 15,
+    "headword": "kimonjokut",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 15. Section: ethnography.",
+    "gloss": "stick surmounting central pole",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p015_kimonjokut_n"
+  },
+  {
+    "page": 15,
+    "headword": "mabwaita",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 15. Section: ethnography.",
+    "gloss": "charm of lepesuet sticks at house entrance. (good-luck token)",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p015_mabwaita_n"
+  },
+  {
+    "page": 16,
+    "headword": "choket",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 16. Section: ethnography.",
+    "gloss": "granary",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p016_choket_n"
+  },
+  {
+    "page": 16,
+    "headword": "kait-am-murenik",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 16. Section: ethnography.",
+    "gloss": "warriors' clubhouse",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p016_kaitammurenik_n"
+  },
+  {
+    "page": 16,
+    "headword": "ekoruek",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 16. Section: ethnography.",
+    "gloss": "warriors' hut in woods for slaughtering oxen. (pl.)",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p016_ekoruek_n"
+  },
+  {
+    "page": 16,
+    "headword": "peut",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 16. Section: ethnography.",
+    "gloss": "cattle enclosure",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p016_peut_n"
+  },
+  {
+    "page": 16,
+    "headword": "kap-tich",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 16. Section: ethnography.",
+    "gloss": "cattle kraal",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p016_kaptich_n"
+  },
+  {
+    "page": 17,
+    "headword": "chepkimaliot",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 17. Section: ethnography.",
+    "gloss": "hut in centre of cattle kraal",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p017_chepkimaliot_n"
+  },
+  {
+    "page": 18,
+    "headword": "pak",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 18. Section: ethnography.",
+    "gloss": "eleusine grain. (Eleusine coracana)",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p018_pak_n"
+  },
+  {
+    "page": 19,
+    "headword": "chepusoon",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 19. Section: ethnography.",
+    "gloss": "wind",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p019_chepusoon_n"
+  },
+  {
+    "page": 25,
+    "headword": "kesimoret",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 25. Section: ethnography.",
+    "gloss": "knife for tapping palms",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p025_kesimoret_n"
+  },
+  {
+    "page": 25,
+    "headword": "pondet",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 25. Section: ethnography.",
+    "gloss": "honey-hive in tree",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p025_pondet_n"
+  },
+  {
+    "page": 25,
+    "headword": "kupenet",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 25. Section: ethnography.",
+    "gloss": "honey-hive in rock",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p025_kupenet_n"
+  },
+  {
+    "page": 25,
+    "headword": "keliot",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 25. Section: ethnography.",
+    "gloss": "Acocanthera schimperi (poison tree). (source of arrow poison)",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p025_keliot_n"
+  },
+  {
+    "page": 26,
+    "headword": "chepkiraut",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 26. Section: ethnography.",
+    "gloss": "snuff-box",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p026_chepkiraut_n"
+  },
+  {
+    "page": 26,
+    "headword": "olpesienyet",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 26. Section: ethnography.",
+    "gloss": "tobacco pouch from goat scrotum",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p026_olpesienyet_n"
+  },
+  {
+    "page": 26,
+    "headword": "kiprauf",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 26. Section: ethnography.",
+    "gloss": "tobacco pouch from ox-horn",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p026_kiprauf_n"
+  },
+  {
+    "page": 26,
+    "headword": "kirongesiet",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 26. Section: ethnography.",
+    "gloss": "snuff-box (Lumbwa form)",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p026_kirongesiet_n"
+  },
+  {
+    "page": 27,
+    "headword": "ingoriet",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 27. Section: ethnography.",
+    "gloss": "goat-skin garment (boy's)",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p027_ingoriet_n"
+  },
+  {
+    "page": 27,
+    "headword": "sonaiek",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 27. Section: ethnography.",
+    "gloss": "black bead necklace. (pl.)",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p027_sonaiek_n"
+  },
+  {
+    "page": 27,
+    "headword": "osiek",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 27. Section: ethnography.",
+    "gloss": "girl's apron",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p027_osiek_n"
+  },
+  {
+    "page": 27,
+    "headword": "murguyuet",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 27. Section: ethnography.",
+    "gloss": "tree whose seeds adorn girls' apron",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p027_murguyuet_n"
+  },
+  {
+    "page": 27,
+    "headword": "ingoriet-ap-ko",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 27. Section: ethnography.",
+    "gloss": "dressed skin or cloth (girl's)",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p027_ingorietapko_n"
+  },
+  {
+    "page": 27,
+    "headword": "asingaiit",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 27. Section: ethnography.",
+    "gloss": "iron-wire necklace",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p027_asingaiit_n"
+  },
+  {
+    "page": 27,
+    "headword": "sirimwagik",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 27. Section: ethnography.",
+    "gloss": "iron-chain necklaces. (pl.; cf. class VIII sirim)",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p027_sirimwagik_n"
+  },
+  {
+    "page": 27,
+    "headword": "makirariot",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 27. Section: ethnography.",
+    "gloss": "iron-wire bracelet",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p027_makirariot_n"
+  },
+  {
+    "page": 27,
+    "headword": "tapakwet",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 27. Section: ethnography.",
+    "gloss": "iron-wire leglet",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p027_tapakwet_n"
+  },
+  {
+    "page": 27,
+    "headword": "kipkarkarek",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 27. Section: ethnography.",
+    "gloss": "bead anklet",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p027_kipkarkarek_n"
+  },
+  {
+    "page": 27,
+    "headword": "ingipiliek",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 27. Section: ethnography.",
+    "gloss": "bead anklet (alt)",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p027_ingipiliek_n"
+  },
+  {
+    "page": 27,
+    "headword": "ketit-ap-iit",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 27. Section: ethnography.",
+    "gloss": "wooden ear-plug. (lit. \"tree of ear\")",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p027_ketitapiit_n"
+  },
+  {
+    "page": 27,
+    "headword": "kipalpaliot",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 27. Section: ethnography.",
+    "gloss": "wooden ear-ring (boy's)",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p027_kipalpaliot_n"
+  },
+  {
+    "page": 27,
+    "headword": "soliot",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 27. Section: ethnography.",
+    "gloss": "small peg/reed for upper-ear hole",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p027_soliot_n"
+  },
+  {
+    "page": 27,
+    "headword": "kipoiet",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 27. Section: ethnography.",
+    "gloss": "warrior's garment (sewn hides)",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p027_kipoiet_n"
+  },
+  {
+    "page": 29,
+    "headword": "sepetaiik",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 29. Section: ethnography.",
+    "gloss": "necklace of gourd-chips",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p029_sepetaiik_n"
+  },
+  {
+    "page": 29,
+    "headword": "karik-ap-teget",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 29. Section: ethnography.",
+    "gloss": "woman's iron necklace",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p029_karikapteget_n"
+  },
+  {
+    "page": 29,
+    "headword": "asielda",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 29. Section: ethnography.",
+    "gloss": "man's iron armlet",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p029_asielda_n"
+  },
+  {
+    "page": 29,
+    "headword": "samoiyot",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 29. Section: ethnography.",
+    "gloss": "twins' ornament. (cf. class IV samoiyo)",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p029_samoiyot_n"
+  },
+  {
+    "page": 29,
+    "headword": "kimeiteitiot",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 29. Section: ethnography.",
+    "gloss": "iron-chain ear-ring (old men)",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p029_kimeiteitiot_n"
+  },
+  {
+    "page": 29,
+    "headword": "chepolungut",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 29. Section: ethnography.",
+    "gloss": "warrior's ear-ring",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p029_chepolungut_n"
+  },
+  {
+    "page": 29,
+    "headword": "engosholaiit",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 29. Section: ethnography.",
+    "gloss": "upper-ear ear-ring",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p029_engosholaiit_n"
+  },
+  {
+    "page": 29,
+    "headword": "taok",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 29. Section: ethnography.",
+    "gloss": "married women's ear-rings. (cf. class I.C taiyua)",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p029_taok_n"
+  },
+  {
+    "page": 29,
+    "headword": "tamokyet",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 29. Section: ethnography.",
+    "gloss": "iron finger ring",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p029_tamokyet_n"
+  },
+  {
+    "page": 29,
+    "headword": "cheptulet",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 29. Section: ethnography.",
+    "gloss": "fur or skin cap",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p029_cheptulet_n"
+  },
+  {
+    "page": 29,
+    "headword": "piur",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 29. Section: ethnography.",
+    "gloss": "partial-head shaving style",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p029_piur_n"
+  },
+  {
+    "page": 31,
+    "headword": "ndwit",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 31. Section: ethnography.",
+    "gloss": "small-bladed long-shafted spear (western counties)",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p031_ndwit_n"
+  },
+  {
+    "page": 31,
+    "headword": "erengatiat",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 31. Section: ethnography.",
+    "gloss": "old men's spear",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p031_erengatiat_n"
+  },
+  {
+    "page": 33,
+    "headword": "rotuet",
+    "pos_raw": "-",
+    "pos": "-",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [
+      "rotok (pl.)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 33. Section: ethnography.",
+    "gloss": "noun. (sword)",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p033_rotuet_-"
+  },
+  {
+    "page": 33,
+    "headword": "rotuet-ap-chok",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 33. Section: ethnography.",
+    "gloss": "sword (alt). (literally \"sword of cattle\")",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p033_rotuetapchok_n"
+  },
+  {
+    "page": 33,
+    "headword": "chohet",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 33. Section: ethnography.",
+    "gloss": "scabbard, sheath",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p033_chohet_n"
+  },
+  {
+    "page": 33,
+    "headword": "pireyuot",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 33. Section: ethnography.",
+    "gloss": "man's leather belt. (cf. class III.B)",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p033_pireyuot_n"
+  },
+  {
+    "page": 33,
+    "headword": "sharit",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 33. Section: ethnography.",
+    "gloss": "long-handled club (old men)",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p033_sharit_n"
+  },
+  {
+    "page": 33,
+    "headword": "torokeyuoi",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 33. Section: ethnography.",
+    "gloss": "sword-belt fastening",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p033_torokeyuoi_n"
+  },
+  {
+    "page": 33,
+    "headword": "kotet",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 33. Section: ethnography.",
+    "gloss": "arrow. (cf. class VII koto)",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p033_kotet_n"
+  },
+  {
+    "page": 33,
+    "headword": "pionik",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 33. Section: ethnography.",
+    "gloss": "fire-sticks. (pl.)",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p033_pionik_n"
+  },
+  {
+    "page": 33,
+    "headword": "ikondit",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 33. Section: ethnography.",
+    "gloss": "greater kudu horn (war trumpet)",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p033_ikondit_n"
+  },
+  {
+    "page": 41,
+    "headword": "asis",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [
+      "asista (sg.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 41. Section: ethnography.",
+    "gloss": "God, the Sun (supreme deity)",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p041_asis_n"
+  },
+  {
+    "page": 41,
+    "headword": "ilet ne-mie",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 41. Section: ethnography.",
+    "gloss": "good thunder-god",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p041_iletnemie_n"
+  },
+  {
+    "page": 41,
+    "headword": "ilet ne-ya",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 41. Section: ethnography.",
+    "gloss": "bad thunder-god",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p041_iletneya_n"
+  },
+  {
+    "page": 41,
+    "headword": "oiik",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 41. Section: ethnography.",
+    "gloss": "spirits of departed ancestors. (pl. of oiin)",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p041_oiik_n"
+  },
+  {
+    "page": 49,
+    "headword": "orkoiyot",
+    "pos_raw": "-",
+    "pos": "-",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [
+      "orkoiik (pl.)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 49. Section: ethnography.",
+    "gloss": "noun. (chief medicine man)",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p049_orkoiyot_-"
+  },
+  {
+    "page": 49,
+    "headword": "parparek",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 49. Section: ethnography.",
+    "gloss": "stones for divination. (pl.)",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p049_parparek_n"
+  },
+  {
+    "page": 49,
+    "headword": "soiyet",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 49. Section: ethnography.",
+    "gloss": "bamboo divining tube",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p049_soiyet_n"
+  },
+  {
+    "page": 49,
+    "headword": "pusaruk",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 49. Section: ethnography.",
+    "gloss": "amulets, medicine. (pl.)",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p049_pusaruk_n"
+  },
+  {
+    "page": 49,
+    "headword": "setanik",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 49. Section: ethnography.",
+    "gloss": "concoction for warriors",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p049_setanik_n"
+  },
+  {
+    "page": 51,
+    "headword": "kipsakeiyot",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 51. Section: ethnography.",
+    "gloss": "lesser medicine man (Talai clan)",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p051_kipsakeiyot_n"
+  },
+  {
+    "page": 51,
+    "headword": "kipungut",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 51. Section: ethnography.",
+    "gloss": "lesser medicine man (Marokor origin)",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p051_kipungut_n"
+  },
+  {
+    "page": 51,
+    "headword": "ponik",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 51. Section: ethnography.",
+    "gloss": "witchcraft. (cf. class XI ponin)",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p051_ponik_n"
+  },
+  {
+    "page": 52,
+    "headword": "uindet",
+    "pos_raw": "-",
+    "pos": "-",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [
+      "uik (sg.def)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 52. Section: ethnography.",
+    "gloss": "noun. (rain-maker)",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p052_uindet_-"
+  },
+  {
+    "page": 52,
+    "headword": "kiptakchat",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 52. Section: ethnography.",
+    "gloss": "rain-medicine",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p052_kiptakchat_n"
+  },
+  {
+    "page": 29,
+    "headword": "sumeyot",
+    "pos_raw": "-",
+    "pos": "-",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [
+      "sumek (pl.)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 29. Section: ethnography.",
+    "gloss": "noun. (hair)",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p029_sumeyot_-"
+  },
+  {
+    "page": 14,
+    "headword": "pambaniat",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 14. Section: ethnography.",
+    "gloss": "rafter of hut ceiling",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p014_pambaniat_n"
+  },
+  {
+    "page": 94,
+    "headword": "olio",
+    "pos_raw": "-",
+    "pos": "-",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [
+      "oltosiek (pl.)"
+    ],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 94. Section: ethnography.",
+    "gloss": "noun. (season)",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p094_olio_-"
+  },
+  {
+    "page": 94,
+    "headword": "iwat-kut",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 94. Section: ethnography.",
+    "gloss": "second month (March). (\"rain in showers\")",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p094_iwatkut_n"
+  },
+  {
+    "page": 94,
+    "headword": "wake",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 94. Section: ethnography.",
+    "gloss": "third month (April)",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p094_wake_n"
+  },
+  {
+    "page": 94,
+    "headword": "rob-tui",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 94. Section: ethnography.",
+    "gloss": "fifth month (June). (\"black rain/clouds\")",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p094_robtui_n"
+  },
+  {
+    "page": 94,
+    "headword": "puret",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 94. Section: ethnography.",
+    "gloss": "sixth month (July). (\"mist\")",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p094_puret_n"
+  },
+  {
+    "page": 94,
+    "headword": "epeso",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 94. Section: ethnography.",
+    "gloss": "seventh month (August)",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p094_epeso_n"
+  },
+  {
+    "page": 94,
+    "headword": "kipsunde",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 94. Section: ethnography.",
+    "gloss": "eighth month (September). (\"offering to God in cornfields\")",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p094_kipsunde_n"
+  },
+  {
+    "page": 94,
+    "headword": "kipsunde oieng",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 94. Section: ethnography.",
+    "gloss": "ninth month (October). (\"second offering to God\")",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p094_kipsundeoieng_n"
+  },
+  {
+    "page": 94,
+    "headword": "mulkul",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 94. Section: ethnography.",
+    "gloss": "tenth month (November). (\"strong wind\")",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p094_mulkul_n"
+  },
+  {
+    "page": 94,
+    "headword": "mulkulik oieng",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 94. Section: ethnography.",
+    "gloss": "eleventh month (December). (\"second strong wind\")",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p094_mulkulikoieng_n"
+  },
+  {
+    "page": 96,
+    "headword": "kaech",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 96. Section: ethnography.",
+    "gloss": "dawn (5–6 am)",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p096_kaech_n"
+  },
+  {
+    "page": 96,
+    "headword": "korirun",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 96. Section: ethnography.",
+    "gloss": "morning (6–9 am)",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p096_korirun_n"
+  },
+  {
+    "page": 96,
+    "headword": "pet",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 96. Section: ethnography.",
+    "gloss": "daytime (9 am – 2 pm)",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p096_pet_n"
+  },
+  {
+    "page": 96,
+    "headword": "koskoling",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 96. Section: ethnography.",
+    "gloss": "afternoon (2–6 pm)",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p096_koskoling_n"
+  },
+  {
+    "page": 96,
+    "headword": "karap",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 96. Section: ethnography.",
+    "gloss": "early evening (6–7 pm)",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p096_karap_n"
+  },
+  {
+    "page": 96,
+    "headword": "lakat",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 96. Section: ethnography.",
+    "gloss": "night (alt)",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p096_lakat_n"
+  },
+  {
+    "page": 99,
+    "headword": "toiyoi",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 99. Section: ethnography.",
+    "gloss": "thunder (also Toiyoi clan)",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p099_toiyoi_n"
+  },
+  {
+    "page": 100,
+    "headword": "chepeloi",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 100. Section: ethnography.",
+    "gloss": "Chepeloi hill. (\"the hill which the spirits set fire to\")",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p100_chepeloi_n"
+  },
+  {
+    "page": 100,
+    "headword": "mat-ap-oiik",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 100. Section: ethnography.",
+    "gloss": "steam jets. (literally \"fire of the spirits\")",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p100_matapoiik_n"
+  },
+  {
+    "page": 100,
+    "headword": "konyek-ap-oiik",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 100. Section: ethnography.",
+    "gloss": "hornets' nest (in ground). (literally \"eyes of the spirits\")",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p100_konyekapoiik_n"
+  },
+  {
+    "page": 100,
+    "headword": "ormarichet",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 100. Section: ethnography.",
+    "gloss": "halo round sun/moon",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p100_ormarichet_n"
+  },
+  {
+    "page": 100,
+    "headword": "cheptapisiet",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 100. Section: ethnography.",
+    "gloss": "comet",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p100_cheptapisiet_n"
+  },
+  {
+    "page": 100,
+    "headword": "kipsaruriet",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 100. Section: ethnography.",
+    "gloss": "comet (alt)",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p100_kipsaruriet_n"
+  },
+  {
+    "page": 100,
+    "headword": "kwapaliet",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 100. Section: ethnography.",
+    "gloss": "outer rainbow",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p100_kwapaliet_n"
+  },
+  {
+    "page": 100,
+    "headword": "poit-ap-kechei",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 100. Section: ethnography.",
+    "gloss": "the Milky Way. (literally \"sea of stars\")",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p100_poitapkechei_n"
+  },
+  {
+    "page": 100,
+    "headword": "kipokiot",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 100. Section: ethnography.",
+    "gloss": "Evening Star, Venus. (literally \"Dorobo's star\")",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p100_kipokiot_n"
+  },
+  {
+    "page": 100,
+    "headword": "tapoiyot",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 100. Section: ethnography.",
+    "gloss": "Morning Star",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p100_tapoiyot_n"
+  },
+  {
+    "page": 100,
+    "headword": "kokeliet",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 100. Section: ethnography.",
+    "gloss": "Midnight Star",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p100_kokeliet_n"
+  },
+  {
+    "page": 100,
+    "headword": "kakipsomok",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 100. Section: ethnography.",
+    "gloss": "Orion's belt and sword",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p100_kakipsomok_n"
+  },
+  {
+    "page": 100,
+    "headword": "koremerik",
+    "pos_raw": "noun",
+    "pos": "noun",
+    "section_hdr": "ethnography",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 100. Section: ethnography.",
+    "gloss": "the Pleiades",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_inline_gloss"
+    ],
+    "id": "hollis_p100_koremerik_n"
+  },
+  {
+    "page": 183,
+    "headword": "akenge",
+    "pos_raw": "num",
+    "pos": "numeral",
+    "section_hdr": "numerals",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 183. Section: numerals.",
+    "gloss": "one",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_numeral"
+    ],
+    "id": "hollis_p183_akenge_num"
+  },
+  {
+    "page": 183,
+    "headword": "aeng",
+    "pos_raw": "num",
+    "pos": "numeral",
+    "section_hdr": "numerals",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 183. Section: numerals.",
+    "gloss": "two. (alt oieng)",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_numeral"
+    ],
+    "id": "hollis_p183_aeng_num"
+  },
+  {
+    "page": 183,
+    "headword": "illo",
+    "pos_raw": "num",
+    "pos": "numeral",
+    "section_hdr": "numerals",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 183. Section: numerals.",
+    "gloss": "six. (alt kullo)",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_numeral"
+    ],
+    "id": "hollis_p183_illo_num"
+  },
+  {
+    "page": 183,
+    "headword": "tisap",
+    "pos_raw": "num",
+    "pos": "numeral",
+    "section_hdr": "numerals",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 183. Section: numerals.",
+    "gloss": "seven",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_numeral"
+    ],
+    "id": "hollis_p183_tisap_num"
+  },
+  {
+    "page": 183,
+    "headword": "sisiit",
+    "pos_raw": "num",
+    "pos": "numeral",
+    "section_hdr": "numerals",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 183. Section: numerals.",
+    "gloss": "eight",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_numeral"
+    ],
+    "id": "hollis_p183_sisiit_num"
+  },
+  {
+    "page": 183,
+    "headword": "sokol",
+    "pos_raw": "num",
+    "pos": "numeral",
+    "section_hdr": "numerals",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 183. Section: numerals.",
+    "gloss": "nine",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_numeral"
+    ],
+    "id": "hollis_p183_sokol_num"
+  },
+  {
+    "page": 183,
+    "headword": "tiptem",
+    "pos_raw": "num",
+    "pos": "numeral",
+    "section_hdr": "numerals",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 183. Section: numerals.",
+    "gloss": "twenty",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_numeral"
+    ],
+    "id": "hollis_p183_tiptem_num"
+  },
+  {
+    "page": 183,
+    "headword": "pokol",
+    "pos_raw": "num",
+    "pos": "numeral",
+    "section_hdr": "numerals",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 183. Section: numerals.",
+    "gloss": "hundred",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_numeral"
+    ],
+    "id": "hollis_p183_pokol_num"
+  },
+  {
+    "page": 184,
+    "headword": "ane",
+    "pos_raw": "pron",
+    "pos": "pronoun",
+    "section_hdr": "pronouns",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 184. Section: pronouns.",
+    "gloss": "I, me",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_pronoun"
+    ],
+    "id": "hollis_p184_ane_pron"
+  },
+  {
+    "page": 184,
+    "headword": "inye",
+    "pos_raw": "pron",
+    "pos": "pronoun",
+    "section_hdr": "pronouns",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 184. Section: pronouns.",
+    "gloss": "thou, thee",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_pronoun"
+    ],
+    "id": "hollis_p184_inye_pron"
+  },
+  {
+    "page": 184,
+    "headword": "inendet",
+    "pos_raw": "pron",
+    "pos": "pronoun",
+    "section_hdr": "pronouns",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 184. Section: pronouns.",
+    "gloss": "he, she, it, him, her. (alt ine)",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_pronoun"
+    ],
+    "id": "hollis_p184_inendet_pron"
+  },
+  {
+    "page": 184,
+    "headword": "achek",
+    "pos_raw": "pron",
+    "pos": "pronoun",
+    "section_hdr": "pronouns",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 184. Section: pronouns.",
+    "gloss": "we, us",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_pronoun"
+    ],
+    "id": "hollis_p184_achek_pron"
+  },
+  {
+    "page": 184,
+    "headword": "okwek",
+    "pos_raw": "pron",
+    "pos": "pronoun",
+    "section_hdr": "pronouns",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 184. Section: pronouns.",
+    "gloss": "you (pl.)",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_pronoun"
+    ],
+    "id": "hollis_p184_okwek_pron"
+  },
+  {
+    "page": 184,
+    "headword": "icheket",
+    "pos_raw": "pron",
+    "pos": "pronoun",
+    "section_hdr": "pronouns",
+    "phonetic_forms": [],
+    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 184. Section: pronouns.",
+    "gloss": "they, them. (alt ichek)",
+    "examples": [],
+    "review_flags": [
+      "from_hollis_1909",
+      "needs_native_speaker_review",
+      "hollis_pronoun"
+    ],
+    "id": "hollis_p184_icheket_pron"
   }
 ]
