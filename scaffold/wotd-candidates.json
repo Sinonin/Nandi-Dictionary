@@ -1,0 +1,648 @@
+{
+  "generated_at": "2026-05-14T11:46:30.845Z",
+  "total_corpus": 3170,
+  "total_candidates": 626,
+  "sampled": 80,
+  "entries": [
+    {
+      "id": "p027_abai_a",
+      "headword": "abai",
+      "pos": "adjective",
+      "gloss": "lactating",
+      "example_nandi": "Abai chebioset.",
+      "example_english": "The wife is nursing (lactating)."
+    },
+    {
+      "id": "p031_anyiny_a",
+      "headword": "anyiny",
+      "pos": "adjective",
+      "gloss": "sweet, tasty, delicious",
+      "example_nandi": "Onyiny ng'ala chicho.",
+      "example_english": "That person's words are sweet."
+    },
+    {
+      "id": "p032_asista_n",
+      "headword": "asista",
+      "pos": "noun",
+      "gloss": "1. sun",
+      "example_nandi": "Ng'wan asis.",
+      "example_english": "The sun is hot."
+    },
+    {
+      "id": "p036_bara_a",
+      "headword": "bara",
+      "pos": "adjective",
+      "gloss": "broad, spacious, wide",
+      "example_nandi": "Bara kot.",
+      "example_english": "The house is spacious."
+    },
+    {
+      "id": "p042_bichi_a",
+      "headword": "bichi",
+      "pos": "adjective",
+      "gloss": "difficult, laborious, arduous, exhausting, delicate",
+      "example_nandi": "Bichien ng'alek.",
+      "example_english": "The situation (lit. words) is delicate."
+    },
+    {
+      "id": "p046_bombowet_n",
+      "headword": "bombowet",
+      "pos": "noun",
+      "gloss": "ravine (may have water)",
+      "example_nandi": "Mi tuga bombowob Kapchepsi.",
+      "example_english": "The cattle are in the Chepsis' ravine."
+    },
+    {
+      "id": "p049_bunyot_n",
+      "headword": "bunyot",
+      "pos": "noun",
+      "gloss": "enemy",
+      "example_nandi": "",
+      "example_english": ""
+    },
+    {
+      "id": "p056_chebeiyo_n",
+      "headword": "chebeiyo",
+      "pos": "noun",
+      "gloss": "sister, mother's sister'sdaughter, father's brother's daughter, i.e. daughterof a person one calls mother",
+      "example_nandi": "Kole chepeiyo onyone mutai.",
+      "example_english": "My sister said she's coming tomorrow."
+    },
+    {
+      "id": "p058_chebusiet_n",
+      "headword": "chebusiet",
+      "pos": "noun",
+      "gloss": "1. orphan (used for boys and girls)",
+      "example_nandi": "Chebusia lakwana.",
+      "example_english": "That child is anorphan."
+    },
+    {
+      "id": "p060_chemasaiat_n",
+      "headword": "chemasaiat",
+      "pos": "noun",
+      "gloss": "Maasai woman",
+      "example_nandi": "Igat chemasaiyat.",
+      "example_english": "Greet the Maasai woman."
+    },
+    {
+      "id": "p062_chemogitiot_n",
+      "headword": "chemogitiot",
+      "pos": "noun",
+      "gloss": "Teso woman",
+      "example_nandi": "Iboti imbaret chemogitiot.",
+      "example_english": "The Teso is cultivating the field."
+    },
+    {
+      "id": "p064_chepkauiet_n",
+      "headword": "chepkauiet",
+      "pos": "noun",
+      "gloss": "skirt of leather",
+      "example_nandi": "Ilochi chepkauiet Tabarbuch.",
+      "example_english": "Tabarbuch is wearing a leather skirt."
+    },
+    {
+      "id": "p066_chepkoi_n",
+      "headword": "chepkoi",
+      "pos": "noun",
+      "gloss": "anaplasmosis, a cattle disease; also kipkoi",
+      "example_nandi": "Omei teta chepkoit.",
+      "example_english": "The cow has anaplasmosis."
+    },
+    {
+      "id": "p067_cheplakwet_n",
+      "headword": "cheplakwet",
+      "pos": "noun",
+      "gloss": "babysitter, caretaker",
+      "example_nandi": "Igochi cheplakwet lakwet.",
+      "example_english": "Give the child to the babysitter."
+    },
+    {
+      "id": "p069_chepterikiot_n",
+      "headword": "chepterikiot",
+      "pos": "noun",
+      "gloss": "Terik (Nyang'ori) woman",
+      "example_nandi": "",
+      "example_english": ""
+    },
+    {
+      "id": "p072_cheswererit_n",
+      "headword": "cheswererit",
+      "pos": "noun",
+      "gloss": "ke:-cip/ to gain knowledge or experience, learn one's lesson, be(come) wise",
+      "example_nandi": "",
+      "example_english": ""
+    },
+    {
+      "id": "p083_chombolwet_n",
+      "headword": "chombolwet",
+      "pos": "noun",
+      "gloss": "large stubby knife or cleaver, usually dull",
+      "example_nandi": "Chombolwo rotwono.",
+      "example_english": "That knife is a dull cleaver."
+    },
+    {
+      "id": "p085_egonet_n",
+      "headword": "egonet",
+      "pos": "noun",
+      "gloss": "1. dawn",
+      "example_nandi": "Kait egonet.",
+      "example_english": "Dawn has arrived."
+    },
+    {
+      "id": "p090_igomiet_n",
+      "headword": "igomiet",
+      "pos": "noun",
+      "gloss": "sinusmedicine produced from bark of tree",
+      "example_nandi": "Kono igomiet amit.",
+      "example_english": "Give me the sinus-medicine to swallow."
+    },
+    {
+      "id": "p092_inatut_n",
+      "headword": "inatut",
+      "pos": "noun",
+      "gloss": "1. wall",
+      "example_nandi": "Kimole inatut.",
+      "example_english": "The wall is being plastered."
+    },
+    {
+      "id": "p093_ing'unyut_n",
+      "headword": "ing'unyut",
+      "pos": "noun",
+      "gloss": "1. world",
+      "example_nandi": "Katar ing'uny ko mugul bori.",
+      "example_english": "This sickness is going around the world."
+    },
+    {
+      "id": "p096_injor_n",
+      "headword": "injor",
+      "pos": "noun",
+      "gloss": "partition in house where calves and small stock sleep, kurg ab injor backdoor (door ofthe injor)",
+      "example_nandi": "",
+      "example_english": ""
+    },
+    {
+      "id": "p099_itondo_n",
+      "headword": "itondo",
+      "pos": "noun",
+      "gloss": "looks, image, likeness",
+      "example_nandi": "Tinei itonut che kergei logok ab koin.",
+      "example_english": "The children of that family all have the same looks."
+    },
+    {
+      "id": "p104_kaitit_a",
+      "headword": "kaitit",
+      "pos": "adjective",
+      "gloss": "cold",
+      "example_nandi": "Koititen bek.",
+      "example_english": "The water is cold."
+    },
+    {
+      "id": "p106_kamasanet_n",
+      "headword": "kamasanet",
+      "pos": "noun",
+      "gloss": "side road",
+      "example_nandi": "Isubi kamasanet anan isubi kibong'bong'it? Osubi kamasanet.",
+      "example_english": "Are you following the small road or the big road? I'm following the small road."
+    },
+    {
+      "id": "p109_kararan_a",
+      "headword": "kararan",
+      "pos": "adjective",
+      "gloss": "beautiful, delightful, nice",
+      "example_nandi": "Kararan nebo kwong'ut.",
+      "example_english": "It is amazingly beautiful."
+    },
+    {
+      "id": "p035_ke_ban_vt",
+      "headword": "ke-ban",
+      "pos": "verb_transitive",
+      "gloss": "to bewitch",
+      "example_nandi": "Kaban teta cheplemiat.",
+      "example_english": "The Luo or Luyia woman bewitched the cow."
+    },
+    {
+      "id": "p078_ke_chot_vi",
+      "headword": "ke-chot",
+      "pos": "verb_intransitive",
+      "gloss": "1. to die slowly, pine away, rot away, moulder",
+      "example_nandi": "Kigochot ingoriet.",
+      "example_english": "The dress has mouldered."
+    },
+    {
+      "id": "p115_ke_genen_vt",
+      "headword": "ke-genen",
+      "pos": "verb_transitive",
+      "gloss": "to strain",
+      "example_nandi": "Kenen chaik.",
+      "example_english": "Strain the tea."
+    },
+    {
+      "id": "p153_ke_gul_vt",
+      "headword": "ke-gul",
+      "pos": "verb_transitive",
+      "gloss": "to make a depression or dent in",
+      "example_nandi": "Kul chepkulet.",
+      "example_english": "Make a depression in thehat."
+    },
+    {
+      "id": "p180_ke_luch_vt",
+      "headword": "ke-luch",
+      "pos": "verb_transitive",
+      "gloss": "to punch, box",
+      "example_nandi": "Kolucho Kiptenai.",
+      "example_english": "Kiptenai punched me."
+    },
+    {
+      "id": "p206_ke_mumek_vi",
+      "headword": "ke-mumek",
+      "pos": "verb_intransitive",
+      "gloss": "to turn upside down, lie upside down",
+      "example_nandi": "Kogomumek chego.",
+      "example_english": "The milk has overturned."
+    },
+    {
+      "id": "p235_ke_nyere_vt",
+      "headword": "ke-nyere",
+      "pos": "verb_transitive",
+      "gloss": "to ruin, spoil",
+      "example_nandi": "",
+      "example_english": ""
+    },
+    {
+      "id": "p268_ke_sisin_vt",
+      "headword": "ke-sisin",
+      "pos": "verb_transitive",
+      "gloss": "1. to make comfortable",
+      "example_nandi": "Sisin lakwet.",
+      "example_english": "Make the child comfortable."
+    },
+    {
+      "id": "p304_ke_twa_vt",
+      "headword": "ke-twa",
+      "pos": "verb_transitive",
+      "gloss": "to nudge, touch, disturb, budge (v.t.)",
+      "example_nandi": "",
+      "example_english": ""
+    },
+    {
+      "id": "p112_kechiriet_n",
+      "headword": "kechiriet",
+      "pos": "noun",
+      "gloss": "sheep",
+      "example_nandi": "Ketu kechirek.",
+      "example_english": "Drive the sheep hither."
+    },
+    {
+      "id": "p114_kemeut_n",
+      "headword": "kemeut",
+      "pos": "noun",
+      "gloss": "dry season, drought, summer",
+      "example_nandi": "Kobar bich kemeut.",
+      "example_english": "The drought killed people."
+    },
+    {
+      "id": "p117_kerichek_n",
+      "headword": "kerichek",
+      "pos": "noun",
+      "gloss": "medicine",
+      "example_nandi": "Ocheng'e kerichek.",
+      "example_english": "I'm looking for medicine."
+    },
+    {
+      "id": "p120_ketemwet_n",
+      "headword": "ketemwet",
+      "pos": "noun",
+      "gloss": "1. bitter medicine, tree of same",
+      "example_nandi": "",
+      "example_english": ""
+    },
+    {
+      "id": "p102_ki_ga_vt",
+      "headword": "ki-ga",
+      "pos": "verb_transitive",
+      "gloss": "to delay (tr.), lengthen stay of, detain",
+      "example_nandi": "Kegaa.",
+      "example_english": "Iga ak ine! (S/he) delayed me. Delay (him/her) then!."
+    },
+    {
+      "id": "p177_ki_lich_vt",
+      "headword": "ki-lich",
+      "pos": "verb_transitive",
+      "gloss": "to double, e.g., blankets",
+      "example_nandi": "Ilich (ki)pr()ngetisiek.",
+      "example_english": "Double the blankets."
+    },
+    {
+      "id": "p221_ki_ng'el_vt",
+      "headword": "ki-ng'el",
+      "pos": "verb_transitive",
+      "gloss": "to move s.t. heavy a little bit, budge. ki-ng'el-ji kei v.app.ref",
+      "example_nandi": "to squeeze oneselfinto a place.",
+      "example_english": "Ing'elji kei yu! Squeeze yourself in here."
+    },
+    {
+      "id": "p247_ki_rich_vt",
+      "headword": "ki-rich",
+      "pos": "verb_transitive",
+      "gloss": "to track, investigate",
+      "example_nandi": "",
+      "example_english": ""
+    },
+    {
+      "id": "p263_ki_sich_vt",
+      "headword": "ki-sich",
+      "pos": "verb_transitive",
+      "gloss": "to sing a lullaby (to ababy)",
+      "example_nandi": "",
+      "example_english": ""
+    },
+    {
+      "id": "p121_kibabet_n",
+      "headword": "kibabet",
+      "pos": "noun",
+      "gloss": "a tin. kibabustanietn",
+      "example_nandi": "[<ke-abusto fool, tany cow] Maesalanceolata, shrub or tree to 30 ft. with reddishbrown bark; leaves 3-6 in. long, 1.5-2.5 in. broad, apex pointed; fruit yellow to .25 in. diam. in hanging bunches; found in wetter scrub, river valleys, forest edges.",
+      "example_english": "Mekwere teta kibabustanyit. Don't drive the cow with (a switch from) the kibabustanyit tree."
+    },
+    {
+      "id": "p123_kibisagit_n",
+      "headword": "kibisagit",
+      "pos": "noun",
+      "gloss": "gourd (used in divining)",
+      "example_nandi": "Isochi kibisagit kibung'ut.",
+      "example_english": "The diviner is shaking the gourd."
+    },
+    {
+      "id": "p125_kiet_n",
+      "headword": "kiet",
+      "pos": "noun",
+      "gloss": "universe; appearance of land at sunrise",
+      "example_nandi": "Ingoekta kiet korgo, kebe Kapsabet.",
+      "example_english": "God willing, we go to Kapsabet in the morning (lit. if the universe rises with the woman (i.e. the sun, God))."
+    },
+    {
+      "id": "p127_kimitiat_n",
+      "headword": "kimitiat",
+      "pos": "noun",
+      "gloss": "flea",
+      "example_nandi": "Komita kimitek koech.",
+      "example_english": "Fleas sucked me all night long."
+    },
+    {
+      "id": "p130_kipchabet_n",
+      "headword": "kipchabet",
+      "pos": "noun",
+      "gloss": "arrow",
+      "example_nandi": "Ibu kipchabonik.",
+      "example_english": "Bring the arrows."
+    },
+    {
+      "id": "p132_kipkeleldet_n",
+      "headword": "kipkeleldet",
+      "pos": "noun",
+      "gloss": "1. an initiate who has come out of seclusion.Nyonei kipkeleldet",
+      "example_nandi": "",
+      "example_english": ""
+    },
+    {
+      "id": "p136_kiprongetit_n",
+      "headword": "kiprongetit",
+      "pos": "noun",
+      "gloss": "blanket",
+      "example_nandi": "Tuge kei kiprongetit.",
+      "example_english": "Cover yourself with the blanket."
+    },
+    {
+      "id": "p140_kiptegisid_n",
+      "headword": "kiptegisid",
+      "pos": "noun",
+      "gloss": "reserved, proper, humble man. kipteleletn",
+      "example_nandi": "lunacy.",
+      "example_english": "Omei kitelelet. (S/he's) gone crazy (lunacy is eating her/him)."
+    },
+    {
+      "id": "p142_kirwogindet_n",
+      "headword": "kirwogindet",
+      "pos": "noun",
+      "gloss": "judge",
+      "example_nandi": "Katil kesit kirwogindet.",
+      "example_english": "The judge rendered a decision."
+    },
+    {
+      "id": "p177_ko_liel_vi",
+      "headword": "ko-liel",
+      "pos": "verb_intransitive",
+      "gloss": "to flash (lightning)",
+      "example_nandi": "",
+      "example_english": ""
+    },
+    {
+      "id": "p317_ko_yam_vt",
+      "headword": "ko-yam",
+      "pos": "verb_transitive",
+      "gloss": "1. to suffice, be enough, be adequate Kagoyama. I'm satisfied (lit. it is suitable for me)",
+      "example_nandi": "2. to fit, be suitable.",
+      "example_english": "Kayam. (It) fits."
+    },
+    {
+      "id": "p146_koima_n",
+      "headword": "koima",
+      "pos": "noun",
+      "gloss": "[koi stone + ma fire (cf kapkoima fireplace)] sitting room of traditional house",
+      "example_nandi": "Otebe koima.",
+      "example_english": "Sit in the sitting room (i.e. not in the injor)."
+    },
+    {
+      "id": "p148_kong'onyot_n",
+      "headword": "kong'onyot",
+      "pos": "noun",
+      "gloss": "crowned crane",
+      "example_nandi": "Kono lakwet kong'ony.",
+      "example_english": "Cranes, give me a child."
+    },
+    {
+      "id": "p150_kororiet_n",
+      "headword": "kororiet",
+      "pos": "noun",
+      "gloss": "feather, hair on body",
+      "example_nandi": "Mogisorune ma kororia.",
+      "example_english": "One doesn't rescue a feather fi-om a fire (don't cry over spilt milk)."
+    },
+    {
+      "id": "p152_kugut_n",
+      "headword": "kugut",
+      "pos": "noun",
+      "gloss": "mythical monster for children",
+      "example_nandi": "Mewe barabara si kwamin kugut.",
+      "example_english": "Don't go to the road or the monster will eat you."
+    },
+    {
+      "id": "p156_kurguriot_n",
+      "headword": "kurguriot",
+      "pos": "noun",
+      "gloss": "weevil",
+      "example_nandi": "Tinyei kurgurik bandek.",
+      "example_english": "The maize has weevils."
+    },
+    {
+      "id": "p159_kwanget_n",
+      "headword": "kwanget",
+      "pos": "noun",
+      "gloss": "bow",
+      "example_nandi": "Omache kwanget ak kipchabonik.",
+      "example_english": "I need a bow and arrows."
+    },
+    {
+      "id": "p173_lapchat_n",
+      "headword": "lapchat",
+      "pos": "noun",
+      "gloss": "watery place",
+      "example_nandi": "Mowendi lapchandanin ra.",
+      "example_english": "I'm not going to that watery place today."
+    },
+    {
+      "id": "p178_limet_n",
+      "headword": "limet",
+      "pos": "noun",
+      "gloss": "cattle grazing ground",
+      "example_nandi": "Mi tuga limo.",
+      "example_english": "The cattle are at the early morning grazing ground."
+    },
+    {
+      "id": "p183_Maasai_n",
+      "headword": "Maasai",
+      "pos": "noun",
+      "gloss": "Maasai, male Maasai (in sg.)",
+      "example_nandi": "Bunu bichu Maasai.",
+      "example_english": "These people come from Maasai."
+    },
+    {
+      "id": "p187_marich_a",
+      "headword": "marich",
+      "pos": "adjective",
+      "gloss": "1. narrow",
+      "example_nandi": "Marich oret.",
+      "example_english": "The way is narrow."
+    },
+    {
+      "id": "p190_meiwaget_n",
+      "headword": "meiwaget",
+      "pos": "noun",
+      "gloss": "1. a do-nothing; a discourteousperson; inferior, secondrate person",
+      "example_nandi": "Katankwar bich meiwaget.",
+      "example_english": "The do-nothing is becoming rude."
+    },
+    {
+      "id": "p193_meset_n",
+      "headword": "meset",
+      "pos": "noun",
+      "gloss": "table",
+      "example_nandi": "Mi meset chaik.",
+      "example_english": "The tea is on the table."
+    },
+    {
+      "id": "p196_mirmir_a",
+      "headword": "mirmir",
+      "pos": "adjective",
+      "gloss": "1. quick-tempered, easily upset",
+      "example_nandi": "Mirmir met.",
+      "example_english": "He's easily upset (lit. the head is easily upset). /mirmir met/ 2. poorly-lit, dim. Mirmir kot. The house is poorlylit."
+    },
+    {
+      "id": "p213_mondowet_n",
+      "headword": "mondowet",
+      "pos": "noun",
+      "gloss": "type of tree from which a poison is made; poisonmade from the tree",
+      "example_nandi": "",
+      "example_english": ""
+    },
+    {
+      "id": "p203_mugukiet_n",
+      "headword": "mugukiet",
+      "pos": "noun",
+      "gloss": "1 mushroom before it has opened fully",
+      "example_nandi": "Mugukiet anan semberiet bobat.",
+      "example_english": "Is the mushroom a closed one or an opened one?."
+    },
+    {
+      "id": "p206_mungenik_n",
+      "headword": "mungenik",
+      "pos": "noun",
+      "gloss": "leggings made of Colobus monkey fur",
+      "example_nandi": "Tinyei mungenik che kororon Tolony.",
+      "example_english": "Tolony has lovely leggings."
+    },
+    {
+      "id": "p208_muriat_n",
+      "headword": "muriat",
+      "pos": "noun",
+      "gloss": "rat",
+      "example_nandi": "Omei muriat muito.",
+      "example_english": "The rat is eating the hide."
+    },
+    {
+      "id": "p217_nambait_n",
+      "headword": "nambait",
+      "pos": "noun",
+      "gloss": "number, nambait agenge number one",
+      "example_nandi": "",
+      "example_english": ""
+    },
+    {
+      "id": "p221_ng'eliepta_n",
+      "headword": "ng'eliepta",
+      "pos": "noun",
+      "gloss": "tongue",
+      "example_nandi": "Kolelit ng'eliepta.",
+      "example_english": "The tongue is coated (white)."
+    },
+    {
+      "id": "p225_ng'oiondit_n",
+      "headword": "ng'oiondit",
+      "pos": "noun",
+      "gloss": "suspicion",
+      "example_nandi": "Tinyei ng'oiondit chichi.",
+      "example_english": "This person is leery."
+    },
+    {
+      "id": "p228_ng'useret_n",
+      "headword": "ng'useret",
+      "pos": "noun",
+      "gloss": "marsh",
+      "example_nandi": "Chang' burburetik ng'useronin.",
+      "example_english": "There is a lot of burburetik grass at that swamp."
+    },
+    {
+      "id": "p234_nyanjet_n",
+      "headword": "nyanjet",
+      "pos": "noun",
+      "gloss": "lake",
+      "example_nandi": "Bunu samaginik nyanja.",
+      "example_english": "The fish come from the lake."
+    },
+    {
+      "id": "p321_oendo_n",
+      "headword": "oendo",
+      "pos": "noun",
+      "gloss": "1. alarm, mobilisation",
+      "example_nandi": "Kogiguroendo.",
+      "example_english": "The alarm was sounded."
+    },
+    {
+      "id": "p323_okwot_n",
+      "headword": "okwot",
+      "pos": "noun",
+      "gloss": "1. patch (on garment), remnant, piece of animal skin; rag",
+      "example_nandi": "",
+      "example_english": ""
+    },
+    {
+      "id": "p325_otebet_n",
+      "headword": "otebet",
+      "pos": "noun",
+      "gloss": "1. custom, otebosiek ab Nandi Nandi customs",
+      "example_nandi": "2. character, nature, personality.",
+      "example_english": "Mie otebet. (S/he) has a good character."
+    }
+  ]
+}
