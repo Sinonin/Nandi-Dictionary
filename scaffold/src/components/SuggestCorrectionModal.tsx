@@ -1,4 +1,4 @@
-'use client';
+﻿'use client';
 
 import { Entry } from '@/lib/corpus';
 import { useState } from 'react';
@@ -61,7 +61,7 @@ export default function SuggestCorrectionModal({
           <>
             <h2 className="text-lg font-medium mb-2">Sent</h2>
             <p className="text-sm text-ink-muted mb-4">
-              Sent to <em>Kiruogindet araap Cheison</em> for review.
+              <em>Kiruogindet araap Cheison and Team</em> welcome your additions and corrections.
             </p>
             <button onClick={onClose} className="px-3 py-1.5 text-sm border border-ink/15 rounded-md">
               Close
@@ -70,7 +70,7 @@ export default function SuggestCorrectionModal({
         ) : (
           <form onSubmit={submit}>
             <h2 className="text-lg font-medium mb-1">Suggest correction</h2>
-            <p className="text-xs text-ink-faint mb-4 font-mono">{entry.headword} · {entry.id}</p>
+            <p className="text-xs text-ink-faint mb-4 font-mono">{entry.headword} Â· {entry.id}</p>
 
             <label className="block text-sm mb-1">Issue type</label>
             <select
@@ -105,7 +105,7 @@ export default function SuggestCorrectionModal({
             <input
               value={name}
               onChange={(e) => setName(e.target.value)}
-              placeholder="e.g. Elias, Victor, Cherop…"
+              placeholder="e.g. Elias, Victor, Cheropâ€¦"
               className="w-full mb-4 px-3 py-2 border border-ink/15 rounded-md text-sm"
             />
 
@@ -120,7 +120,7 @@ export default function SuggestCorrectionModal({
               </button>
               <button type="submit" disabled={status === 'sending' || !proposed.trim()}
                 className="px-3 py-1.5 text-sm bg-accent text-white rounded-md disabled:opacity-50">
-                {status === 'sending' ? 'Sending…' : 'Send'}
+                {status === 'sending' ? 'Sendingâ€¦' : 'Send'}
               </button>
             </div>
           </form>
@@ -129,3 +129,4 @@ export default function SuggestCorrectionModal({
     </div>
   );
 }
+
