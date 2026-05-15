@@ -1,0 +1,5 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#7a5b2f"/>
+  <text x="256" y="320" text-anchor="middle" font-family="Georgia, 'EB Garamond', serif" font-size="220" font-weight="700" fill="#FBF5E6">N</text>
+  <circle cx="338" cy="222" r="18" fill="#C9970C"/>
+</svg>
