@@ -1,4 +1,4 @@
-'use client';
+﻿'use client';
 
 import { Entry } from '@/lib/corpus';
 import { useState, useRef } from 'react';
@@ -14,33 +14,31 @@ export default function EntryCard({ entry }: { entry: Entry }) {
 
   function playAudio() {
     if (allTakes.length === 0) return;
-    // Cycle to next take on each successive tap
     setTakeIdx((i) => (i + 1) % allTakes.length);
-    // Small timeout to let the src swap render
     setTimeout(() => audioRef.current?.play().catch(() => {}), 50);
   }
 
   return (
     <article className="bg-paper-card border border-ink/10 rounded-xl p-5 sm:p-6">
-      <header className="flex items-baseline justify-between gap-3 mb-1">
-        <h1 className="text-2xl font-medium">{entry.headword}</h1>
-        <span className="text-xs text-ink-faint font-mono">p.{entry.page}</span>
+      <header className="flex items-baseline justify-between gap-3 mb-2">
+        <h1 className="text-3xl sm:text-2xl font-medium leading-tight">{entry.headword}</h1>
+        <span className="text-sm sm:text-xs text-ink-faint font-mono flex-shrink-0">p.{entry.page}</span>
       </header>
 
-      <div className="flex flex-wrap items-center gap-x-3 gap-y-1 mb-4">
-        <span className="text-sm italic text-ink-muted">{entry.pos.replace(/_/g, ' ')}</span>
+      <div className="flex flex-wrap items-center gap-x-3 gap-y-2 mb-4">
+        <span className="text-base sm:text-sm italic text-ink-muted">{entry.pos.replace(/_/g, ' ')}</span>
         {entry.phonetic_forms.length > 0 && (
-          <span className="text-sm text-ink-faint font-mono">
+          <span className="text-base sm:text-sm text-ink-faint font-mono">
             {entry.phonetic_forms.map((p) => `/${p}/`).join('  ·  ')}
           </span>
         )}
         {allTakes.length > 0 ? (
           <button
             onClick={playAudio}
-            className="ml-auto px-2.5 py-1 text-xs border border-ink/15 rounded-md hover:bg-paper transition-colors"
+            className="ml-auto px-3 py-1.5 text-sm border border-ink/15 rounded-md hover:bg-paper transition-colors"
             aria-label="Play pronunciation"
           >
-            ▶ Play
+            &#9654; Play
             {allTakes.length > 1 && (
               <span className="ml-1 text-ink-faint">
                 {takeIdx + 1}/{allTakes.length}
@@ -48,7 +46,7 @@ export default function EntryCard({ entry }: { entry: Entry }) {
             )}
           </button>
         ) : (
-          <span className="ml-auto px-2.5 py-1 text-xs text-ink-faint border border-dashed border-ink/15 rounded-md">
+          <span className="ml-auto px-3 py-1.5 text-sm text-ink-faint border border-dashed border-ink/15 rounded-md">
             Audio pending
           </span>
         )}
@@ -62,29 +60,29 @@ export default function EntryCard({ entry }: { entry: Entry }) {
         )}
       </div>
 
-      <p className="text-base leading-relaxed mb-1">{entry.gloss}.</p>
+      <p className="text-lg sm:text-base leading-relaxed mb-2">{entry.gloss}.</p>
 
       {entry.etymology && (
-        <p className="text-xs text-ink-faint mb-4">
+        <p className="text-sm text-ink-faint mb-4">
           <span className="italic">etym.</span> {entry.etymology}
         </p>
       )}
 
       {entry.examples.length > 0 && (
         <section className="border-t border-ink/10 pt-4 mt-4">
-          <h2 className="text-xs uppercase tracking-wide text-ink-faint mb-3">Examples</h2>
-          <ul className="space-y-3">
+          <h2 className="text-sm uppercase tracking-wide text-ink-faint mb-3 font-medium">Examples</h2>
+          <ul className="space-y-4">
             {entry.examples.map((ex, i) => (
               <li key={i}>
                 {ex.nandi && ex.english ? (
                   <>
-                    <p className="text-base"><strong className="font-medium">{ex.nandi}</strong></p>
-                    <p className="text-sm text-ink-muted">{ex.english}</p>
+                    <p className="text-lg sm:text-base"><strong className="font-medium">{ex.nandi}</strong></p>
+                    <p className="text-base sm:text-sm text-ink-muted">{ex.english}</p>
                   </>
                 ) : (
-                  <p className="text-sm">{ex.raw}</p>
+                  <p className="text-base sm:text-sm">{ex.raw}</p>
                 )}
-                <p className="text-xs text-ink-faint font-mono mt-0.5">/{ex.phonetic}/</p>
+                <p className="text-sm sm:text-xs text-ink-faint font-mono mt-1">/{ex.phonetic}/</p>
               </li>
             ))}
           </ul>
@@ -98,19 +96,19 @@ export default function EntryCard({ entry }: { entry: Entry }) {
             text: `${entry.headword} — ${entry.gloss}`,
             url: typeof window !== 'undefined' ? window.location.href : undefined,
           })}
-          className="px-3 py-1.5 text-sm border border-ink/15 rounded-md hover:bg-paper transition-colors"
+          className="px-4 py-2 text-base sm:text-sm border border-ink/15 rounded-md hover:bg-paper transition-colors"
         >
           Share
         </button>
         <button
           onClick={() => setShowSuggest(true)}
-          className="px-3 py-1.5 text-sm border border-ink/15 rounded-md hover:bg-paper transition-colors"
+          className="px-4 py-2 text-base sm:text-sm border border-ink/15 rounded-md hover:bg-paper transition-colors"
         >
           Suggest correction
         </button>
         {entry.review_flags.length > 0 && (
           <span className="ml-auto self-center text-xs text-amber-700 italic">
-            ⚠ Flagged: {entry.review_flags.join(', ')}
+            &#9888; Flagged: {entry.review_flags.join(', ')}
           </span>
         )}
       </footer>
