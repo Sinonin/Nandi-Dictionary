@@ -16,7 +16,8 @@
     "minisearch": "^7.1.0",
     "next": "14.2.15",
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react-dom": "^18.3.1",
+    "sonner": "^2.0.7"
   },
   "devDependencies": {
     "@types/node": "^20.14.10",
