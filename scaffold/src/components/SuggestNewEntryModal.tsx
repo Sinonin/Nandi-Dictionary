@@ -1,37 +1,17 @@
-﻿'use client';
+'use client';
 
 import { useState } from 'react';
 
-const POS_OPTIONS = [
-  { v: 'noun', label: 'noun' },
-  { v: 'verb', label: 'verb' },
-  { v: 'verb_transitive', label: 'verb (transitive)' },
-  { v: 'verb_intransitive', label: 'verb (intransitive)' },
-  { v: 'adjective', label: 'adjective' },
-  { v: 'adverb', label: 'adverb' },
-  { v: 'pronoun', label: 'pronoun' },
-  { v: 'preposition', label: 'preposition' },
-  { v: 'conjunction', label: 'conjunction' },
-  { v: 'interjection', label: 'interjection' },
-  { v: 'other', label: 'other / not sure' },
-];
-
-function slugify(s: string): string {
-  return s.toLowerCase()
-    .replace(/\s+/g, '_')
-    .replace(/-/g, '_')
-    .replace(/[^a-z0-9'_]/g, '')
-    .slice(0, 40);
-}
-
 export default function SuggestNewEntryModal({
-  query, onClose,
-}: { query: string; onClose: () => void }) {
-  const [headword, setHeadword] = useState(query);
-  const [pos, setPos] = useState('noun');
+  initialQuery,
+  onClose,
+}: {
+  initialQuery: string;
+  onClose: () => void;
+}) {
+  const [headword, setHeadword] = useState(initialQuery);
   const [gloss, setGloss] = useState('');
-  const [exNandi, setExNandi] = useState('');
-  const [exEnglish, setExEnglish] = useState('');
+  const [example, setExample] = useState('');
   const [name, setName] = useState('');
   const [status, setStatus] = useState<'idle' | 'sending' | 'sent' | 'error'>('idle');
   const [errMsg, setErrMsg] = useState('');
@@ -40,24 +20,17 @@ export default function SuggestNewEntryModal({
     e.preventDefault();
     setStatus('sending');
     try {
-      const slug = slugify(headword);
-      if (!slug) throw new Error('Headword cannot be empty');
-      const entry_id = 'new_' + slug;
-      const proposed = {
-        headword: headword.trim(),
-        pos,
-        gloss: gloss.trim(),
-        example_nandi: exNandi.trim(),
-        example_english: exEnglish.trim(),
-      };
       const res = await fetch('/api/suggest', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
-          entry_id,
           type: 'new_entry',
-          proposed_value: JSON.stringify(proposed),
-          reporter_name: name,
+          proposed_value: JSON.stringify({
+            headword: headword.trim(),
+            gloss: gloss.trim() || null,
+            example: example.trim() || null,
+          }),
+          reporter_name: name.trim() || null,
         }),
       });
       if (!res.ok) {
@@ -79,80 +52,61 @@ export default function SuggestNewEntryModal({
       aria-modal="true"
     >
       <div
-        className="bg-paper-card w-full max-w-md rounded-xl border border-ink/10 p-5 max-h-[90vh] overflow-y-auto"
+        className="bg-paper-card w-full max-w-md rounded-xl border border-ink/10 p-5"
         onClick={(e) => e.stopPropagation()}
       >
         {status === 'sent' ? (
           <>
-            <h2 className="text-lg font-medium mb-2">Contribution received</h2>
-            <p className="text-sm text-ink-muted mb-2">
-              Your contribution for <strong>{headword}</strong> is welcomed. <em>Kiruogindet araap Cheison and Team</em> review all additions and corrections.
+            <h2 className="text-lg font-medium mb-2">Sent</h2>
+            <p className="text-sm text-ink-muted mb-4">
+              Thank you. <strong className="font-mono">{headword}</strong> has been sent to{' '}
+              <em>Kiruogindet araap Cheison</em> for review.
             </p>
-            <p className="text-xs text-ink-faint mb-4">
-              If accepted, it joins the permanent dictionary in the next update. You will see your name credited if you provided one.
-            </p>
-            <button onClick={onClose} className="px-3 py-1.5 text-sm border border-ink/15 rounded-md">
+            <button
+              onClick={onClose}
+              className="px-3 py-1.5 text-sm border border-ink/15 rounded-md"
+            >
               Close
             </button>
           </>
         ) : (
           <form onSubmit={submit}>
-            <h2 className="text-lg font-medium mb-1">Propose a new entry</h2>
-            <p className="text-xs text-ink-faint mb-4 leading-relaxed">
-              You are contributing a word to the Nandi Digital Dictionary. Please fill in what you know &mdash; only the headword and meaning are required.
+            <h2 className="text-lg font-medium mb-1">Suggest a new entry</h2>
+            <p className="text-xs text-ink-faint mb-4">
+              We don&rsquo;t have this word yet. Help us add it.
             </p>
 
-            <label className="block text-sm mb-1">Headword (the Nandi word)</label>
+            <label className="block text-sm mb-1">Headword (Nandi)</label>
             <input
               value={headword}
               onChange={(e) => setHeadword(e.target.value)}
               required
               autoFocus
-              className="w-full mb-3 px-3 py-2 border border-ink/15 rounded-md text-sm"
+              className="w-full mb-3 px-3 py-2 border border-ink/15 rounded-md text-sm font-mono"
             />
 
-            <label className="block text-sm mb-1">Part of speech</label>
-            <select
-              value={pos}
-              onChange={(e) => setPos(e.target.value)}
-              className="w-full mb-3 px-3 py-2 border border-ink/15 rounded-md bg-paper-card text-sm"
-            >
-              {POS_OPTIONS.map((o) => (
-                <option key={o.v} value={o.v}>{o.label}</option>
-              ))}
-            </select>
-
-            <label className="block text-sm mb-1">Meaning in English</label>
-            <textarea
+            <label className="block text-sm mb-1">Meaning / English gloss (optional)</label>
+            <input
               value={gloss}
               onChange={(e) => setGloss(e.target.value)}
-              required
+              placeholder="e.g. to strain, milk-strainer…"
+              className="w-full mb-3 px-3 py-2 border border-ink/15 rounded-md text-sm"
+            />
+
+            <label className="block text-sm mb-1">Example sentence (optional)</label>
+            <textarea
+              value={example}
+              onChange={(e) => setExample(e.target.value)}
               rows={2}
-              placeholder="What does this word mean?"
+              placeholder="A sentence using the word, if you know one"
               className="w-full mb-3 px-3 py-2 border border-ink/15 rounded-md text-sm"
             />
 
-            <label className="block text-sm mb-1">Example sentence in Nandi (optional)</label>
-            <input
-              value={exNandi}
-              onChange={(e) => setExNandi(e.target.value)}
-              placeholder="A sentence using this word"
-              className="w-full mb-3 px-3 py-2 border border-ink/15 rounded-md text-sm"
-            />
-
-            <label className="block text-sm mb-1">English translation of the example (optional)</label>
-            <input
-              value={exEnglish}
-              onChange={(e) => setExEnglish(e.target.value)}
-              placeholder="What the example sentence means"
-              className="w-full mb-3 px-3 py-2 border border-ink/15 rounded-md text-sm"
-            />
-
-            <label className="block text-sm mb-1">Your name (optional &mdash; for attribution)</label>
+            <label className="block text-sm mb-1">Your name (optional)</label>
             <input
               value={name}
               onChange={(e) => setName(e.target.value)}
-              placeholder="e.g. Elias, Victor, Cherop..."
+              placeholder="e.g. Elias, Victor, Cherop…"
               className="w-full mb-4 px-3 py-2 border border-ink/15 rounded-md text-sm"
             />
 
@@ -161,13 +115,19 @@ export default function SuggestNewEntryModal({
             )}
 
             <div className="flex gap-2 justify-end">
-              <button type="button" onClick={onClose}
-                className="px-3 py-1.5 text-sm border border-ink/15 rounded-md">
+              <button
+                type="button"
+                onClick={onClose}
+                className="px-3 py-1.5 text-sm border border-ink/15 rounded-md"
+              >
                 Cancel
               </button>
-              <button type="submit" disabled={status === 'sending' || !headword.trim() || !gloss.trim()}
-                className="px-4 py-2 text-sm font-medium bg-accent text-white rounded-md disabled:opacity-50">
-                {status === 'sending' ? 'Submitting...' : 'Submit entry'}
+              <button
+                type="submit"
+                disabled={status === 'sending' || !headword.trim()}
+                className="px-3 py-1.5 text-sm bg-accent text-white rounded-md disabled:opacity-50"
+              >
+                {status === 'sending' ? 'Sending…' : 'Send'}
               </button>
             </div>
           </form>
@@ -176,4 +136,3 @@ export default function SuggestNewEntryModal({
     </div>
   );
 }
-
