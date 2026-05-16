@@ -25,13 +25,11 @@ export default function SearchBar() {
     return () => clearTimeout(t);
   }, [q]);
 
-  // Three-stage check for whether to invite a new-entry suggestion:
-  //   1. Length >= 3 — avoid firing on tiny exploratory typing ("ke", "ng")
-  //   2. No EXACT headword match — "kerundut" already exists, don't ask
+  // Three-stage gate for the new-entry suggest invitation:
+  //   1. Length >= 3 — avoid firing on tiny exploratory typing
+  //   2. No EXACT headword match — already exists, don't ask
   //   3. Query is not a PREFIX of any hit — "Surumb" -> "surumbet" is
-  //      autocomplete-style exploration, not a suggestion moment
-  // Fires only when the user has typed something that genuinely isn't in
-  // the corpus AND isn't a typed-so-far prefix of something that is.
+  //      autocomplete, not a suggestion moment
   const queryNorm = debouncedQ.toLowerCase().trim();
   const hasExactMatch = hits.some(
     (h) => h.headword.toLowerCase().trim() === queryNorm
@@ -61,6 +59,17 @@ export default function SearchBar() {
 
     return () => clearTimeout(t);
   }, [shouldAnnounce, debouncedQ]);
+
+  // Auto-close the suggest modal if the search returns to an exact match
+  // (user typed "Tung'wek" -> modal opened -> deleted "k" -> "Tung'we"
+  // now has a hit, so the modal is obsolete and should disappear).
+  // Reset announcedQRef so the same query can re-fire if retyped later.
+  useEffect(() => {
+    if (showSuggest && hasExactMatch) {
+      setShowSuggest(false);
+      announcedQRef.current = '';
+    }
+  }, [showSuggest, hasExactMatch]);
 
   return (
     <div className="relative">
