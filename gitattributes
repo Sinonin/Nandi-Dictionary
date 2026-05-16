@@ -1,0 +1,20 @@
+# Normalize all text to LF in the repo, regardless of OS.
+# Windows checkouts can still appear as CRLF locally if core.autocrlf=true,
+# but the stored blob is always LF — which is what Vercel/Linux expect.
+
+* text=auto eol=lf
+
+# Binary files — never touch these
+*.png   binary
+*.jpg   binary
+*.jpeg  binary
+*.gif   binary
+*.webp  binary
+*.svg   text eol=lf
+*.pdf   binary
+*.ico   binary
+*.woff  binary
+*.woff2 binary
+*.mp3   binary
+*.wav   binary
+*.m4a   binary
