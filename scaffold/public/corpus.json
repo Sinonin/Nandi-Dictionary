@@ -44550,7 +44550,7 @@
   },
   {
     "page": 274,
-    "headword": "surubelidt",
+    "headword": "Surubeliot",
     "pos_raw": "n.",
     "pos": "noun",
     "section_hdr": "surubeliot",
@@ -44559,12 +44559,7 @@
       "surupe:l-ya:"
     ],
     "gloss": "shrewd, cunning person, ke-suruch v",
-    "examples": [
-      {
-        "raw": "to take up with fingertips, kesuruch ingwek to take up vegetables with one's fingers",
-        "phonetic": "ke:-suruc inkw-e:k"
-      }
-    ],
+    "examples": [],
     "review_flags": [],
     "id": "p274_surubelidt_n"
   },
