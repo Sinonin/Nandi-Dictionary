@@ -48,7 +48,7 @@ export async function POST(req: NextRequest) {
   }
 
   const { error } = await supabase.from('suggestions').insert({
-    entry_id: body.type === 'new_entry' ? null : body.entry_id,
+    entry_id: body.entry_id ?? null,
     type: body.type,
     current_value: body.current_value ?? null,
     proposed_value: proposed,
