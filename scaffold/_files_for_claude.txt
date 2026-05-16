@@ -1,0 +1,389 @@
+﻿======================================================================
+FILE: .\src\components\SearchBar.tsx
+======================================================================
+'use client';
+
+import { useState, useEffect, useRef } from 'react';
+import { search, SearchHit } from '@/lib/search';
+import Link from 'next/link';
+import SuggestNewEntryModal from './SuggestNewEntryModal';
+
+export default function SearchBar() {
+  const [q, setQ] = useState('');
+  const [debouncedQ, setDebouncedQ] = useState('');
+  const [hits, setHits] = useState<SearchHit[]>([]);
+  const [showSuggest, setShowSuggest] = useState(false);
+  const inputRef = useRef<HTMLInputElement>(null);
+
+  useEffect(() => {
+    const t = setTimeout(() => {
+      const query = q.trim();
+      setDebouncedQ(query);
+      setHits(query ? search(q, 30) : []);
+    }, 80);
+    return () => clearTimeout(t);
+  }, [q]);
+
+  const noMatches = debouncedQ.length > 0 && hits.length === 0;
+
+  return (
+    <div className="relative">
+      <input
+        ref={inputRef}
+        type="search"
+        autoFocus
+        value={q}
+        onChange={(e) => setQ(e.target.value)}
+        placeholder="Search Nandi or Englishâ€¦"
+        className="w-full px-4 py-3 text-base border border-ink/15 rounded-lg bg-paper-card focus:border-accent transition-colors"
+        aria-label="Dictionary search"
+      />
+
+      {hits.length > 0 && (
+        <>
+          <p className="mt-2 text-xs text-ink-faint">
+            {hits.length} match{hits.length === 1 ? '' : 'es'}
+          </p>
+          <ul className="mt-3 divide-y divide-ink/10 border border-ink/10 rounded-lg bg-paper-card overflow-hidden">
+            {hits.map((h) => (
+              <li key={h.id}>
+                <Link
+                  href={`/entry/${h.id}`}
+                  className="block px-4 py-3 hover:bg-paper transition-colors"
+                >
+                  <div className="flex items-baseline justify-between gap-3">
+                    <span className="font-medium">{h.headword}</span>
+                    <span className="text-xs text-ink-faint italic flex-shrink-0">
+                      {h.pos.replace(/_/g, ' ')}
+                    </span>
+                  </div>
+                  <p className="text-sm text-ink-muted mt-0.5 line-clamp-1">{h.gloss}</p>
+                </Link>
+              </li>
+            ))}
+          </ul>
+        </>
+      )}
+
+      {noMatches && (
+        <div
+          role="alert"
+          className="mt-3 bg-accent/5 border border-accent/30 rounded-lg p-4"
+        >
+          <p className="text-sm mb-3">
+            The word <strong className="font-mono">&ldquo;{debouncedQ}&rdquo;</strong> isn&rsquo;t
+            in the dictionary yet.
+          </p>
+          <button
+            type="button"
+            onClick={() => setShowSuggest(true)}
+            className="text-sm px-3 py-2 bg-accent text-white rounded-md hover:opacity-90 transition-opacity"
+          >
+            Submit a suggestion to Cheison &amp; Team â†’
+          </button>
+        </div>
+      )}
+
+      {showSuggest && (
+        <SuggestNewEntryModal
+          initialQuery={debouncedQ}
+          onClose={() => setShowSuggest(false)}
+        />
+      )}
+    </div>
+  );
+}
+
+
+======================================================================
+FILE: .\src\components\SuggestNewEntryModal.tsx
+======================================================================
+'use client';
+
+import { useState } from 'react';
+
+export default function SuggestNewEntryModal({
+  initialQuery,
+  onClose,
+}: {
+  initialQuery: string;
+  onClose: () => void;
+}) {
+  const [headword, setHeadword] = useState(initialQuery);
+  const [gloss, setGloss] = useState('');
+  const [example, setExample] = useState('');
+  const [name, setName] = useState('');
+  const [status, setStatus] = useState<'idle' | 'sending' | 'sent' | 'error'>('idle');
+  const [errMsg, setErrMsg] = useState('');
+
+  async function submit(e: React.FormEvent) {
+    e.preventDefault();
+    setStatus('sending');
+    try {
+      const res = await fetch('/api/suggest', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          type: 'new_entry',
+          proposed_value: JSON.stringify({
+            headword: headword.trim(),
+            gloss: gloss.trim() || null,
+            example: example.trim() || null,
+          }),
+          reporter_name: name.trim() || null,
+        }),
+      });
+      if (!res.ok) {
+        const j = await res.json().catch(() => ({}));
+        throw new Error(j.error || res.statusText);
+      }
+      setStatus('sent');
+    } catch (err) {
+      setStatus('error');
+      setErrMsg(err instanceof Error ? err.message : 'Unknown error');
+    }
+  }
+
+  return (
+    <div
+      className="fixed inset-0 bg-black/30 z-50 flex items-end sm:items-center justify-center p-3"
+      onClick={onClose}
+      role="dialog"
+      aria-modal="true"
+    >
+      <div
+        className="bg-paper-card w-full max-w-md rounded-xl border border-ink/10 p-5"
+        onClick={(e) => e.stopPropagation()}
+      >
+        {status === 'sent' ? (
+          <>
+            <h2 className="text-lg font-medium mb-2">Sent</h2>
+            <p className="text-sm text-ink-muted mb-4">
+              Thank you. <strong className="font-mono">{headword}</strong> has been sent to{' '}
+              <em>Kiruogindet araap Cheison</em> for review.
+            </p>
+            <button
+              onClick={onClose}
+              className="px-3 py-1.5 text-sm border border-ink/15 rounded-md"
+            >
+              Close
+            </button>
+          </>
+        ) : (
+          <form onSubmit={submit}>
+            <h2 className="text-lg font-medium mb-1">Suggest a new entry</h2>
+            <p className="text-xs text-ink-faint mb-4">
+              We don&rsquo;t have this word yet. Help us add it.
+            </p>
+
+            <label className="block text-sm mb-1">Headword (Nandi)</label>
+            <input
+              value={headword}
+              onChange={(e) => setHeadword(e.target.value)}
+              required
+              autoFocus
+              className="w-full mb-3 px-3 py-2 border border-ink/15 rounded-md text-sm font-mono"
+            />
+
+            <label className="block text-sm mb-1">Meaning / English gloss (optional)</label>
+            <input
+              value={gloss}
+              onChange={(e) => setGloss(e.target.value)}
+              placeholder="e.g. to strain, milk-strainerâ€¦"
+              className="w-full mb-3 px-3 py-2 border border-ink/15 rounded-md text-sm"
+            />
+
+            <label className="block text-sm mb-1">Example sentence (optional)</label>
+            <textarea
+              value={example}
+              onChange={(e) => setExample(e.target.value)}
+              rows={2}
+              placeholder="A sentence using the word, if you know one"
+              className="w-full mb-3 px-3 py-2 border border-ink/15 rounded-md text-sm"
+            />
+
+            <label className="block text-sm mb-1">Your name (optional)</label>
+            <input
+              value={name}
+              onChange={(e) => setName(e.target.value)}
+              placeholder="e.g. Elias, Victor, Cheropâ€¦"
+              className="w-full mb-4 px-3 py-2 border border-ink/15 rounded-md text-sm"
+            />
+
+            {status === 'error' && (
+              <p className="text-sm text-red-700 mb-3">Could not send: {errMsg}</p>
+            )}
+
+            <div className="flex gap-2 justify-end">
+              <button
+                type="button"
+                onClick={onClose}
+                className="px-3 py-1.5 text-sm border border-ink/15 rounded-md"
+              >
+                Cancel
+              </button>
+              <button
+                type="submit"
+                disabled={status === 'sending' || !headword.trim()}
+                className="px-3 py-1.5 text-sm bg-accent text-white rounded-md disabled:opacity-50"
+              >
+                {status === 'sending' ? 'Sendingâ€¦' : 'Send'}
+              </button>
+            </div>
+          </form>
+        )}
+      </div>
+    </div>
+  );
+}
+
+
+======================================================================
+FILE: .\src\app\layout.tsx
+======================================================================
+import './globals.css';
+import type { Metadata, Viewport } from 'next';
+import Link from 'next/link';
+
+export const metadata: Metadata = {
+  title: 'Nandi Dictionary',
+  description: 'A dictionary of the Nandi language â€” closed beta',
+  manifest: '/manifest.json',
+  appleWebApp: { capable: true, title: 'Nandi', statusBarStyle: 'default' },
+};
+
+export const viewport: Viewport = {
+  themeColor: '#7a5b2f',
+  width: 'device-width',
+  initialScale: 1,
+};
+
+export default function RootLayout({ children }: { children: React.ReactNode }) {
+  return (
+    <html lang="en">
+      <body className="min-h-screen flex flex-col">
+        <header className="border-b border-ink/10 bg-paper-card/80 backdrop-blur sticky top-0 z-10">
+          <div className="max-w-3xl mx-auto px-4 py-3 flex items-baseline justify-between">
+            <Link href="/" className="font-medium text-lg tracking-tight">
+              Nandi <span className="text-ink-muted font-normal">Digital Dictionary</span>
+            </Link>
+          </div>
+        </header>
+        <main className="flex-1 max-w-3xl mx-auto w-full px-4 py-4 sm:py-6">{children}</main>
+   <footer className="border-t border-ink/10 mt-6 sm:mt-12">
+          <div className="max-w-3xl mx-auto px-4 py-5 text-center">
+            <p className="text-sm text-ink-muted leading-relaxed">
+              A product of the proud sons and daughters of Nandi,<br className="sm:hidden" />
+              {' '}committed to preserving our rich and enduring heritage through digitisation.
+            </p>
+            <p className="mt-2 text-xs text-ink-faint italic">
+              Cheison &amp; Team Beta Version
+            </p>
+          </div>
+  </footer>
+      </body>
+    </html>
+  );
+}
+
+
+
+
+
+======================================================================
+FILE: .\src\app\page.tsx
+======================================================================
+import SearchBar from '@/components/SearchBar';
+import { entries, byLetter } from '@/lib/corpus';
+import Link from 'next/link';
+
+// Re-render at most once a minute, so the Word of the Day flips over
+// shortly after Africa/Nairobi midnight without a redeploy.
+export const revalidate = 60;
+
+/**
+ * Day-of-year style integer keyed to Africa/Nairobi local date.
+ * Using Intl avoids any UTC drift â€” at 00:00 EAT we get a new key,
+ * regardless of where the server itself thinks it is.
+ */
+function nairobiDayKey(): number {
+  const parts = new Intl.DateTimeFormat('en-CA', {
+    timeZone: 'Africa/Nairobi',
+    year: 'numeric',
+    month: '2-digit',
+    day: '2-digit',
+  }).formatToParts(new Date());
+  const y = parseInt(parts.find((p) => p.type === 'year')!.value, 10);
+  const m = parseInt(parts.find((p) => p.type === 'month')!.value, 10);
+  const d = parseInt(parts.find((p) => p.type === 'day')!.value, 10);
+  // Whole days since the Unix epoch, computed from the Nairobi calendar date.
+  return Math.floor(Date.UTC(y, m - 1, d) / 86_400_000);
+}
+
+// Deterministic word-of-the-day â€” same word for all users on a given Nairobi day.
+function wordOfTheDay() {
+  const seed = nairobiDayKey();
+  const cleanEntries = entries.filter(
+    (e) => e.review_flags.length === 0 && e.examples.length > 0
+  );
+  return cleanEntries[seed % cleanEntries.length];
+}
+
+export default function HomePage() {
+  const wotd = wordOfTheDay();
+  const letters = Object.keys(byLetter).sort();
+  const totalEntries = entries.length;
+  const totalExamples = entries.reduce((n, e) => n + e.examples.length, 0);
+
+  return (
+    <div className="space-y-8">
+      <section>
+        <SearchBar />
+      </section>
+
+      <section>
+        <h2 className="text-xs uppercase tracking-wide text-ink-faint mb-2">Word of the day</h2>
+        <Link
+          href={`/entry/${wotd.id}`}
+          className="block bg-paper-card border border-ink/10 rounded-xl p-5 hover:border-ink/25 transition-colors"
+        >
+          <div className="flex items-baseline justify-between mb-1">
+            <span className="text-xl font-medium">{wotd.headword}</span>
+            <span className="text-xs italic text-ink-faint">{wotd.pos.replace(/_/g, ' ')}</span>
+          </div>
+          <p className="text-sm text-ink-muted">{wotd.gloss}</p>
+          {wotd.examples[0]?.nandi && (
+            <p className="text-sm mt-2 italic text-ink-muted">
+              &ldquo;{wotd.examples[0].nandi}&rdquo; &mdash; {wotd.examples[0].english}
+            </p>
+          )}
+        </Link>
+      </section>
+
+      <section>
+        <h2 className="text-xs uppercase tracking-wide text-ink-faint mb-2">Browse</h2>
+        <div className="flex flex-wrap gap-1">
+          {letters.map((l) => (
+            <Link
+              key={l}
+              href={`/browse/${l}`}
+              className="px-3 py-1.5 text-sm font-mono border border-ink/10 rounded-md hover:bg-paper-card transition-colors"
+            >
+              {l}
+              <span className="ml-1 text-xs text-ink-faint">{byLetter[l].length}</span>
+            </Link>
+          ))}
+        </div>
+      </section>
+
+      <section className="text-xs text-ink-faint border-t border-ink/10 pt-4">
+        <p>
+          {totalEntries.toLocaleString()} entries Â· {totalExamples.toLocaleString()} example sentences
+        </p>
+      </section>
+    </div>
+  );
+}
+
+
+
