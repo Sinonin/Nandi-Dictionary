@@ -25,19 +25,25 @@ export default function SearchBar() {
     return () => clearTimeout(t);
   }, [q]);
 
-  // Trigger the suggest flow on no EXACT headword match — not just zero hits.
-  // The fuzzy search returns partial matches (e.g. "Serseren" -> serserik,
-  // ko-sereran, sero ...) but none IS the user's query, so we should still
-  // offer to suggest. Compare normalised lowercase headwords against the
-  // normalised query, require >=3 chars to avoid firing on short exploratory
-  // typing like "ke" or "ng".
+  // Three-stage check for whether to invite a new-entry suggestion:
+  //   1. Length >= 3 — avoid firing on tiny exploratory typing ("ke", "ng")
+  //   2. No EXACT headword match — "kerundut" already exists, don't ask
+  //   3. Query is not a PREFIX of any hit — "Surumb" -> "surumbet" is
+  //      autocomplete-style exploration, not a suggestion moment
+  // Fires only when the user has typed something that genuinely isn't in
+  // the corpus AND isn't a typed-so-far prefix of something that is.
   const queryNorm = debouncedQ.toLowerCase().trim();
   const hasExactMatch = hits.some(
     (h) => h.headword.toLowerCase().trim() === queryNorm
   );
-  const shouldAnnounce = queryNorm.length >= 3 && !hasExactMatch;
+  const queryIsPrefixOfHit = hits.some((h) => {
+    const hw = h.headword.toLowerCase().trim();
+    return hw.startsWith(queryNorm) && hw.length > queryNorm.length;
+  });
+  const shouldAnnounce =
+    queryNorm.length >= 3 && !hasExactMatch && !queryIsPrefixOfHit;
 
-  // 700ms settle, then toast + auto-open modal. announcedQRef prevents
+  // 700ms settle, then toast + auto-open modal. announcedQRef stops
   // re-firing for the same string on every render.
   useEffect(() => {
     if (!shouldAnnounce) return;
