@@ -1,10 +1,11 @@
-﻿import './globals.css';
+import './globals.css';
 import type { Metadata, Viewport } from 'next';
 import Link from 'next/link';
+import { Toaster } from 'sonner';
 
 export const metadata: Metadata = {
   title: 'Nandi Dictionary',
-  description: 'A dictionary of the Nandi language â€” closed beta',
+  description: 'A dictionary of the Nandi language — closed beta',
   manifest: '/manifest.json',
   appleWebApp: { capable: true, title: 'Nandi', statusBarStyle: 'default' },
 };
@@ -27,7 +28,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           </div>
         </header>
         <main className="flex-1 max-w-3xl mx-auto w-full px-4 py-4 sm:py-6">{children}</main>
-   <footer className="border-t border-ink/10 mt-6 sm:mt-12">
+        <footer className="border-t border-ink/10 mt-6 sm:mt-12">
           <div className="max-w-3xl mx-auto px-4 py-5 text-center">
             <p className="text-sm text-ink-muted leading-relaxed">
               A product of the proud sons and daughters of Nandi,<br className="sm:hidden" />
@@ -37,11 +38,14 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
               Cheison &amp; Team Beta Version
             </p>
           </div>
-  </footer>
+        </footer>
+        <Toaster
+          position="top-center"
+          richColors
+          closeButton
+          duration={6000}
+        />
       </body>
     </html>
   );
 }
-
-
-

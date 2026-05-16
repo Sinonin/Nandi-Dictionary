@@ -1,5 +1,5 @@
 import SearchBar from '@/components/SearchBar';
-import { entries, byLetter } from '@/lib/corpus';
+import { entries } from '@/lib/corpus';
 import Link from 'next/link';
 
 // Re-render at most once a minute, so the Word of the Day flips over
@@ -36,7 +36,6 @@ function wordOfTheDay() {
 
 export default function HomePage() {
   const wotd = wordOfTheDay();
-  const letters = Object.keys(byLetter).sort();
   const totalEntries = entries.length;
   const totalExamples = entries.reduce((n, e) => n + e.examples.length, 0);
 
@@ -47,7 +46,9 @@ export default function HomePage() {
       </section>
 
       <section>
-        <h2 className="text-xs uppercase tracking-wide text-ink-faint mb-2">Word of the day</h2>
+        <h2 className="text-[15px] uppercase tracking-wide text-ink-faint mb-2 font-semibold">
+          Ng&apos;olyotab Kamanuut Rani
+        </h2>
         <Link
           href={`/entry/${wotd.id}`}
           className="block bg-paper-card border border-ink/10 rounded-xl p-5 hover:border-ink/25 transition-colors"
@@ -65,25 +66,9 @@ export default function HomePage() {
         </Link>
       </section>
 
-      <section>
-        <h2 className="text-xs uppercase tracking-wide text-ink-faint mb-2">Browse</h2>
-        <div className="flex flex-wrap gap-1">
-          {letters.map((l) => (
-            <Link
-              key={l}
-              href={`/browse/${l}`}
-              className="px-3 py-1.5 text-sm font-mono border border-ink/10 rounded-md hover:bg-paper-card transition-colors"
-            >
-              {l}
-              <span className="ml-1 text-xs text-ink-faint">{byLetter[l].length}</span>
-            </Link>
-          ))}
-        </div>
-      </section>
-
       <section className="text-xs text-ink-faint border-t border-ink/10 pt-4">
         <p>
-          {totalEntries.toLocaleString()} entries · {totalExamples.toLocaleString()} example sentences
+          {totalEntries.toLocaleString()} words &middot; {totalExamples.toLocaleString()} example sentences
         </p>
       </section>
     </div>

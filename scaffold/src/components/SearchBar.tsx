@@ -1,8 +1,9 @@
 'use client';
 
 import { useState, useEffect, useRef } from 'react';
-import { search, SearchHit } from '@/lib/search';
 import Link from 'next/link';
+import { toast } from 'sonner';
+import { search, SearchHit } from '@/lib/search';
 import SuggestNewEntryModal from './SuggestNewEntryModal';
 
 export default function SearchBar() {
@@ -10,18 +11,42 @@ export default function SearchBar() {
   const [debouncedQ, setDebouncedQ] = useState('');
   const [hits, setHits] = useState<SearchHit[]>([]);
   const [showSuggest, setShowSuggest] = useState(false);
+  const [modalPrefill, setModalPrefill] = useState('');
   const inputRef = useRef<HTMLInputElement>(null);
+  const announcedQRef = useRef('');
 
+  // Snappy debounce for hit display — keeps the search results responsive.
   useEffect(() => {
     const t = setTimeout(() => {
       const query = q.trim();
       setDebouncedQ(query);
-      setHits(query ? search(q, 30) : []);
+      setHits(query ? search(query, 30) : []);
     }, 80);
     return () => clearTimeout(t);
   }, [q]);
 
   const noMatches = debouncedQ.length > 0 && hits.length === 0;
+
+  // Slower debounce (700ms) for the "no match" announcement — fires the
+  // toast and opens the suggest modal once the user has settled on a query
+  // that the corpus doesn't contain. Tracked via announcedQRef so we don't
+  // re-announce or re-open for the same string.
+  useEffect(() => {
+    if (!noMatches) return;
+    if (debouncedQ === announcedQRef.current) return;
+
+    const t = setTimeout(() => {
+      announcedQRef.current = debouncedQ;
+      toast(`The word "${debouncedQ}" does not exist yet.`, {
+        description: 'Please submit a suggestion to Cheison & Team for addition.',
+        duration: 6000,
+      });
+      setModalPrefill(debouncedQ);
+      setShowSuggest(true);
+    }, 700);
+
+    return () => clearTimeout(t);
+  }, [noMatches, debouncedQ]);
 
   return (
     <div className="relative">
@@ -62,28 +87,9 @@ export default function SearchBar() {
         </>
       )}
 
-      {noMatches && (
-        <div
-          role="alert"
-          className="mt-3 bg-accent/5 border border-accent/30 rounded-lg p-4"
-        >
-          <p className="text-sm mb-3">
-            The word <strong className="font-mono">&ldquo;{debouncedQ}&rdquo;</strong> isn&rsquo;t
-            in the dictionary yet.
-          </p>
-          <button
-            type="button"
-            onClick={() => setShowSuggest(true)}
-            className="text-sm px-3 py-2 bg-accent text-white rounded-md hover:opacity-90 transition-opacity"
-          >
-            Submit a suggestion to Cheison &amp; Team →
-          </button>
-        </div>
-      )}
-
       {showSuggest && (
         <SuggestNewEntryModal
-          initialQuery={debouncedQ}
+          initialQuery={modalPrefill}
           onClose={() => setShowSuggest(false)}
         />
       )}
