@@ -15,7 +15,7 @@ export default function SearchBar() {
   const inputRef = useRef<HTMLInputElement>(null);
   const announcedQRef = useRef('');
 
-  // Snappy debounce for hit display — keeps the search results responsive.
+  // Snappy debounce for hit display.
   useEffect(() => {
     const t = setTimeout(() => {
       const query = q.trim();
@@ -25,19 +25,27 @@ export default function SearchBar() {
     return () => clearTimeout(t);
   }, [q]);
 
-  const noMatches = debouncedQ.length > 0 && hits.length === 0;
+  // Trigger the suggest flow on no EXACT headword match — not just zero hits.
+  // The fuzzy search returns partial matches (e.g. "Serseren" -> serserik,
+  // ko-sereran, sero ...) but none IS the user's query, so we should still
+  // offer to suggest. Compare normalised lowercase headwords against the
+  // normalised query, require >=3 chars to avoid firing on short exploratory
+  // typing like "ke" or "ng".
+  const queryNorm = debouncedQ.toLowerCase().trim();
+  const hasExactMatch = hits.some(
+    (h) => h.headword.toLowerCase().trim() === queryNorm
+  );
+  const shouldAnnounce = queryNorm.length >= 3 && !hasExactMatch;
 
-  // Slower debounce (700ms) for the "no match" announcement — fires the
-  // toast and opens the suggest modal once the user has settled on a query
-  // that the corpus doesn't contain. Tracked via announcedQRef so we don't
-  // re-announce or re-open for the same string.
+  // 700ms settle, then toast + auto-open modal. announcedQRef prevents
+  // re-firing for the same string on every render.
   useEffect(() => {
-    if (!noMatches) return;
+    if (!shouldAnnounce) return;
     if (debouncedQ === announcedQRef.current) return;
 
     const t = setTimeout(() => {
       announcedQRef.current = debouncedQ;
-      toast(`The word "${debouncedQ}" does not exist yet.`, {
+      toast(`The word "${debouncedQ}" is not in the dictionary yet.`, {
         description: 'Please submit a suggestion to Cheison & Team for addition.',
         duration: 6000,
       });
@@ -46,7 +54,7 @@ export default function SearchBar() {
     }, 700);
 
     return () => clearTimeout(t);
-  }, [noMatches, debouncedQ]);
+  }, [shouldAnnounce, debouncedQ]);
 
   return (
     <div className="relative">
