@@ -57576,23 +57576,6 @@
   },
   {
     "page": 5,
-    "headword": "kipoiis",
-    "pos_raw": "noun",
-    "pos": "noun",
-    "section_hdr": "ethnography",
-    "phonetic_forms": [],
-    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 5. Section: ethnography.",
-    "gloss": "Kipoiis clan. (totem: jackal & cockroach)",
-    "examples": [],
-    "review_flags": [
-      "from_hollis_1909",
-      "needs_native_speaker_review",
-      "hollis_inline_gloss"
-    ],
-    "id": "hollis_p005_kipoiis_n"
-  },
-  {
-    "page": 5,
     "headword": "leluot",
     "pos_raw": "noun",
     "pos": "noun",
@@ -57607,23 +57590,6 @@
       "hollis_inline_gloss"
     ],
     "id": "hollis_p005_leluot_n"
-  },
-  {
-    "page": 5,
-    "headword": "kipkoiitim",
-    "pos_raw": "noun",
-    "pos": "noun",
-    "section_hdr": "ethnography",
-    "phonetic_forms": [],
-    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 5. Section: ethnography.",
-    "gloss": "Kipkoiitim clan. (totem: elephant & chameleon)",
-    "examples": [],
-    "review_flags": [
-      "from_hollis_1909",
-      "needs_native_speaker_review",
-      "hollis_inline_gloss"
-    ],
-    "id": "hollis_p005_kipkoiitim_n"
   },
   {
     "page": 5,
@@ -57644,40 +57610,6 @@
   },
   {
     "page": 5,
-    "headword": "kipamwi",
-    "pos_raw": "noun",
-    "pos": "noun",
-    "section_hdr": "ethnography",
-    "phonetic_forms": [],
-    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 5. Section: ethnography.",
-    "gloss": "Kipamwi clan. (totem: duiker)",
-    "examples": [],
-    "review_flags": [
-      "from_hollis_1909",
-      "needs_native_speaker_review",
-      "hollis_inline_gloss"
-    ],
-    "id": "hollis_p005_kipamwi_n"
-  },
-  {
-    "page": 5,
-    "headword": "kipkenda",
-    "pos_raw": "noun",
-    "pos": "noun",
-    "section_hdr": "ethnography",
-    "phonetic_forms": [],
-    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 5. Section: ethnography.",
-    "gloss": "Kipkenda clan. (totem: bee & frog)",
-    "examples": [],
-    "review_flags": [
-      "from_hollis_1909",
-      "needs_native_speaker_review",
-      "hollis_inline_gloss"
-    ],
-    "id": "hollis_p005_kipkenda_n"
-  },
-  {
-    "page": 5,
     "headword": "segemyat",
     "pos_raw": "noun",
     "pos": "noun",
@@ -57692,23 +57624,6 @@
       "hollis_inline_gloss"
     ],
     "id": "hollis_p005_segemyat_n"
-  },
-  {
-    "page": 5,
-    "headword": "kipkokos",
-    "pos_raw": "noun",
-    "pos": "noun",
-    "section_hdr": "ethnography",
-    "phonetic_forms": [],
-    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 5. Section: ethnography.",
-    "gloss": "Kipkokos clan. (totem: buzzard)",
-    "examples": [],
-    "review_flags": [
-      "from_hollis_1909",
-      "needs_native_speaker_review",
-      "hollis_inline_gloss"
-    ],
-    "id": "hollis_p005_kipkokos_n"
   },
   {
     "page": 5,
@@ -57729,23 +57644,6 @@
   },
   {
     "page": 5,
-    "headword": "kipiegen",
-    "pos_raw": "noun",
-    "pos": "noun",
-    "section_hdr": "ethnography",
-    "phonetic_forms": [],
-    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 5. Section: ethnography.",
-    "gloss": "Kipiegen clan. (totem: baboon & house rat)",
-    "examples": [],
-    "review_flags": [
-      "from_hollis_1909",
-      "needs_native_speaker_review",
-      "hollis_inline_gloss"
-    ],
-    "id": "hollis_p005_kipiegen_n"
-  },
-  {
-    "page": 5,
     "headword": "muriot",
     "pos_raw": "noun",
     "pos": "noun",
@@ -57760,40 +57658,6 @@
       "hollis_inline_gloss"
     ],
     "id": "hollis_p005_muriot_n"
-  },
-  {
-    "page": 5,
-    "headword": "talai",
-    "pos_raw": "noun",
-    "pos": "noun",
-    "section_hdr": "ethnography",
-    "phonetic_forms": [],
-    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 5. Section: ethnography.",
-    "gloss": "Talai clan. (totem: lion; medicine men)",
-    "examples": [],
-    "review_flags": [
-      "from_hollis_1909",
-      "needs_native_speaker_review",
-      "hollis_inline_gloss"
-    ],
-    "id": "hollis_p005_talai_n"
-  },
-  {
-    "page": 5,
-    "headword": "toiyoi",
-    "pos_raw": "noun",
-    "pos": "noun",
-    "section_hdr": "ethnography",
-    "phonetic_forms": [],
-    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 5. Section: ethnography.",
-    "gloss": "Toiyoi clan. (totem: soldier ant & rain)",
-    "examples": [],
-    "review_flags": [
-      "from_hollis_1909",
-      "needs_native_speaker_review",
-      "hollis_inline_gloss"
-    ],
-    "id": "hollis_p005_toiyoi_n"
   },
   {
     "page": 5,
@@ -57831,40 +57695,6 @@
   },
   {
     "page": 5,
-    "headword": "kipsirgoi",
-    "pos_raw": "noun",
-    "pos": "noun",
-    "section_hdr": "ethnography",
-    "phonetic_forms": [],
-    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 5. Section: ethnography.",
-    "gloss": "Kipsirgoi clan. (totem: bush pig)",
-    "examples": [],
-    "review_flags": [
-      "from_hollis_1909",
-      "needs_native_speaker_review",
-      "hollis_inline_gloss"
-    ],
-    "id": "hollis_p005_kipsirgoi_n"
-  },
-  {
-    "page": 5,
-    "headword": "sokom",
-    "pos_raw": "noun",
-    "pos": "noun",
-    "section_hdr": "ethnography",
-    "phonetic_forms": [],
-    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 5. Section: ethnography.",
-    "gloss": "Sokom clan. (totem: hawk)",
-    "examples": [],
-    "review_flags": [
-      "from_hollis_1909",
-      "needs_native_speaker_review",
-      "hollis_inline_gloss"
-    ],
-    "id": "hollis_p005_sokom_n"
-  },
-  {
-    "page": 5,
     "headword": "chepsiriret",
     "pos_raw": "noun",
     "pos": "noun",
@@ -57879,57 +57709,6 @@
       "hollis_inline_gloss"
     ],
     "id": "hollis_p005_chepsiriret_n"
-  },
-  {
-    "page": 5,
-    "headword": "moi",
-    "pos_raw": "noun",
-    "pos": "noun",
-    "section_hdr": "ethnography",
-    "phonetic_forms": [],
-    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 5. Section: ethnography.",
-    "gloss": "Moi clan. (totem: crested crane & buffalo)",
-    "examples": [],
-    "review_flags": [
-      "from_hollis_1909",
-      "needs_native_speaker_review",
-      "hollis_inline_gloss"
-    ],
-    "id": "hollis_p005_moi_n"
-  },
-  {
-    "page": 5,
-    "headword": "kiptopke",
-    "pos_raw": "noun",
-    "pos": "noun",
-    "section_hdr": "ethnography",
-    "phonetic_forms": [],
-    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 5. Section: ethnography.",
-    "gloss": "Kiptopke clan. (totem: monkey)",
-    "examples": [],
-    "review_flags": [
-      "from_hollis_1909",
-      "needs_native_speaker_review",
-      "hollis_inline_gloss"
-    ],
-    "id": "hollis_p005_kiptopke_n"
-  },
-  {
-    "page": 5,
-    "headword": "kamwaike",
-    "pos_raw": "noun",
-    "pos": "noun",
-    "section_hdr": "ethnography",
-    "phonetic_forms": [],
-    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 5. Section: ethnography.",
-    "gloss": "Kamwaike clan. (totem: partridge)",
-    "examples": [],
-    "review_flags": [
-      "from_hollis_1909",
-      "needs_native_speaker_review",
-      "hollis_inline_gloss"
-    ],
-    "id": "hollis_p005_kamwaike_n"
   },
   {
     "page": 5,
@@ -57950,23 +57729,6 @@
   },
   {
     "page": 5,
-    "headword": "tungo",
-    "pos_raw": "noun",
-    "pos": "noun",
-    "section_hdr": "ethnography",
-    "phonetic_forms": [],
-    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 5. Section: ethnography.",
-    "gloss": "Tungo clan. (totem: hyena)",
-    "examples": [],
-    "review_flags": [
-      "from_hollis_1909",
-      "needs_native_speaker_review",
-      "hollis_inline_gloss"
-    ],
-    "id": "hollis_p005_tungo_n"
-  },
-  {
-    "page": 5,
     "headword": "kimaketyet",
     "pos_raw": "noun",
     "pos": "noun",
@@ -57984,23 +57746,6 @@
   },
   {
     "page": 5,
-    "headword": "kipaa",
-    "pos_raw": "noun",
-    "pos": "noun",
-    "section_hdr": "ethnography",
-    "phonetic_forms": [],
-    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 5. Section: ethnography.",
-    "gloss": "Kipaa clan. (totem: snake & colobus monkey)",
-    "examples": [],
-    "review_flags": [
-      "from_hollis_1909",
-      "needs_native_speaker_review",
-      "hollis_inline_gloss"
-    ],
-    "id": "hollis_p005_kipaa_n"
-  },
-  {
-    "page": 5,
     "headword": "koroiityet",
     "pos_raw": "noun",
     "pos": "noun",
@@ -58015,23 +57760,6 @@
       "hollis_inline_gloss"
     ],
     "id": "hollis_p005_koroiityet_n"
-  },
-  {
-    "page": 5,
-    "headword": "kipasiso",
-    "pos_raw": "noun",
-    "pos": "noun",
-    "section_hdr": "ethnography",
-    "phonetic_forms": [],
-    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 5. Section: ethnography.",
-    "gloss": "Kipasiso clan. (totem: sun & mole)",
-    "examples": [],
-    "review_flags": [
-      "from_hollis_1909",
-      "needs_native_speaker_review",
-      "hollis_inline_gloss"
-    ],
-    "id": "hollis_p005_kipasiso_n"
   },
   {
     "page": 5,
@@ -58068,23 +57796,6 @@
       "hollis_inline_gloss"
     ],
     "id": "hollis_p005_pungungwet_n"
-  },
-  {
-    "page": 5,
-    "headword": "chemur",
-    "pos_raw": "noun",
-    "pos": "noun",
-    "section_hdr": "ethnography",
-    "phonetic_forms": [],
-    "etymology": "A.C. Hollis, 'The Nandi, their language and folk-lore' (Oxford, 1909), p. 5. Section: ethnography.",
-    "gloss": "Chemur clan. (totem: wild cat)",
-    "examples": [],
-    "review_flags": [
-      "from_hollis_1909",
-      "needs_native_speaker_review",
-      "hollis_inline_gloss"
-    ],
-    "id": "hollis_p005_chemur_n"
   },
   {
     "page": 13,
@@ -74515,5 +74226,362 @@
       "ethnobotany"
     ],
     "notes": "Modern botanical id: Euclea divinorum Hiern | English: Diamond-leaved euclea | Family: Ebenaceae | Habit: tree | Parts used: roots, bark | Preparation: decoction (internal), chewing-stick | Notes: Widely used as a toothbrush stick | Source: Jeruto et al. 2010 (Aldai/South Nandi)."
+  },
+  {
+    "page": null,
+    "headword": "Kipkenda",
+    "pos_raw": "n. clan",
+    "pos": "noun",
+    "section_hdr": "clan_system",
+    "phonetic_forms": [],
+    "gloss": "Clan name — the I clan of XVI in the Heritage of the Nandi. Clan of the Bee. Also called Kipkenda Maimi. 3 totems: Segemiat (the black honey bee) — 37 Kapchi; Kap Chepkabureen — 12 Kapchi; KapBusuriek (CheBiriir Kong') — 3 Kapchi. 52 Kapchi lineages total.",
+    "examples": [
+      {
+        "nandi": "Che ngoo imi koba go",
+        "english": "[A saying of the Kipkenda clan]"
+      },
+      {
+        "nandi": "Kaap tangooi Boiyoo ko Meel Eiy (euut)",
+        "english": "[A saying of the Kipkenda clan]"
+      }
+    ],
+    "review_flags": [
+      "from_heritage_2026",
+      "needs_native_speaker_review",
+      "nandi_clan"
+    ],
+    "notes": "Source: Heritage of the Nandi v3.8 (Cheison, MMXXVI).\nRecollections from Pot Tera Chebo Chebaigeei and Chebo Koisamo (daughter of Koitaleel's Maotioot of Kameliilo, Kimuikeei araap Surtan Kwombo Tera).\nClan ordinal: I of XVI.\nClan of: the Bee.\nEpithet: Kipkenda Maimi.\nTotems (3):\n  1. Segemiat (the black honey bee) — 37 Kapchi: KapMatelong · KapCheison · KapLeleito · KapKiliku · KapToorkoi · Mamaet · KapMateitei · KapToroor · KapMelsuwo · KapSile · KapTeechsiroom · KapKogeluk · KapCheptek · KapChemuchuno · KapBurkei · KapTisen · KapKesumbey · KapCherus · KapChemibei · KapChemei · KapNatui · KapTiegoi · KapKitalai · KapTigoi · KapChepkosiel · KapMursoi · KapRanga · Kapsichoi · KapBarkerot · KapChemurmet · KapChepkuchur · KapChesumei · KapMorongo · KapBarturus · KapCheboiywo/KapLaal · Kapkomose · KapChebore\n  2. Kap Chepkabureen — 12 Kapchi: KapMararen · KapSigong' · KapAchoro · KapChemuge · KapCheptile · KapTaptengelei · KapCherige · KapKoisamoo · KapCheleel · KapChepkochiliet · KapSichoi · KapChelaal\n  3. KapBusuriek (CheBiriir Kong') — 3 Kapchi: KapNg'ochoi · KapTiris · KapChepturo\nTotal Kapchi: 52.",
+    "id": "heritage_clan_kipkenda_n"
+  },
+  {
+    "page": null,
+    "headword": "Mooi",
+    "pos_raw": "n. clan",
+    "pos": "noun",
+    "section_hdr": "clan_system",
+    "phonetic_forms": [],
+    "gloss": "Clan name — the II clan of XVI in the Heritage of the Nandi. Clan of the Crested Crane, Warbler, Buffalo, Cheptirgich, and Buzzard. 5 totems: Kong'oony (the crested crane · tenden keliek ama soomei che rutoee · Kaap bar iit(ik)) — 25 Kapchi; Kipkamoor (Warbler · Rarewo) — 10 Kapchi; Soeen (Buffalo · Kap Barta tuga soos(ik)) — 3 Kapchi; Kergeng' (Cheptirgich) — 4 Kapchi; Koogos (Chepkogosiot · Buzzard) — 8 Kapchi. 50 Kapchi lineages total.",
+    "examples": [],
+    "review_flags": [
+      "from_heritage_2026",
+      "needs_native_speaker_review",
+      "nandi_clan"
+    ],
+    "notes": "Source: Heritage of the Nandi v3.8 (Cheison, MMXXVI).\nRecollections from Pot Tera Chebo Chebaigeei and Chebo Koisamo (daughter of Koitaleel's Maotioot of Kameliilo, Kimuikeei araap Surtan Kwombo Tera).\nClan ordinal: II of XVI.\nClan of: the Crested Crane, Warbler, Buffalo, Cheptirgich, and Buzzard.\nTotems (5):\n  1. Kong'oony (the crested crane · tenden keliek ama soomei che rutoee · Kaap bar iit(ik)) — 25 Kapchi: KapChepkimom · KapCherimbor · KapLeitich · KapMong'o · KapSiisei · KapKireisi · KapChepsuge · KapMoogo · KapLesu · KapChiroch · KapNg'ochoi · KapNdalut · KapCherwon · KapChesilonge · KapButia · KapBartiyegi · KapCheptoiya · KapMonge · KapSiirng'ewo · KapSilagon · KapCheboiywo · KapSumunu · KapMarasa · KapKogeluk/Maisz · KapMondi\n  2. Kipkamoor (Warbler · Rarewo) — 10 Kapchi: KapManyei Ingok · KapCharicha · KapYopTerik · KapMakonor · KapChemasak · KapMebur · KapBwambok · KapMursoi · KapTalal · KapChepkoi\n  3. Soeen (Buffalo · Kap Barta tuga soos(ik)) — 3 Kapchi: KapLetangwo (Ngelese) · KapBelio/KapKateto · Kap Kuseleel\n  4. Kergeng' (Cheptirgich) — 4 Kapchi: KapKesees · KapNg'atiip · KapKutei · KapChemwan/KapChemurgor\n  5. Koogos (Chepkogosiot · Buzzard) — 8 Kapchi: KapChemagar · KapArkach · KapSiroon · KapCheliilim · KapMugeen · KapTerengia · KapNamEmeet · KapChepkelat\nTotal Kapchi: 50.",
+    "id": "heritage_clan_mooi_n"
+  },
+  {
+    "page": null,
+    "headword": "Kipsirgooi",
+    "pos_raw": "n. clan",
+    "pos": "noun",
+    "section_hdr": "clan_system",
+    "phonetic_forms": [],
+    "gloss": "Clan name — the III clan of XVI in the Heritage of the Nandi. Clan of the Warthog. Also called Kapiil. Totem: Toreet · Kapiil (the warthog) — 13 Kapchi. 13 Kapchi lineages total.",
+    "examples": [
+      {
+        "nandi": "Palee kuut ak kuutung'",
+        "english": "[A saying of the Kipsirgooi clan]"
+      }
+    ],
+    "review_flags": [
+      "from_heritage_2026",
+      "needs_native_speaker_review",
+      "nandi_clan"
+    ],
+    "notes": "Source: Heritage of the Nandi v3.8 (Cheison, MMXXVI).\nRecollections from Pot Tera Chebo Chebaigeei and Chebo Koisamo (daughter of Koitaleel's Maotioot of Kameliilo, Kimuikeei araap Surtan Kwombo Tera).\nClan ordinal: III of XVI.\nClan of: the Warthog.\nEpithet: Kapiil.\nTotems (1):\n  1. Toreet · Kapiil (the warthog) — 13 Kapchi: KapMutwo (Prof David Serem) · KapLimo/KapNyanyur · KapKesebee · KapMining/Kapkochir · KapLieldaei · KapSamoset · KapMaiywa · KapOgong' · KapKerio · KapChesoen · KapKelong' · KapMoryori · KapChepsiror/KapKaiboi\nTotal Kapchi: 13.",
+    "id": "heritage_clan_kipsirgooi_n"
+  },
+  {
+    "page": null,
+    "headword": "Kipamui",
+    "pos_raw": "n. clan",
+    "pos": "noun",
+    "section_hdr": "clan_system",
+    "phonetic_forms": [],
+    "gloss": "Clan name — the IV clan of XVI in the Heritage of the Nandi. Clan of the Duiker. Also called Kergeng'. Totem: Cheptirkiich (Ptuui Seru · the duiker) — 8 Kapchi. 8 Kapchi lineages total.",
+    "examples": [],
+    "review_flags": [
+      "from_heritage_2026",
+      "needs_native_speaker_review",
+      "nandi_clan"
+    ],
+    "notes": "Source: Heritage of the Nandi v3.8 (Cheison, MMXXVI).\nRecollections from Pot Tera Chebo Chebaigeei and Chebo Koisamo (daughter of Koitaleel's Maotioot of Kameliilo, Kimuikeei araap Surtan Kwombo Tera).\nClan ordinal: IV of XVI.\nClan of: the Duiker.\nEpithet: Kergeng'.\nTotems (1):\n  1. Cheptirkiich (Ptuui Seru · the duiker) — 8 Kapchi: KapKooimur · KapChomu (late Magistrate Chelulei of Songhor, Tindiret) · KapCheligo · KapChemengich · KapChemwan · KapChebung'ung'on · KapNdasim · Kapkaos\nTotal Kapchi: 8.",
+    "id": "heritage_clan_kipamui_n"
+  },
+  {
+    "page": null,
+    "headword": "Sogoom",
+    "pos_raw": "n. clan",
+    "pos": "noun",
+    "section_hdr": "clan_system",
+    "phonetic_forms": [],
+    "gloss": "Clan name — the V clan of XVI in the Heritage of the Nandi. Clan of the Eagle. Totem: Chepsirereet (the eagle) — 18 Kapchi. 18 Kapchi lineages total.",
+    "examples": [
+      {
+        "nandi": "Kaap Yuubei ko rebei",
+        "english": "[A saying of the Sogoom clan]"
+      }
+    ],
+    "review_flags": [
+      "from_heritage_2026",
+      "needs_native_speaker_review",
+      "nandi_clan"
+    ],
+    "notes": "Source: Heritage of the Nandi v3.8 (Cheison, MMXXVI).\nRecollections from Pot Tera Chebo Chebaigeei and Chebo Koisamo (daughter of Koitaleel's Maotioot of Kameliilo, Kimuikeei araap Surtan Kwombo Tera).\nClan ordinal: V of XVI.\nClan of: the Eagle.\nTotems (1):\n  1. Chepsirereet (the eagle) — 18 Kapchi: KapMachichim · KapSigiis · KapTuwai · KapManyinya · KapKirgit Beek · KapChepkieny · KapKiyeng' · KapChesiboi · KapChepkeweel · KapChepyebei · KapChepng'asureet · KapBarkokwet · KapChepKoolbuch · KapKeech · KapKipkalya · Chepkweiyo · KapSorgor/KapSong'ony/KapKesio · KapChepng'otie\nTotal Kapchi: 18.",
+    "id": "heritage_clan_sogoom_n"
+  },
+  {
+    "page": null,
+    "headword": "Kiboiis",
+    "pos_raw": "n. clan",
+    "pos": "noun",
+    "section_hdr": "clan_system",
+    "phonetic_forms": [],
+    "gloss": "Clan name — the VI clan of XVI in the Heritage of the Nandi. Clan of the Jackal and Cockroach. 2 totems: Leel · Lelwoot (Chebo Kipteek · Che kii ba keriinget ageenge eng' Kapula · Tulya · the jackal) — 17 Kapchi; Solop · Solopchoot (Meende Keruus · meel Mugaang' · the cockroach) — 3 Kapchi. 20 Kapchi lineages total.",
+    "examples": [],
+    "review_flags": [
+      "from_heritage_2026",
+      "needs_native_speaker_review",
+      "nandi_clan"
+    ],
+    "notes": "Source: Heritage of the Nandi v3.8 (Cheison, MMXXVI).\nRecollections from Pot Tera Chebo Chebaigeei and Chebo Koisamo (daughter of Koitaleel's Maotioot of Kameliilo, Kimuikeei araap Surtan Kwombo Tera).\nClan ordinal: VI of XVI.\nClan of: the Jackal and Cockroach.\nTotems (2):\n  1. Leel · Lelwoot (Chebo Kipteek · Che kii ba keriinget ageenge eng' Kapula · Tulya · the jackal) — 17 Kapchi: KapRotuuk · KapKiriswo · KapKireger · KapTororei · KapChebwaai · KapKerebei · KapTirei · KapKong'eluk · KapMatwor · KapKirorio · KapChemumbe · KapTamben · KapChepketiange · KapKilele · KapLemeto (KapMorogo) · KapChemigiro/KapChegemei/KapKichwen · KapTongoi\n  2. Solop · Solopchoot (Meende Keruus · meel Mugaang' · the cockroach) — 3 Kapchi: KapCheptembur · KapCheporus · KapChemwoi\nTotal Kapchi: 20.",
+    "id": "heritage_clan_kiboiis_n"
+  },
+  {
+    "page": null,
+    "headword": "Talai",
+    "pos_raw": "n. clan",
+    "pos": "noun",
+    "section_hdr": "clan_system",
+    "phonetic_forms": [],
+    "gloss": "Clan name — the VII clan of XVI in the Heritage of the Nandi. Clan of the Lion, with two divisions distinguishing the male lion and the lioness. 2 totems: Talai Kuutwo — Kombororeet, the male lion (also Samum kuut · Tulee kuut) — 6 Kapchi; Talai Nandi — Cheptiliis, the lioness (also Kip Ma peel ameeo · kogoon) — 13 Kapchi. 19 Kapchi lineages total.",
+    "examples": [
+      {
+        "nandi": "Kileen ko beel ko saita, ko leen koo oo ko mitak",
+        "english": "[A saying of the Talai clan]"
+      }
+    ],
+    "review_flags": [
+      "from_heritage_2026",
+      "needs_native_speaker_review",
+      "nandi_clan"
+    ],
+    "notes": "Source: Heritage of the Nandi v3.8 (Cheison, MMXXVI).\nRecollections from Pot Tera Chebo Chebaigeei and Chebo Koisamo (daughter of Koitaleel's Maotioot of Kameliilo, Kimuikeei araap Surtan Kwombo Tera).\nClan ordinal: VII of XVI.\nClan of: the Lion.\nThe two divisions distinguish the male lion (Talai Kuutwo · Kombororeet) from the lioness (Talai Nandi · Cheptiliis).\nTotems (2):\n  1. Talai Kuutwo (Samum kuut · Tulee kuut · Kombororeet) — 6 Kapchi: KapTurugat · Kapsogoon · Kap Mararsoi · KapSanet · KapChesang · KapBaroswa (Orkooi belong here)\n  2. Talai Nandi (Kip Ma peel ameeo · Cheptiliis · kogoon) — 13 Kapchi: KapKoiya · KapChesaniak · KapMugunya · KapBureeti (Kap Hamisi) · KapChepsionguut · KapMurkoor · KapMursoi · KapChebotani · KapYaagan/KapKirutich · KapMelek · KapBarkurie · KapChemwok · KapRandich\nTotal Kapchi: 19.",
+    "id": "heritage_clan_talai_n"
+  },
+  {
+    "page": null,
+    "headword": "Kipoongoi",
+    "pos_raw": "n. clan",
+    "pos": "noun",
+    "section_hdr": "clan_system",
+    "phonetic_forms": [],
+    "gloss": "Clan name — the VIII clan of XVI in the Heritage of the Nandi. Clan of the Partridge. Totem: Taiyweet (Francolin or Partridge bird) — 7 Kapchi. 7 Kapchi lineages total.",
+    "examples": [
+      {
+        "nandi": "Che bo temel tich asi kong'eet kerotet",
+        "english": "[A saying of the Kipoongoi clan]"
+      },
+      {
+        "nandi": "Che kwees tibiik eng' kutus (kutiit) ako toloos eng' kupees",
+        "english": "[A saying of the Kipoongoi clan]"
+      }
+    ],
+    "review_flags": [
+      "from_heritage_2026",
+      "needs_native_speaker_review",
+      "nandi_clan"
+    ],
+    "notes": "Source: Heritage of the Nandi v3.8 (Cheison, MMXXVI).\nRecollections from Pot Tera Chebo Chebaigeei and Chebo Koisamo (daughter of Koitaleel's Maotioot of Kameliilo, Kimuikeei araap Surtan Kwombo Tera).\nClan ordinal: VIII of XVI.\nClan of: the Partridge.\nTotems (1):\n  1. Taiyweet (Francolin or Partridge bird) — 7 Kapchi: KapChepchogoon (Kipchoge Keino) · KapMorong' · KapSilgiich · KapChombeer · KapChomangei · KapKipkeen · Kaptechoor\nTotal Kapchi: 7.",
+    "id": "heritage_clan_kipoongoi_n"
+  },
+  {
+    "page": null,
+    "headword": "Kibiegen",
+    "pos_raw": "n. clan",
+    "pos": "noun",
+    "section_hdr": "clan_system",
+    "phonetic_forms": [],
+    "gloss": "Clan name — the IX clan of XVI in the Heritage of the Nandi. Clan of the Baboon and House Rat. 2 totems: Mosoon (Baboon) — 15 Kapchi; Mur · Muriaat (House rat) — no Kapchi recorded (community gap). 15 Kapchi lineages total.",
+    "examples": [
+      {
+        "nandi": "Kip wal eey katamwa",
+        "english": "[A saying of the Kibiegen clan]"
+      },
+      {
+        "nandi": "Kap rat seetyo let",
+        "english": "[A saying of the Kibiegen clan]"
+      },
+      {
+        "nandi": "ma soome kiti moto · ma pirei kwa heri · ne ma teechei karuchoo",
+        "english": "[A saying of the Kibiegen clan]"
+      }
+    ],
+    "review_flags": [
+      "from_heritage_2026",
+      "needs_native_speaker_review",
+      "nandi_clan",
+      "kapchi_gap_for_community"
+    ],
+    "notes": "Source: Heritage of the Nandi v3.8 (Cheison, MMXXVI).\nRecollections from Pot Tera Chebo Chebaigeei and Chebo Koisamo (daughter of Koitaleel's Maotioot of Kameliilo, Kimuikeei araap Surtan Kwombo Tera).\nClan ordinal: IX of XVI.\nClan of: the Baboon and House Rat.\nTotems (2):\n  1. Mosoon (Baboon) — 15 Kapchi: KapMaraba · KapChemut · KapSato · KapNg'ota · KapChelong'onyet · KapBartuiyoot · KapKuurgooi · KapChomben/KaapMunene · Kapchebutuk · KapChepchik · KapMekengen · KapChemut · KapRipto · KapChepchosot/Kapsutek/KapBoit · KapMing'eny\n  2. Mur · Muriaat (House rat) — 0 Kapchi: (no Kapchi recorded — community gap)\nTotal Kapchi: 15.",
+    "id": "heritage_clan_kibiegen_n"
+  },
+  {
+    "page": null,
+    "headword": "Kiptabkei",
+    "pos_raw": "n. clan",
+    "pos": "noun",
+    "section_hdr": "clan_system",
+    "phonetic_forms": [],
+    "gloss": "Clan name — the X clan of XVI in the Heritage of the Nandi. Clan of the Monkey. Totem: Cherereet — 12 Kapchi. 12 Kapchi lineages total.",
+    "examples": [
+      {
+        "nandi": "Ingeelel che kee ngelelunee tulwoonimbo Koony ako nyaliil oor ko bendii",
+        "english": "[A saying of the Kiptabkei clan]"
+      }
+    ],
+    "review_flags": [
+      "from_heritage_2026",
+      "needs_native_speaker_review",
+      "nandi_clan"
+    ],
+    "notes": "Source: Heritage of the Nandi v3.8 (Cheison, MMXXVI).\nRecollections from Pot Tera Chebo Chebaigeei and Chebo Koisamo (daughter of Koitaleel's Maotioot of Kameliilo, Kimuikeei araap Surtan Kwombo Tera).\nClan ordinal: X of XVI.\nClan of: the Monkey.\nTotems (1):\n  1. Cherereet — 12 Kapchi: KapChoongei · KapChemurungu · KapMutoor · KapBuiguut · KapChorchoor · KapGoin · KapCheptui · Kapsereri · KapChaat/KapKimungen · KapKisoryo/KapBoen · KapChelogos · KapTomno/KapTabkei\nTotal Kapchi: 12.",
+    "id": "heritage_clan_kiptabkei_n"
+  },
+  {
+    "page": null,
+    "headword": "Kipaa",
+    "pos_raw": "n. clan",
+    "pos": "noun",
+    "section_hdr": "clan_system",
+    "phonetic_forms": [],
+    "gloss": "Clan name — the XI clan of XVI in the Heritage of the Nandi. Clan of the Snake and Gray Monkey. 2 totems: Ndaara (Snake · Kipaa Koros · Kaap takeei kou ingat ta unda ko'ek che(go) · Mumutkeei · Kooi tim · Kaap takeei kouu ingat ta teender ko ng'weeng') — 5 Kapchi; Tisiet (Gray Monkey · Tuui Seru) — 3 Kapchi. 8 Kapchi lineages total.",
+    "examples": [],
+    "review_flags": [
+      "from_heritage_2026",
+      "needs_native_speaker_review",
+      "nandi_clan"
+    ],
+    "notes": "Source: Heritage of the Nandi v3.8 (Cheison, MMXXVI).\nRecollections from Pot Tera Chebo Chebaigeei and Chebo Koisamo (daughter of Koitaleel's Maotioot of Kameliilo, Kimuikeei araap Surtan Kwombo Tera).\nClan ordinal: XI of XVI.\nClan of: the Snake and Gray Monkey.\nTotems (2):\n  1. Ndaara (Snake · Kipaa Koros · Kaap takeei kou ingat ta unda ko'ek che(go) · Mumutkeei · Kooi tim · Kaap takeei kouu ingat ta teender ko ng'weeng') — 5 Kapchi: KapKeeskeny · KapCheptooch · KapKorongorek · KapKimosop/KapChebuson · KapLiilan\n  2. Tisiet (Gray Monkey · Tuui Seru) — 3 Kapchi: KapNyaliil (Late Elphas Kimuge of Ndulele Farm, Nandi Hills) · KapBuusia · KapKirui\nTotal Kapchi: 8.",
+    "id": "heritage_clan_kipaa_n"
+  },
+  {
+    "page": null,
+    "headword": "Kipasiiso",
+    "pos_raw": "n. clan",
+    "pos": "noun",
+    "section_hdr": "clan_system",
+    "phonetic_forms": [],
+    "gloss": "Clan name — the XII clan of XVI in the Heritage of the Nandi. Clan of the Sun. Totem: Asiista (the Sun) — 10 Kapchi. 10 Kapchi lineages total.",
+    "examples": [
+      {
+        "nandi": "Kaap Koluu · Tulungen kot keeu",
+        "english": "[A saying of the Kipasiiso clan]"
+      },
+      {
+        "nandi": "Kaap tulungen ko yaam tutukiin",
+        "english": "[A saying of the Kipasiiso clan]"
+      }
+    ],
+    "review_flags": [
+      "from_heritage_2026",
+      "needs_native_speaker_review",
+      "nandi_clan"
+    ],
+    "notes": "Source: Heritage of the Nandi v3.8 (Cheison, MMXXVI).\nRecollections from Pot Tera Chebo Chebaigeei and Chebo Koisamo (daughter of Koitaleel's Maotioot of Kameliilo, Kimuikeei araap Surtan Kwombo Tera).\nClan ordinal: XII of XVI.\nClan of: the Sun.\nTotems (1):\n  1. Asiista (the Sun) — 10 Kapchi: KapChepkicho · KapChuulai · KapSiilei · KapChobong · KapKoisir/KapCherwandet · KapChemjor · KapTangwar · KapObto · KapCheptirgich · Kapsirma/Kapchelelmet\nTotal Kapchi: 10.",
+    "id": "heritage_clan_kipasiiso_n"
+  },
+  {
+    "page": null,
+    "headword": "Kuchwa",
+    "pos_raw": "n. clan",
+    "pos": "noun",
+    "section_hdr": "clan_system",
+    "phonetic_forms": [],
+    "gloss": "Clan name — the XIII clan of XVI in the Heritage of the Nandi. Clan of the Frog. Totem: Mororooch (Frog · muguul kupees akobo kasakoop mursi) — 8 Kapchi. 8 Kapchi lineages total.",
+    "examples": [
+      {
+        "nandi": "Ma ram koong' ram toliil",
+        "english": "[A saying of the Kuchwa clan]"
+      },
+      {
+        "nandi": "Kap Mii Bei · Kuur bei",
+        "english": "[A saying of the Kuchwa clan]"
+      }
+    ],
+    "review_flags": [
+      "from_heritage_2026",
+      "needs_native_speaker_review",
+      "nandi_clan"
+    ],
+    "notes": "Source: Heritage of the Nandi v3.8 (Cheison, MMXXVI).\nRecollections from Pot Tera Chebo Chebaigeei and Chebo Koisamo (daughter of Koitaleel's Maotioot of Kameliilo, Kimuikeei araap Surtan Kwombo Tera).\nClan ordinal: XIII of XVI.\nClan of: the Frog.\nTotems (1):\n  1. Mororooch (Frog · muguul kupees akobo kasakoop mursi) — 8 Kapchi: KapKungurei (the Late Bishop Muge) · KapBusees · KapCheeben · Kaprende · KapChepkilot · KapTalagut · KapCherus · KapTuwei\nTotal Kapchi: 8.",
+    "id": "heritage_clan_kuchwa_n"
+  },
+  {
+    "page": null,
+    "headword": "Kap'o'iit",
+    "pos_raw": "n. clan",
+    "pos": "noun",
+    "section_hdr": "clan_system",
+    "phonetic_forms": [],
+    "gloss": "Clan name — the XIV clan of XVI in the Heritage of the Nandi. Clan of the Elephant, Chameleon, and Hare. Also called Kipkooi Tim. 3 totems: Belioot (Elephant · Ki ram keel ko'e mooi (moeek) · Kapoongen) — 13 Kapchi; Nyiritiet (Chameleon) — no Kapchi recorded (community gap); Kipleng'kwa (Hare · Kap wariir ko loo ko mii Namuche) — no Kapchi recorded (community gap). 13 Kapchi lineages total.",
+    "examples": [],
+    "review_flags": [
+      "from_heritage_2026",
+      "needs_native_speaker_review",
+      "nandi_clan",
+      "kapchi_gap_for_community"
+    ],
+    "notes": "Source: Heritage of the Nandi v3.8 (Cheison, MMXXVI).\nRecollections from Pot Tera Chebo Chebaigeei and Chebo Koisamo (daughter of Koitaleel's Maotioot of Kameliilo, Kimuikeei araap Surtan Kwombo Tera).\nClan ordinal: XIV of XVI.\nClan of: the Elephant, Chameleon, and Hare.\nEpithet: Kipkooi Tim.\nTotems (3):\n  1. Belioot (Elephant · Ki ram keel ko'e mooi (moeek) · Kapoongen) — 13 Kapchi: KapChemogos · KapChepsuto · KapRibai/Kapomboni · KapMilkicha (Dr. Kimaiyo of MTRH) · KapChebwaachar · KapSagaas · Kamwaal · Kapkebenon · KapMaasas · Kamwal Kapkotei/KapChebitok · KapRobeen · KapChesing'ang'a · KapTirop\n  2. Nyiritiet (Chameleon) — 0 Kapchi: (no Kapchi recorded — community gap)\n  3. Kipleng'kwa (Hare · Kap wariir ko loo ko mii Namuche) — 0 Kapchi: (no Kapchi recorded — community gap)\nTotal Kapchi: 13.",
+    "id": "heritage_clan_kap_o_iit_n"
+  },
+  {
+    "page": null,
+    "headword": "Toiyooi",
+    "pos_raw": "n. clan",
+    "pos": "noun",
+    "section_hdr": "clan_system",
+    "phonetic_forms": [],
+    "gloss": "Clan name — the XV clan of XVI in the Heritage of the Nandi. Clan of the Rain and Safari Ants. 2 totems: Moriso · Roopta (Rain) — 15 Kapchi; Bireechik (Safari Ants (Dorylus sp.)) — 6 Kapchi. 21 Kapchi lineages total.",
+    "examples": [
+      {
+        "nandi": "mumul kooi · Kipksoore che ka mumulta tuga kween",
+        "english": "[A saying of the Toiyooi clan]"
+      }
+    ],
+    "review_flags": [
+      "from_heritage_2026",
+      "needs_native_speaker_review",
+      "nandi_clan"
+    ],
+    "notes": "Source: Heritage of the Nandi v3.8 (Cheison, MMXXVI).\nRecollections from Pot Tera Chebo Chebaigeei and Chebo Koisamo (daughter of Koitaleel's Maotioot of Kameliilo, Kimuikeei araap Surtan Kwombo Tera).\nClan ordinal: XV of XVI.\nClan of: the Rain and Safari Ants.\nTotems (2):\n  1. Moriso · Roopta (Rain) — 15 Kapchi: KapChepkener (Hon Kosgey) · KapNo (Hon Sambu) · KapKese · KapTapendo · KapChepchoge · KapCheubei · KapCheramuk · KapKelem · KapChepyego · KapCharinden · KapBoit · KapMagatai · KapKemei · KapRigari · KapKukoi\n  2. Bireechik (Safari Ants (Dorylus sp.)) — 6 Kapchi: KapBwaibei · KapCheramuk · KapKelem · KapToriet · KapCherumbas · KapMungulu/KapKetui\nTotal Kapchi: 21.",
+    "id": "heritage_clan_toiyooi_n"
+  },
+  {
+    "page": null,
+    "headword": "Tungo",
+    "pos_raw": "n. clan",
+    "pos": "noun",
+    "section_hdr": "clan_system",
+    "phonetic_forms": [],
+    "gloss": "Clan name — the XVI clan of XVI in the Heritage of the Nandi. Clan of the Hyena. Also called Kimageetiet. Totem: Kimagetiet (Hyena) — 8 Kapchi. 8 Kapchi lineages total.",
+    "examples": [
+      {
+        "nandi": "Tungo Koo rap oor · Kipeetu",
+        "english": "[A saying of the Tungo clan]"
+      },
+      {
+        "nandi": "Koo rap oor ne wendii rariwo · Ma suut sot · suut kowo",
+        "english": "[A saying of the Tungo clan]"
+      }
+    ],
+    "review_flags": [
+      "from_heritage_2026",
+      "needs_native_speaker_review",
+      "nandi_clan"
+    ],
+    "notes": "Source: Heritage of the Nandi v3.8 (Cheison, MMXXVI).\nRecollections from Pot Tera Chebo Chebaigeei and Chebo Koisamo (daughter of Koitaleel's Maotioot of Kameliilo, Kimuikeei araap Surtan Kwombo Tera).\nClan ordinal: XVI of XVI.\nClan of: the Hyena.\nEpithet: Kimageetiet.\nTotems (1):\n  1. Kimagetiet (Hyena) — 8 Kapchi: KapChemageet · KapNaaiyo · KapKonyakwe · KapButia · KapChalan · Kapkigatei · Kapsigirai · KapCheputieny\nTotal Kapchi: 8.",
+    "id": "heritage_clan_tungo_n"
   }
 ]
